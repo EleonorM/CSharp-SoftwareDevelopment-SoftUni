@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced 23 June 2019\SpaceStationRecruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced 23 June 2019\SpaceStationRecruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced 23 June 2019\SpaceStationRecruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced 23 June 2019\SpaceStationRecruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced 23 June 2019\SpaceStationRecruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced 23 June 2019\SpaceStationRecruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced 23 June 2019\SpaceStationRecruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced 23 June 2019\SpaceStationRecruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced 23 June 2019\SpaceStationRecruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced 23 June 2019\SpaceStationRecruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced 23 June 2019\SpaceStationRecruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.pdb

@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\TechModule\101 Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp2.1\06. Courses.deps.json
+C:\Elie\SoftUni\Live\TechModule\101 Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp2.1\06. Courses.runtimeconfig.json
+C:\Elie\SoftUni\Live\TechModule\101 Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp2.1\06. Courses.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\TechModule\101 Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp2.1\06. Courses.dll
+C:\Elie\SoftUni\Live\TechModule\101 Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp2.1\06. Courses.pdb
+C:\Elie\SoftUni\Live\TechModule\101 Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp2.1\06. Courses.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\TechModule\101 Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp2.1\06. Courses.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\TechModule\101 Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp2.1\06. Courses.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\TechModule\101 Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp2.1\06. Courses.dll
+C:\Elie\SoftUni\Live\TechModule\101 Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp2.1\06. Courses.pdb
+C:\Elie\SoftUni\Live\TechModule\101 Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp2.1\06. Courses.csprojAssemblyReference.cache

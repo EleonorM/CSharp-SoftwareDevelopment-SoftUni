@@ -1,0 +1,10 @@
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\05. Login\bin\Debug\netcoreapp2.1\05. Login.deps.json
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\05. Login\bin\Debug\netcoreapp2.1\05. Login.runtimeconfig.json
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\05. Login\bin\Debug\netcoreapp2.1\05. Login.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\05. Login\bin\Debug\netcoreapp2.1\05. Login.dll
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\05. Login\bin\Debug\netcoreapp2.1\05. Login.pdb
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\05. Login\obj\Debug\netcoreapp2.1\05. Login.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\05. Login\obj\Debug\netcoreapp2.1\05. Login.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\05. Login\obj\Debug\netcoreapp2.1\05. Login.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\05. Login\obj\Debug\netcoreapp2.1\05. Login.dll
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\05. Login\obj\Debug\netcoreapp2.1\05. Login.pdb

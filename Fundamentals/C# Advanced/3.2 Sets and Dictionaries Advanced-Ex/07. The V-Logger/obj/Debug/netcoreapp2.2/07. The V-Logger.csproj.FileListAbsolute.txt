@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\07. The V-Logger\bin\Debug\netcoreapp2.2\07. The V-Logger.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\07. The V-Logger\bin\Debug\netcoreapp2.2\07. The V-Logger.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\07. The V-Logger\bin\Debug\netcoreapp2.2\07. The V-Logger.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\07. The V-Logger\bin\Debug\netcoreapp2.2\07. The V-Logger.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\07. The V-Logger\bin\Debug\netcoreapp2.2\07. The V-Logger.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\07. The V-Logger\obj\Debug\netcoreapp2.2\07. The V-Logger.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\07. The V-Logger\obj\Debug\netcoreapp2.2\07. The V-Logger.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\07. The V-Logger\obj\Debug\netcoreapp2.2\07. The V-Logger.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\07. The V-Logger\obj\Debug\netcoreapp2.2\07. The V-Logger.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\07. The V-Logger\obj\Debug\netcoreapp2.2\07. The V-Logger.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\07. The V-Logger\obj\Debug\netcoreapp2.2\07. The V-Logger.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\3. Recursive Drawing\bin\Debug\_3.Recursive_Drawing.exe.config
+C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\3. Recursive Drawing\bin\Debug\_3.Recursive_Drawing.exe
+C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\3. Recursive Drawing\bin\Debug\_3.Recursive_Drawing.pdb
+C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\3. Recursive Drawing\obj\Debug\3. Recursive Drawing.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\3. Recursive Drawing\obj\Debug\3. Recursive Drawing.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\3. Recursive Drawing\obj\Debug\_3.Recursive_Drawing.exe
+C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\3. Recursive Drawing\obj\Debug\_3.Recursive_Drawing.pdb

@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.2 Generics - Exercises\02.GenericBoxofInteger\bin\Debug\netcoreapp2.2\02.GenericBoxofInteger.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.2 Generics - Exercises\02.GenericBoxofInteger\bin\Debug\netcoreapp2.2\02.GenericBoxofInteger.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.2 Generics - Exercises\02.GenericBoxofInteger\bin\Debug\netcoreapp2.2\02.GenericBoxofInteger.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.2 Generics - Exercises\02.GenericBoxofInteger\bin\Debug\netcoreapp2.2\02.GenericBoxofInteger.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.2 Generics - Exercises\02.GenericBoxofInteger\bin\Debug\netcoreapp2.2\02.GenericBoxofInteger.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.2 Generics - Exercises\02.GenericBoxofInteger\obj\Debug\netcoreapp2.2\02.GenericBoxofInteger.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.2 Generics - Exercises\02.GenericBoxofInteger\obj\Debug\netcoreapp2.2\02.GenericBoxofInteger.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.2 Generics - Exercises\02.GenericBoxofInteger\obj\Debug\netcoreapp2.2\02.GenericBoxofInteger.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.2 Generics - Exercises\02.GenericBoxofInteger\obj\Debug\netcoreapp2.2\02.GenericBoxofInteger.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.2 Generics - Exercises\02.GenericBoxofInteger\obj\Debug\netcoreapp2.2\02.GenericBoxofInteger.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.2 Generics - Exercises\02.GenericBoxofInteger\obj\Debug\netcoreapp2.2\02.GenericBoxofInteger.pdb

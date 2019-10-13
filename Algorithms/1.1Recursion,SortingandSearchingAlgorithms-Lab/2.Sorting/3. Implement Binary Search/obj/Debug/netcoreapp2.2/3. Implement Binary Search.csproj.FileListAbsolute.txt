@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\3. Implement Binary Search\bin\Debug\netcoreapp2.2\3. Implement Binary Search.deps.json
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\3. Implement Binary Search\bin\Debug\netcoreapp2.2\3. Implement Binary Search.runtimeconfig.json
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\3. Implement Binary Search\bin\Debug\netcoreapp2.2\3. Implement Binary Search.runtimeconfig.dev.json
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\3. Implement Binary Search\bin\Debug\netcoreapp2.2\3. Implement Binary Search.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\3. Implement Binary Search\bin\Debug\netcoreapp2.2\3. Implement Binary Search.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\3. Implement Binary Search\obj\Debug\netcoreapp2.2\3. Implement Binary Search.csprojAssemblyReference.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\3. Implement Binary Search\obj\Debug\netcoreapp2.2\3. Implement Binary Search.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\3. Implement Binary Search\obj\Debug\netcoreapp2.2\3. Implement Binary Search.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\3. Implement Binary Search\obj\Debug\netcoreapp2.2\3. Implement Binary Search.AssemblyInfo.cs
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\3. Implement Binary Search\obj\Debug\netcoreapp2.2\3. Implement Binary Search.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\3. Implement Binary Search\obj\Debug\netcoreapp2.2\3. Implement Binary Search.pdb

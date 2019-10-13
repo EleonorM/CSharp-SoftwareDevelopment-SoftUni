@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\01.RootNode\bin\Debug\01.RootNode.exe.config
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\01.RootNode\bin\Debug\01.RootNode.exe
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\01.RootNode\bin\Debug\01.RootNode.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\01.RootNode\obj\Debug\01.RootNode.csprojAssemblyReference.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\01.RootNode\obj\Debug\01.RootNode.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\01.RootNode\obj\Debug\01.RootNode.exe
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\01.RootNode\obj\Debug\01.RootNode.pdb

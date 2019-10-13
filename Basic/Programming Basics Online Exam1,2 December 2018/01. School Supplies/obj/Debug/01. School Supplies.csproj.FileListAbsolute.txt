@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\01. School Supplies\bin\Debug\_01.School_Supplies.exe.config
+C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\01. School Supplies\bin\Debug\_01.School_Supplies.exe
+C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\01. School Supplies\bin\Debug\_01.School_Supplies.pdb
+C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\01. School Supplies\obj\Debug\01. School Supplies.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\01. School Supplies\obj\Debug\01. School Supplies.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\01. School Supplies\obj\Debug\_01.School_Supplies.exe
+C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\01. School Supplies\obj\Debug\_01.School_Supplies.pdb

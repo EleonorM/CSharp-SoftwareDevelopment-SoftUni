@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\02.PrintTree\bin\Debug\02.PrintTree.exe.config
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\02.PrintTree\bin\Debug\02.PrintTree.exe
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\02.PrintTree\bin\Debug\02.PrintTree.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\02.PrintTree\obj\Debug\02.PrintTree.csprojAssemblyReference.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\02.PrintTree\obj\Debug\02.PrintTree.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\02.PrintTree\obj\Debug\02.PrintTree.exe
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\02.PrintTree\obj\Debug\02.PrintTree.pdb

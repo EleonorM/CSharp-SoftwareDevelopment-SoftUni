@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\Basic\6.1For-Loop - Lab\07. Odd Even Sum\bin\Debug\_07.Odd_Even_Sum.exe.config
+C:\Elie\SoftUni\Live\Basic\6.1For-Loop - Lab\07. Odd Even Sum\bin\Debug\_07.Odd_Even_Sum.exe
+C:\Elie\SoftUni\Live\Basic\6.1For-Loop - Lab\07. Odd Even Sum\bin\Debug\_07.Odd_Even_Sum.pdb
+C:\Elie\SoftUni\Live\Basic\6.1For-Loop - Lab\07. Odd Even Sum\obj\Debug\07. Odd Even Sum.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\6.1For-Loop - Lab\07. Odd Even Sum\obj\Debug\_07.Odd_Even_Sum.exe
+C:\Elie\SoftUni\Live\Basic\6.1For-Loop - Lab\07. Odd Even Sum\obj\Debug\_07.Odd_Even_Sum.pdb

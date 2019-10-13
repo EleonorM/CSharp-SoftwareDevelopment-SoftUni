@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\04._Team\bin\Debug\netcoreapp2.1\04._Team.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\04._Team\bin\Debug\netcoreapp2.1\04._Team.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\04._Team\bin\Debug\netcoreapp2.1\04._Team.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\04._Team\bin\Debug\netcoreapp2.1\04._Team.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\04._Team\bin\Debug\netcoreapp2.1\04._Team.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\04._Team\obj\Debug\netcoreapp2.1\04._Team.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\04._Team\obj\Debug\netcoreapp2.1\04._Team.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\04._Team\obj\Debug\netcoreapp2.1\04._Team.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\04._Team\obj\Debug\netcoreapp2.1\04._Team.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\04._Team\obj\Debug\netcoreapp2.1\04._Team.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\04._Team\obj\Debug\netcoreapp2.1\04._Team.pdb

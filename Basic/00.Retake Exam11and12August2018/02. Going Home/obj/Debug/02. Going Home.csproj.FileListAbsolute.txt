@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\02. Going Home\bin\Debug\_02.Going_Home.exe.config
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\02. Going Home\bin\Debug\_02.Going_Home.exe
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\02. Going Home\bin\Debug\_02.Going_Home.pdb
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\02. Going Home\obj\Debug\02. Going Home.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\02. Going Home\obj\Debug\02. Going Home.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\02. Going Home\obj\Debug\_02.Going_Home.exe
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\02. Going Home\obj\Debug\_02.Going_Home.pdb

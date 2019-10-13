@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\09RadianstoDegrees\bin\Debug\09RadianstoDegrees.exe.config
+C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\09RadianstoDegrees\bin\Debug\09RadianstoDegrees.exe
+C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\09RadianstoDegrees\bin\Debug\09RadianstoDegrees.pdb
+C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\09RadianstoDegrees\obj\Debug\09RadianstoDegrees.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\09RadianstoDegrees\obj\Debug\09RadianstoDegrees.exe
+C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\09RadianstoDegrees\obj\Debug\09RadianstoDegrees.pdb

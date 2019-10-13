@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.1Recursion,SortingandSearchingAlgorithms-Lab\1. Recursion\07. Paths in Labyrinth\obj\Debug\netcoreapp2.2\07. Paths in Labyrinth.csprojAssemblyReference.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.1Recursion,SortingandSearchingAlgorithms-Lab\1. Recursion\07. Paths in Labyrinth\obj\Debug\netcoreapp2.2\07. Paths in Labyrinth.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.1Recursion,SortingandSearchingAlgorithms-Lab\1. Recursion\07. Paths in Labyrinth\obj\Debug\netcoreapp2.2\07. Paths in Labyrinth.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.1Recursion,SortingandSearchingAlgorithms-Lab\1. Recursion\07. Paths in Labyrinth\obj\Debug\netcoreapp2.2\07. Paths in Labyrinth.AssemblyInfo.cs
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.1Recursion,SortingandSearchingAlgorithms-Lab\1. Recursion\07. Paths in Labyrinth\bin\Debug\netcoreapp2.2\07. Paths in Labyrinth.deps.json
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.1Recursion,SortingandSearchingAlgorithms-Lab\1. Recursion\07. Paths in Labyrinth\bin\Debug\netcoreapp2.2\07. Paths in Labyrinth.runtimeconfig.json
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.1Recursion,SortingandSearchingAlgorithms-Lab\1. Recursion\07. Paths in Labyrinth\bin\Debug\netcoreapp2.2\07. Paths in Labyrinth.runtimeconfig.dev.json
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.1Recursion,SortingandSearchingAlgorithms-Lab\1. Recursion\07. Paths in Labyrinth\bin\Debug\netcoreapp2.2\07. Paths in Labyrinth.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.1Recursion,SortingandSearchingAlgorithms-Lab\1. Recursion\07. Paths in Labyrinth\bin\Debug\netcoreapp2.2\07. Paths in Labyrinth.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.1Recursion,SortingandSearchingAlgorithms-Lab\1. Recursion\07. Paths in Labyrinth\obj\Debug\netcoreapp2.2\07. Paths in Labyrinth.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.1Recursion,SortingandSearchingAlgorithms-Lab\1. Recursion\07. Paths in Labyrinth\obj\Debug\netcoreapp2.2\07. Paths in Labyrinth.pdb

@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\04. Bachelor Party\bin\Debug\_04.Bachelor_Party.exe.config
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\04. Bachelor Party\bin\Debug\_04.Bachelor_Party.exe
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\04. Bachelor Party\bin\Debug\_04.Bachelor_Party.pdb
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\04. Bachelor Party\obj\Debug\04. Bachelor Party.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\04. Bachelor Party\obj\Debug\_04.Bachelor_Party.exe
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\04. Bachelor Party\obj\Debug\_04.Bachelor_Party.pdb

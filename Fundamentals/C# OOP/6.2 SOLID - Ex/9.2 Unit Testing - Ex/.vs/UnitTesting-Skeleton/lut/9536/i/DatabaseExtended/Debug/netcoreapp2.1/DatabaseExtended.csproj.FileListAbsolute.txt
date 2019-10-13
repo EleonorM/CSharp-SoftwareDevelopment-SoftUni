@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\.vs\UnitTesting-Skeleton\lut\0\b\DatabaseExtended\Debug\netcoreapp2.1\DatabaseExtended.deps.json
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\.vs\UnitTesting-Skeleton\lut\0\b\DatabaseExtended\Debug\netcoreapp2.1\DatabaseExtended.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\.vs\UnitTesting-Skeleton\lut\0\i\DatabaseExtended\Debug\netcoreapp2.1\DatabaseExtended.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\.vs\UnitTesting-Skeleton\lut\0\i\DatabaseExtended\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\.vs\UnitTesting-Skeleton\lut\0\i\DatabaseExtended\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfo.cs
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\.vs\UnitTesting-Skeleton\lut\0\i\DatabaseExtended\Debug\netcoreapp2.1\DatabaseExtended.csproj.CopyComplete
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\.vs\UnitTesting-Skeleton\lut\0\i\DatabaseExtended\Debug\netcoreapp2.1\DatabaseExtended.dll

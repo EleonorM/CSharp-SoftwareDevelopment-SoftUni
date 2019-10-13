@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\2. Recursive Factorial\bin\Debug\_2.Recursive_Factorial.exe.config
+C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\2. Recursive Factorial\bin\Debug\_2.Recursive_Factorial.exe
+C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\2. Recursive Factorial\bin\Debug\_2.Recursive_Factorial.pdb
+C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\2. Recursive Factorial\obj\Debug\2. Recursive Factorial.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\2. Recursive Factorial\obj\Debug\_2.Recursive_Factorial.exe
+C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\2. Recursive Factorial\obj\Debug\_2.Recursive_Factorial.pdb

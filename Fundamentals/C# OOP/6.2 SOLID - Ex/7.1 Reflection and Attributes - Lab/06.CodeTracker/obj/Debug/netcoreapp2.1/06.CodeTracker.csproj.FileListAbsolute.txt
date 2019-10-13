@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\7.1 Reflection and Attributes - Lab\06.CodeTracker\obj\Debug\netcoreapp2.1\06.CodeTracker.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\7.1 Reflection and Attributes - Lab\06.CodeTracker\obj\Debug\netcoreapp2.1\06.CodeTracker.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\7.1 Reflection and Attributes - Lab\06.CodeTracker\obj\Debug\netcoreapp2.1\06.CodeTracker.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\7.1 Reflection and Attributes - Lab\06.CodeTracker\obj\Debug\netcoreapp2.1\06.CodeTracker.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\7.1 Reflection and Attributes - Lab\06.CodeTracker\bin\Debug\netcoreapp2.1\06.CodeTracker.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\7.1 Reflection and Attributes - Lab\06.CodeTracker\bin\Debug\netcoreapp2.1\06.CodeTracker.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\7.1 Reflection and Attributes - Lab\06.CodeTracker\bin\Debug\netcoreapp2.1\06.CodeTracker.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\7.1 Reflection and Attributes - Lab\06.CodeTracker\bin\Debug\netcoreapp2.1\06.CodeTracker.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\7.1 Reflection and Attributes - Lab\06.CodeTracker\bin\Debug\netcoreapp2.1\06.CodeTracker.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\7.1 Reflection and Attributes - Lab\06.CodeTracker\obj\Debug\netcoreapp2.1\06.CodeTracker.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\7.1 Reflection and Attributes - Lab\06.CodeTracker\obj\Debug\netcoreapp2.1\06.CodeTracker.pdb

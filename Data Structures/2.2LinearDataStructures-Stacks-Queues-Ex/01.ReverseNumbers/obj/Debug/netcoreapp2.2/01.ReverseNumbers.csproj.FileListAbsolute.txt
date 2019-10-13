@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.2LinearDataStructures-Stacks-Queues-Ex\01.ReverseNumbers\bin\Debug\netcoreapp2.2\01.ReverseNumbers.deps.json
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.2LinearDataStructures-Stacks-Queues-Ex\01.ReverseNumbers\bin\Debug\netcoreapp2.2\01.ReverseNumbers.runtimeconfig.json
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.2LinearDataStructures-Stacks-Queues-Ex\01.ReverseNumbers\bin\Debug\netcoreapp2.2\01.ReverseNumbers.runtimeconfig.dev.json
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.2LinearDataStructures-Stacks-Queues-Ex\01.ReverseNumbers\bin\Debug\netcoreapp2.2\01.ReverseNumbers.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.2LinearDataStructures-Stacks-Queues-Ex\01.ReverseNumbers\bin\Debug\netcoreapp2.2\01.ReverseNumbers.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.2LinearDataStructures-Stacks-Queues-Ex\01.ReverseNumbers\obj\Debug\netcoreapp2.2\01.ReverseNumbers.csprojAssemblyReference.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.2LinearDataStructures-Stacks-Queues-Ex\01.ReverseNumbers\obj\Debug\netcoreapp2.2\01.ReverseNumbers.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.2LinearDataStructures-Stacks-Queues-Ex\01.ReverseNumbers\obj\Debug\netcoreapp2.2\01.ReverseNumbers.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.2LinearDataStructures-Stacks-Queues-Ex\01.ReverseNumbers\obj\Debug\netcoreapp2.2\01.ReverseNumbers.AssemblyInfo.cs
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.2LinearDataStructures-Stacks-Queues-Ex\01.ReverseNumbers\obj\Debug\netcoreapp2.2\01.ReverseNumbers.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.2LinearDataStructures-Stacks-Queues-Ex\01.ReverseNumbers\obj\Debug\netcoreapp2.2\01.ReverseNumbers.pdb

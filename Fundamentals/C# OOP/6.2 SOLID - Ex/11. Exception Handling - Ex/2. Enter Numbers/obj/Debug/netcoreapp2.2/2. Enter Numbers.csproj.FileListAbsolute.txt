@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\12. Exception Handling - Ex\2. Enter Numbers\bin\Debug\netcoreapp2.2\2. Enter Numbers.deps.json
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\12. Exception Handling - Ex\2. Enter Numbers\bin\Debug\netcoreapp2.2\2. Enter Numbers.runtimeconfig.json
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\12. Exception Handling - Ex\2. Enter Numbers\bin\Debug\netcoreapp2.2\2. Enter Numbers.runtimeconfig.dev.json
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\12. Exception Handling - Ex\2. Enter Numbers\bin\Debug\netcoreapp2.2\2. Enter Numbers.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\12. Exception Handling - Ex\2. Enter Numbers\bin\Debug\netcoreapp2.2\2. Enter Numbers.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\12. Exception Handling - Ex\2. Enter Numbers\obj\Debug\netcoreapp2.2\2. Enter Numbers.csprojAssemblyReference.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\12. Exception Handling - Ex\2. Enter Numbers\obj\Debug\netcoreapp2.2\2. Enter Numbers.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\12. Exception Handling - Ex\2. Enter Numbers\obj\Debug\netcoreapp2.2\2. Enter Numbers.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\12. Exception Handling - Ex\2. Enter Numbers\obj\Debug\netcoreapp2.2\2. Enter Numbers.AssemblyInfo.cs
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\12. Exception Handling - Ex\2. Enter Numbers\obj\Debug\netcoreapp2.2\2. Enter Numbers.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\12. Exception Handling - Ex\2. Enter Numbers\obj\Debug\netcoreapp2.2\2. Enter Numbers.pdb

@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\01. Point on Rectangle Border\bin\Debug\_01.Point_on_Rectangle_Border.exe.config
+C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\01. Point on Rectangle Border\bin\Debug\_01.Point_on_Rectangle_Border.exe
+C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\01. Point on Rectangle Border\bin\Debug\_01.Point_on_Rectangle_Border.pdb
+C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\01. Point on Rectangle Border\obj\Debug\01. Point on Rectangle Border.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\01. Point on Rectangle Border\obj\Debug\01. Point on Rectangle Border.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\01. Point on Rectangle Border\obj\Debug\_01.Point_on_Rectangle_Border.exe
+C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\01. Point on Rectangle Border\obj\Debug\_01.Point_on_Rectangle_Border.pdb

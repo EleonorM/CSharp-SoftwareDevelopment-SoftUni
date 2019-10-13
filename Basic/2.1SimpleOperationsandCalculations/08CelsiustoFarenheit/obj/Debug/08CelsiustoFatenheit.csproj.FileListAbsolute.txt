@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\08CelsiustoFatenheit\bin\Debug\08CelsiustoFatenheit.exe.config
+C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\08CelsiustoFatenheit\bin\Debug\08CelsiustoFatenheit.exe
+C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\08CelsiustoFatenheit\bin\Debug\08CelsiustoFatenheit.pdb
+C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\08CelsiustoFatenheit\obj\Debug\08CelsiustoFatenheit.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\08CelsiustoFatenheit\obj\Debug\08CelsiustoFatenheit.exe
+C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\08CelsiustoFatenheit\obj\Debug\08CelsiustoFatenheit.pdb

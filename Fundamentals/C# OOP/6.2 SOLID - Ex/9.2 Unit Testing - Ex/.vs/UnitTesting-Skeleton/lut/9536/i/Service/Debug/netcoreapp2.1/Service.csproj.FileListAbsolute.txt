@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\.vs\UnitTesting-Skeleton\lut\0\b\Service\Debug\netcoreapp2.1\Service.deps.json
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\.vs\UnitTesting-Skeleton\lut\0\b\Service\Debug\netcoreapp2.1\Service.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\.vs\UnitTesting-Skeleton\lut\0\i\Service\Debug\netcoreapp2.1\Service.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\.vs\UnitTesting-Skeleton\lut\0\i\Service\Debug\netcoreapp2.1\Service.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\.vs\UnitTesting-Skeleton\lut\0\i\Service\Debug\netcoreapp2.1\Service.AssemblyInfo.cs
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\.vs\UnitTesting-Skeleton\lut\0\i\Service\Debug\netcoreapp2.1\Service.csproj.CopyComplete
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\.vs\UnitTesting-Skeleton\lut\0\i\Service\Debug\netcoreapp2.1\Service.dll

@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\(Demo) CAdvanced Exam - 16 June 2019\01.TheGarden\bin\Debug\netcoreapp2.2\01.TheGarden.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\(Demo) CAdvanced Exam - 16 June 2019\01.TheGarden\bin\Debug\netcoreapp2.2\01.TheGarden.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\(Demo) CAdvanced Exam - 16 June 2019\01.TheGarden\bin\Debug\netcoreapp2.2\01.TheGarden.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\(Demo) CAdvanced Exam - 16 June 2019\01.TheGarden\bin\Debug\netcoreapp2.2\01.TheGarden.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\(Demo) CAdvanced Exam - 16 June 2019\01.TheGarden\bin\Debug\netcoreapp2.2\01.TheGarden.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\(Demo) CAdvanced Exam - 16 June 2019\01.TheGarden\obj\Debug\netcoreapp2.2\01.TheGarden.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\(Demo) CAdvanced Exam - 16 June 2019\01.TheGarden\obj\Debug\netcoreapp2.2\01.TheGarden.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\(Demo) CAdvanced Exam - 16 June 2019\01.TheGarden\obj\Debug\netcoreapp2.2\01.TheGarden.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\(Demo) CAdvanced Exam - 16 June 2019\01.TheGarden\obj\Debug\netcoreapp2.2\01.TheGarden.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\(Demo) CAdvanced Exam - 16 June 2019\01.TheGarden\obj\Debug\netcoreapp2.2\01.TheGarden.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\(Demo) CAdvanced Exam - 16 June 2019\01.TheGarden\obj\Debug\netcoreapp2.2\01.TheGarden.csprojAssemblyReference.cache

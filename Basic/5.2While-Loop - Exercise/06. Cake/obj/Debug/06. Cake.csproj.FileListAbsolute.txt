@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\06. Cake\bin\Debug\_06.Cake.exe.config
+C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\06. Cake\bin\Debug\_06.Cake.exe
+C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\06. Cake\bin\Debug\_06.Cake.pdb
+C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\06. Cake\obj\Debug\06. Cake.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\06. Cake\obj\Debug\_06.Cake.exe
+C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\06. Cake\obj\Debug\_06.Cake.pdb

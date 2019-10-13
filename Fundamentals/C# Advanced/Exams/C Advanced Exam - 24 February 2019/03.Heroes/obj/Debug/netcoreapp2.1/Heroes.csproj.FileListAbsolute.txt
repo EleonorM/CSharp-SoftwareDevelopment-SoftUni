@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced Exam - 24 February 2019\03.Heroes\bin\Debug\netcoreapp2.1\Heroes.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced Exam - 24 February 2019\03.Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced Exam - 24 February 2019\03.Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced Exam - 24 February 2019\03.Heroes\bin\Debug\netcoreapp2.1\Heroes.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced Exam - 24 February 2019\03.Heroes\bin\Debug\netcoreapp2.1\Heroes.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced Exam - 24 February 2019\03.Heroes\obj\Debug\netcoreapp2.1\Heroes.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced Exam - 24 February 2019\03.Heroes\obj\Debug\netcoreapp2.1\Heroes.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced Exam - 24 February 2019\03.Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced Exam - 24 February 2019\03.Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced Exam - 24 February 2019\03.Heroes\obj\Debug\netcoreapp2.1\Heroes.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced Exam - 24 February 2019\03.Heroes\obj\Debug\netcoreapp2.1\Heroes.pdb

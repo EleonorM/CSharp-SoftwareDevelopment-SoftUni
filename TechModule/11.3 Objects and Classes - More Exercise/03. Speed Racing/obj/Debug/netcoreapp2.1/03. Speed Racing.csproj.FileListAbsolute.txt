@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\netcoreapp2.1\03. Speed Racing.deps.json
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\netcoreapp2.1\03. Speed Racing.runtimeconfig.json
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\netcoreapp2.1\03. Speed Racing.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\netcoreapp2.1\03. Speed Racing.dll
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\netcoreapp2.1\03. Speed Racing.pdb
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\netcoreapp2.1\03. Speed Racing.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\netcoreapp2.1\03. Speed Racing.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\netcoreapp2.1\03. Speed Racing.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\netcoreapp2.1\03. Speed Racing.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\netcoreapp2.1\03. Speed Racing.dll
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\netcoreapp2.1\03. Speed Racing.pdb

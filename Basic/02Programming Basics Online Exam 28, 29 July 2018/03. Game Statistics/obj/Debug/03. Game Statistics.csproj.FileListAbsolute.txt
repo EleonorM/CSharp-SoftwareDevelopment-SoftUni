@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\03. Game Statistics\bin\Debug\_03.Game_Statistics.exe.config
+C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\03. Game Statistics\bin\Debug\_03.Game_Statistics.exe
+C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\03. Game Statistics\bin\Debug\_03.Game_Statistics.pdb
+C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\03. Game Statistics\obj\Debug\03. Game Statistics.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\03. Game Statistics\obj\Debug\_03.Game_Statistics.exe
+C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\03. Game Statistics\obj\Debug\_03.Game_Statistics.pdb

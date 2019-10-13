@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.2LinearDataStructures-Stacks-Queues-Ex\05.LinkedQueue\bin\Debug\05.LinkedQueue.exe.config
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.2LinearDataStructures-Stacks-Queues-Ex\05.LinkedQueue\bin\Debug\05.LinkedQueue.exe
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.2LinearDataStructures-Stacks-Queues-Ex\05.LinkedQueue\bin\Debug\05.LinkedQueue.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.2LinearDataStructures-Stacks-Queues-Ex\05.LinkedQueue\obj\Debug\05.LinkedQueue.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.2LinearDataStructures-Stacks-Queues-Ex\05.LinkedQueue\obj\Debug\05.LinkedQueue.exe
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.2LinearDataStructures-Stacks-Queues-Ex\05.LinkedQueue\obj\Debug\05.LinkedQueue.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.2LinearDataStructures-Stacks-Queues-Ex\05.LinkedQueue\obj\Debug\05.LinkedQueue.csprojAssemblyReference.cache

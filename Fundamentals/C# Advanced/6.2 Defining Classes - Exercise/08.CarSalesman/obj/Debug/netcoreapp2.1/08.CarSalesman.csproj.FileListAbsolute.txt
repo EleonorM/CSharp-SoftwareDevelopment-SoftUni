@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\08.CarSalesman\bin\Debug\netcoreapp2.1\08.CarSalesman.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\08.CarSalesman\bin\Debug\netcoreapp2.1\08.CarSalesman.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\08.CarSalesman\bin\Debug\netcoreapp2.1\08.CarSalesman.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\08.CarSalesman\bin\Debug\netcoreapp2.1\08.CarSalesman.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\08.CarSalesman\bin\Debug\netcoreapp2.1\08.CarSalesman.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\08.CarSalesman\obj\Debug\netcoreapp2.1\08.CarSalesman.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\08.CarSalesman\obj\Debug\netcoreapp2.1\08.CarSalesman.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\08.CarSalesman\obj\Debug\netcoreapp2.1\08.CarSalesman.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\08.CarSalesman\obj\Debug\netcoreapp2.1\08.CarSalesman.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\08.CarSalesman\obj\Debug\netcoreapp2.1\08.CarSalesman.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\08.CarSalesman\obj\Debug\netcoreapp2.1\08.CarSalesman.pdb

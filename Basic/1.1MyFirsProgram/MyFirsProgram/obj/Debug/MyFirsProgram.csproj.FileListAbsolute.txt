@@ -1,0 +1,7 @@
+C:\Users\eleon\source\repos\MyFirsProgram\MyFirsProgram\bin\Debug\MyFirsProgram.exe.config
+C:\Users\eleon\source\repos\MyFirsProgram\MyFirsProgram\bin\Debug\MyFirsProgram.exe
+C:\Users\eleon\source\repos\MyFirsProgram\MyFirsProgram\bin\Debug\MyFirsProgram.pdb
+C:\Users\eleon\source\repos\MyFirsProgram\MyFirsProgram\obj\Debug\MyFirsProgram.csprojAssemblyReference.cache
+C:\Users\eleon\source\repos\MyFirsProgram\MyFirsProgram\obj\Debug\MyFirsProgram.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\MyFirsProgram\MyFirsProgram\obj\Debug\MyFirsProgram.exe
+C:\Users\eleon\source\repos\MyFirsProgram\MyFirsProgram\obj\Debug\MyFirsProgram.pdb

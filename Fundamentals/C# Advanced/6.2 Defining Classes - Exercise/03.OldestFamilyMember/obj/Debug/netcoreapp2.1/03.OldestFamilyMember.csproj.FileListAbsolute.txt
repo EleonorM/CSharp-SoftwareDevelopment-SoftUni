@@ -1,0 +1,10 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp2.1\03.OldestFamilyMember.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp2.1\03.OldestFamilyMember.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp2.1\03.OldestFamilyMember.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp2.1\03.OldestFamilyMember.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp2.1\03.OldestFamilyMember.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.1\03.OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.1\03.OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.1\03.OldestFamilyMember.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.1\03.OldestFamilyMember.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.1\03.OldestFamilyMember.pdb

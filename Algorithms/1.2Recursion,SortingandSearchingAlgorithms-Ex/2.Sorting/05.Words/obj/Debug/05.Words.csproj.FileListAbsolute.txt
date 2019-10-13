@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\05.Words\bin\Debug\05.Words.exe.config
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\05.Words\bin\Debug\05.Words.exe
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\05.Words\bin\Debug\05.Words.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\05.Words\obj\Debug\05.Words.csprojAssemblyReference.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\05.Words\obj\Debug\05.Words.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\05.Words\obj\Debug\05.Words.exe
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\05.Words\obj\Debug\05.Words.pdb

@@ -1,0 +1,10 @@
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\03. Vacation\bin\Debug\netcoreapp2.1\03. Vacation.deps.json
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\03. Vacation\bin\Debug\netcoreapp2.1\03. Vacation.runtimeconfig.json
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\03. Vacation\bin\Debug\netcoreapp2.1\03. Vacation.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\03. Vacation\bin\Debug\netcoreapp2.1\03. Vacation.dll
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\03. Vacation\bin\Debug\netcoreapp2.1\03. Vacation.pdb
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\03. Vacation\obj\Debug\netcoreapp2.1\03. Vacation.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\03. Vacation\obj\Debug\netcoreapp2.1\03. Vacation.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\03. Vacation\obj\Debug\netcoreapp2.1\03. Vacation.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\03. Vacation\obj\Debug\netcoreapp2.1\03. Vacation.dll
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\03. Vacation\obj\Debug\netcoreapp2.1\03. Vacation.pdb

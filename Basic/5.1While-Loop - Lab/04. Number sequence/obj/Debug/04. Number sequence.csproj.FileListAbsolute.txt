@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\04. Number sequence\bin\Debug\_04.Number_sequence.exe.config
+C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\04. Number sequence\bin\Debug\_04.Number_sequence.exe
+C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\04. Number sequence\bin\Debug\_04.Number_sequence.pdb
+C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\04. Number sequence\obj\Debug\04. Number sequence.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\04. Number sequence\obj\Debug\04. Number sequence.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\04. Number sequence\obj\Debug\_04.Number_sequence.exe
+C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\04. Number sequence\obj\Debug\_04.Number_sequence.pdb

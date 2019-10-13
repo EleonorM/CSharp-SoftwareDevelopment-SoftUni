@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\1.2 Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\netcoreapp2.2\08. Balanced Parenthesis.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\1.2 Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\netcoreapp2.2\08. Balanced Parenthesis.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\1.2 Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\netcoreapp2.2\08. Balanced Parenthesis.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\1.2 Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\netcoreapp2.2\08. Balanced Parenthesis.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\1.2 Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\netcoreapp2.2\08. Balanced Parenthesis.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\1.2 Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\netcoreapp2.2\08. Balanced Parenthesis.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\1.2 Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\netcoreapp2.2\08. Balanced Parenthesis.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\1.2 Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\netcoreapp2.2\08. Balanced Parenthesis.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\1.2 Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\netcoreapp2.2\08. Balanced Parenthesis.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\1.2 Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\netcoreapp2.2\08. Balanced Parenthesis.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\1.2 Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\netcoreapp2.2\08. Balanced Parenthesis.pdb

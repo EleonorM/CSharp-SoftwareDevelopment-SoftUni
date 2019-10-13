@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\01.Sorting\bin\Debug\netcoreapp2.2\01.Sorting.deps.json
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\01.Sorting\bin\Debug\netcoreapp2.2\01.Sorting.runtimeconfig.json
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\01.Sorting\bin\Debug\netcoreapp2.2\01.Sorting.runtimeconfig.dev.json
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\01.Sorting\bin\Debug\netcoreapp2.2\01.Sorting.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\01.Sorting\bin\Debug\netcoreapp2.2\01.Sorting.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\01.Sorting\obj\Debug\netcoreapp2.2\01.Sorting.csprojAssemblyReference.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\01.Sorting\obj\Debug\netcoreapp2.2\01.Sorting.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\01.Sorting\obj\Debug\netcoreapp2.2\01.Sorting.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\01.Sorting\obj\Debug\netcoreapp2.2\01.Sorting.AssemblyInfo.cs
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\01.Sorting\obj\Debug\netcoreapp2.2\01.Sorting.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\01.Sorting\obj\Debug\netcoreapp2.2\01.Sorting.pdb

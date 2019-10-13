@@ -1,0 +1,17 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\Exams\OOP Retake Exam -18April2019\UnitTesting\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\Exams\OOP Retake Exam -18April2019\UnitTesting\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\Exams\OOP Retake Exam -18April2019\UnitTesting\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\Exams\OOP Retake Exam -18April2019\UnitTesting\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.Tests.deps.json
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\Exams\OOP Retake Exam -18April2019\UnitTesting\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.Tests.runtimeconfig.json
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\Exams\OOP Retake Exam -18April2019\UnitTesting\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.Tests.runtimeconfig.dev.json
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\Exams\OOP Retake Exam -18April2019\UnitTesting\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.Tests.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\Exams\OOP Retake Exam -18April2019\UnitTesting\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.Tests.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\Exams\OOP Retake Exam -18April2019\UnitTesting\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\Exams\OOP Retake Exam -18April2019\UnitTesting\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\Exams\OOP Retake Exam -18April2019\UnitTesting\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.csprojAssemblyReference.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\Exams\OOP Retake Exam -18April2019\UnitTesting\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\Exams\OOP Retake Exam -18April2019\UnitTesting\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\Exams\OOP Retake Exam -18April2019\UnitTesting\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.AssemblyInfo.cs
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\Exams\OOP Retake Exam -18April2019\UnitTesting\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.csproj.CopyComplete
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\Exams\OOP Retake Exam -18April2019\UnitTesting\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\Exams\OOP Retake Exam -18April2019\UnitTesting\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.pdb

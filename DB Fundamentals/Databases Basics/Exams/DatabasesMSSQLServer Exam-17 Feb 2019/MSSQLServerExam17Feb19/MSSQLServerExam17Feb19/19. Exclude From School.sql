@@ -1,0 +1,7 @@
+CREATE PROC usp_ExcludeFromSchool(@StudentId INT)
+AS
+BEGIN TRANSACTION
+	IF((SELECT Id FROM Students WHERE Id = @StudentId) 0)
+COMMIT
+
+SELECT Id FROM Students WHERE Id = 10000

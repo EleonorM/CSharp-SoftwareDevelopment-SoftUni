@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\TechModule\102 Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\netcoreapp2.1\05. Dragon Army.deps.json
+C:\Elie\SoftUni\Live\TechModule\102 Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\netcoreapp2.1\05. Dragon Army.runtimeconfig.json
+C:\Elie\SoftUni\Live\TechModule\102 Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\netcoreapp2.1\05. Dragon Army.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\TechModule\102 Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\netcoreapp2.1\05. Dragon Army.dll
+C:\Elie\SoftUni\Live\TechModule\102 Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\netcoreapp2.1\05. Dragon Army.pdb
+C:\Elie\SoftUni\Live\TechModule\102 Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\netcoreapp2.1\05. Dragon Army.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\TechModule\102 Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\netcoreapp2.1\05. Dragon Army.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\TechModule\102 Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\netcoreapp2.1\05. Dragon Army.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\TechModule\102 Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\netcoreapp2.1\05. Dragon Army.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\TechModule\102 Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\netcoreapp2.1\05. Dragon Army.dll
+C:\Elie\SoftUni\Live\TechModule\102 Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\netcoreapp2.1\05. Dragon Army.pdb

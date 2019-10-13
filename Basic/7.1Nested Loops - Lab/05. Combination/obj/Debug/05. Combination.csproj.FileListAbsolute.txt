@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\05. Combination\bin\Debug\_05.Combination.exe.config
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\05. Combination\bin\Debug\_05.Combination.exe
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\05. Combination\bin\Debug\_05.Combination.pdb
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\05. Combination\obj\Debug\05. Combination.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\05. Combination\obj\Debug\_05.Combination.exe
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\05. Combination\obj\Debug\_05.Combination.pdb

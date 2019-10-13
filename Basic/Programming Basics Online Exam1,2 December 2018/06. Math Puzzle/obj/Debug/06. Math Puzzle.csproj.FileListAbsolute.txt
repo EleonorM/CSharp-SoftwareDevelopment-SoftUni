@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\06. Math Puzzle\bin\Debug\_06.Math_Puzzle.exe.config
+C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\06. Math Puzzle\bin\Debug\_06.Math_Puzzle.exe
+C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\06. Math Puzzle\bin\Debug\_06.Math_Puzzle.pdb
+C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\06. Math Puzzle\obj\Debug\06. Math Puzzle.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\06. Math Puzzle\obj\Debug\_06.Math_Puzzle.exe
+C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\06. Math Puzzle\obj\Debug\_06.Math_Puzzle.pdb

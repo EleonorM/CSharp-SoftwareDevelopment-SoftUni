@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\06.LongestPath\bin\Debug\06.LongestPath.exe.config
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\06.LongestPath\bin\Debug\06.LongestPath.exe
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\06.LongestPath\bin\Debug\06.LongestPath.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\06.LongestPath\obj\Debug\06.LongestPath.csprojAssemblyReference.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\06.LongestPath\obj\Debug\06.LongestPath.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\06.LongestPath\obj\Debug\06.LongestPath.exe
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\06.LongestPath\obj\Debug\06.LongestPath.pdb

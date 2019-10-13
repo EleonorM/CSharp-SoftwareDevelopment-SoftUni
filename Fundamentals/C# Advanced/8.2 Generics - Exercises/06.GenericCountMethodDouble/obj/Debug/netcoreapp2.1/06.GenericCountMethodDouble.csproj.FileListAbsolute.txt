@@ -1,0 +1,10 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.2 Generics - Exercises\06.GenericCountMethodDouble\bin\Debug\netcoreapp2.1\06.GenericCountMethodDouble.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.2 Generics - Exercises\06.GenericCountMethodDouble\bin\Debug\netcoreapp2.1\06.GenericCountMethodDouble.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.2 Generics - Exercises\06.GenericCountMethodDouble\bin\Debug\netcoreapp2.1\06.GenericCountMethodDouble.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.2 Generics - Exercises\06.GenericCountMethodDouble\bin\Debug\netcoreapp2.1\06.GenericCountMethodDouble.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.2 Generics - Exercises\06.GenericCountMethodDouble\bin\Debug\netcoreapp2.1\06.GenericCountMethodDouble.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.2 Generics - Exercises\06.GenericCountMethodDouble\obj\Debug\netcoreapp2.1\06.GenericCountMethodDouble.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.2 Generics - Exercises\06.GenericCountMethodDouble\obj\Debug\netcoreapp2.1\06.GenericCountMethodDouble.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.2 Generics - Exercises\06.GenericCountMethodDouble\obj\Debug\netcoreapp2.1\06.GenericCountMethodDouble.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.2 Generics - Exercises\06.GenericCountMethodDouble\obj\Debug\netcoreapp2.1\06.GenericCountMethodDouble.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.2 Generics - Exercises\06.GenericCountMethodDouble\obj\Debug\netcoreapp2.1\06.GenericCountMethodDouble.pdb

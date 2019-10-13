@@ -1,0 +1,6 @@
+C:\Users\eleon\source\repos\MyFirsProgram\Nums\bin\Debug\Nums.exe.config
+C:\Users\eleon\source\repos\MyFirsProgram\Nums\bin\Debug\Nums.exe
+C:\Users\eleon\source\repos\MyFirsProgram\Nums\bin\Debug\Nums.pdb
+C:\Users\eleon\source\repos\MyFirsProgram\Nums\obj\Debug\Nums.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\MyFirsProgram\Nums\obj\Debug\Nums.exe
+C:\Users\eleon\source\repos\MyFirsProgram\Nums\obj\Debug\Nums.pdb

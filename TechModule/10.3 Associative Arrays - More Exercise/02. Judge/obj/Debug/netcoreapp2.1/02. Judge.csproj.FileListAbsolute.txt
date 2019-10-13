@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\TechModule\102 Associative Arrays - More Exercise\02. Judge\bin\Debug\netcoreapp2.1\02. Judge.deps.json
+C:\Elie\SoftUni\Live\TechModule\102 Associative Arrays - More Exercise\02. Judge\bin\Debug\netcoreapp2.1\02. Judge.runtimeconfig.json
+C:\Elie\SoftUni\Live\TechModule\102 Associative Arrays - More Exercise\02. Judge\bin\Debug\netcoreapp2.1\02. Judge.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\TechModule\102 Associative Arrays - More Exercise\02. Judge\bin\Debug\netcoreapp2.1\02. Judge.dll
+C:\Elie\SoftUni\Live\TechModule\102 Associative Arrays - More Exercise\02. Judge\bin\Debug\netcoreapp2.1\02. Judge.pdb
+C:\Elie\SoftUni\Live\TechModule\102 Associative Arrays - More Exercise\02. Judge\obj\Debug\netcoreapp2.1\02. Judge.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\TechModule\102 Associative Arrays - More Exercise\02. Judge\obj\Debug\netcoreapp2.1\02. Judge.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\TechModule\102 Associative Arrays - More Exercise\02. Judge\obj\Debug\netcoreapp2.1\02. Judge.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\TechModule\102 Associative Arrays - More Exercise\02. Judge\obj\Debug\netcoreapp2.1\02. Judge.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\TechModule\102 Associative Arrays - More Exercise\02. Judge\obj\Debug\netcoreapp2.1\02. Judge.dll
+C:\Elie\SoftUni\Live\TechModule\102 Associative Arrays - More Exercise\02. Judge\obj\Debug\netcoreapp2.1\02. Judge.pdb

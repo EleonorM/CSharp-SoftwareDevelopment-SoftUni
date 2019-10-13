@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp2.1\01.DefineaClassPerson.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp2.1\01.DefineaClassPerson.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp2.1\01.DefineaClassPerson.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp2.1\01.DefineaClassPerson.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp2.1\01.DefineaClassPerson.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp2.1\01.DefineaClassPerson.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp2.1\01.DefineaClassPerson.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp2.1\01.DefineaClassPerson.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp2.1\01.DefineaClassPerson.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp2.1\01.DefineaClassPerson.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp2.1\01.DefineaClassPerson.pdb

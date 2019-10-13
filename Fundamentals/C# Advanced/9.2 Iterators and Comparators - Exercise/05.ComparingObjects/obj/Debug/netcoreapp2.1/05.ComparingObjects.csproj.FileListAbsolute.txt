@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\05.ComparingObjects\bin\Debug\netcoreapp2.1\05.ComparingObjects.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\05.ComparingObjects\bin\Debug\netcoreapp2.1\05.ComparingObjects.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\05.ComparingObjects\bin\Debug\netcoreapp2.1\05.ComparingObjects.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\05.ComparingObjects\bin\Debug\netcoreapp2.1\05.ComparingObjects.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\05.ComparingObjects\bin\Debug\netcoreapp2.1\05.ComparingObjects.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\05.ComparingObjects\obj\Debug\netcoreapp2.1\05.ComparingObjects.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\05.ComparingObjects\obj\Debug\netcoreapp2.1\05.ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\05.ComparingObjects\obj\Debug\netcoreapp2.1\05.ComparingObjects.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\05.ComparingObjects\obj\Debug\netcoreapp2.1\05.ComparingObjects.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\05.ComparingObjects\obj\Debug\netcoreapp2.1\05.ComparingObjects.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\05.ComparingObjects\obj\Debug\netcoreapp2.1\05.ComparingObjects.pdb

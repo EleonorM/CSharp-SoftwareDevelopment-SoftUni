@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\07. Name Wars\bin\Debug\_07.Name_Wars.exe.config
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\07. Name Wars\bin\Debug\_07.Name_Wars.exe
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\07. Name Wars\bin\Debug\_07.Name_Wars.pdb
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\07. Name Wars\obj\Debug\07. Name Wars.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\07. Name Wars\obj\Debug\07. Name Wars.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\07. Name Wars\obj\Debug\_07.Name_Wars.exe
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\07. Name Wars\obj\Debug\_07.Name_Wars.pdb

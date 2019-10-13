@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\10. Predicate Party!\bin\Debug\netcoreapp2.2\10. Predicate Party!.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\10. Predicate Party!\bin\Debug\netcoreapp2.2\10. Predicate Party!.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\10. Predicate Party!\bin\Debug\netcoreapp2.2\10. Predicate Party!.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\10. Predicate Party!\bin\Debug\netcoreapp2.2\10. Predicate Party!.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\10. Predicate Party!\bin\Debug\netcoreapp2.2\10. Predicate Party!.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\10. Predicate Party!\obj\Debug\netcoreapp2.2\10. Predicate Party!.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\10. Predicate Party!\obj\Debug\netcoreapp2.2\10. Predicate Party!.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\10. Predicate Party!\obj\Debug\netcoreapp2.2\10. Predicate Party!.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\10. Predicate Party!\obj\Debug\netcoreapp2.2\10. Predicate Party!.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\10. Predicate Party!\obj\Debug\netcoreapp2.2\10. Predicate Party!.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\10. Predicate Party!\obj\Debug\netcoreapp2.2\10. Predicate Party!.pdb

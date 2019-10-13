@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\03. Graduation pt.2\bin\Debug\_03.Graduation_pt._2.exe.config
+C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\03. Graduation pt.2\bin\Debug\_03.Graduation_pt._2.exe
+C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\03. Graduation pt.2\bin\Debug\_03.Graduation_pt._2.pdb
+C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\03. Graduation pt.2\obj\Debug\03. Graduation pt.2.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\03. Graduation pt.2\obj\Debug\_03.Graduation_pt._2.exe
+C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\03. Graduation pt.2\obj\Debug\_03.Graduation_pt._2.pdb

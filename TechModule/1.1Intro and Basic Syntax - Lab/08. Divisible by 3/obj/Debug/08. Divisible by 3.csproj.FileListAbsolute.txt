@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\08. Divisible by 3\bin\Debug\_08.Divisible_by_3.exe.config
+C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\08. Divisible by 3\bin\Debug\_08.Divisible_by_3.exe
+C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\08. Divisible by 3\bin\Debug\_08.Divisible_by_3.pdb
+C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\08. Divisible by 3\obj\Debug\08. Divisible by 3.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\08. Divisible by 3\obj\Debug\_08.Divisible_by_3.exe
+C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\08. Divisible by 3\obj\Debug\_08.Divisible_by_3.pdb

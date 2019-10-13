@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\02. Football Kit\bin\Debug\_02.Football_Kit.exe.config
+C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\02. Football Kit\bin\Debug\_02.Football_Kit.exe
+C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\02. Football Kit\bin\Debug\_02.Football_Kit.pdb
+C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\02. Football Kit\obj\Debug\02. Football Kit.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\02. Football Kit\obj\Debug\02. Football Kit.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\02. Football Kit\obj\Debug\_02.Football_Kit.exe
+C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\02. Football Kit\obj\Debug\_02.Football_Kit.pdb

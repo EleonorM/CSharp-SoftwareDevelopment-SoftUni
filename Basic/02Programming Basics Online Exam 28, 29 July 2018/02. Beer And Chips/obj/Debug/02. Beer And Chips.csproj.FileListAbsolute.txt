@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\02. Beer And Chips\bin\Debug\_02.Beer_And_Chips.exe.config
+C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\02. Beer And Chips\bin\Debug\_02.Beer_And_Chips.exe
+C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\02. Beer And Chips\bin\Debug\_02.Beer_And_Chips.pdb
+C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\02. Beer And Chips\obj\Debug\02. Beer And Chips.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\02. Beer And Chips\obj\Debug\_02.Beer_And_Chips.exe
+C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\02. Beer And Chips\obj\Debug\_02.Beer_And_Chips.pdb

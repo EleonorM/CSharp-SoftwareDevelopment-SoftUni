@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\201.Conditional Statements - Lab\10. Toy Shop\bin\Debug\_10.Toy_Shop.exe.config
+C:\Elie\SoftUni\Live\201.Conditional Statements - Lab\10. Toy Shop\bin\Debug\_10.Toy_Shop.exe
+C:\Elie\SoftUni\Live\201.Conditional Statements - Lab\10. Toy Shop\bin\Debug\_10.Toy_Shop.pdb
+C:\Elie\SoftUni\Live\201.Conditional Statements - Lab\10. Toy Shop\obj\Debug\10. Toy Shop.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\201.Conditional Statements - Lab\10. Toy Shop\obj\Debug\_10.Toy_Shop.exe
+C:\Elie\SoftUni\Live\201.Conditional Statements - Lab\10. Toy Shop\obj\Debug\_10.Toy_Shop.pdb

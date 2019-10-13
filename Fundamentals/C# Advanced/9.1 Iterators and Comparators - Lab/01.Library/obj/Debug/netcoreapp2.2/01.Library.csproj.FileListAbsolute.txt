@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.1 Iterators and Comparators - Lab\01.Library\bin\Debug\netcoreapp2.2\01.Library.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.1 Iterators and Comparators - Lab\01.Library\bin\Debug\netcoreapp2.2\01.Library.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.1 Iterators and Comparators - Lab\01.Library\bin\Debug\netcoreapp2.2\01.Library.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.1 Iterators and Comparators - Lab\01.Library\bin\Debug\netcoreapp2.2\01.Library.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.1 Iterators and Comparators - Lab\01.Library\bin\Debug\netcoreapp2.2\01.Library.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.1 Iterators and Comparators - Lab\01.Library\obj\Debug\netcoreapp2.2\01.Library.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.1 Iterators and Comparators - Lab\01.Library\obj\Debug\netcoreapp2.2\01.Library.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.1 Iterators and Comparators - Lab\01.Library\obj\Debug\netcoreapp2.2\01.Library.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.1 Iterators and Comparators - Lab\01.Library\obj\Debug\netcoreapp2.2\01.Library.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.1 Iterators and Comparators - Lab\01.Library\obj\Debug\netcoreapp2.2\01.Library.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.1 Iterators and Comparators - Lab\01.Library\obj\Debug\netcoreapp2.2\01.Library.pdb

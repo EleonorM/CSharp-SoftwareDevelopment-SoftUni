@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\1.1 Stacks and Queues - Lab\7. Traffic Jam\bin\Debug\netcoreapp2.1\7. Traffic Jam.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\1.1 Stacks and Queues - Lab\7. Traffic Jam\bin\Debug\netcoreapp2.1\7. Traffic Jam.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\1.1 Stacks and Queues - Lab\7. Traffic Jam\bin\Debug\netcoreapp2.1\7. Traffic Jam.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\1.1 Stacks and Queues - Lab\7. Traffic Jam\bin\Debug\netcoreapp2.1\7. Traffic Jam.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\1.1 Stacks and Queues - Lab\7. Traffic Jam\bin\Debug\netcoreapp2.1\7. Traffic Jam.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\1.1 Stacks and Queues - Lab\7. Traffic Jam\obj\Debug\netcoreapp2.1\7. Traffic Jam.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\1.1 Stacks and Queues - Lab\7. Traffic Jam\obj\Debug\netcoreapp2.1\7. Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\1.1 Stacks and Queues - Lab\7. Traffic Jam\obj\Debug\netcoreapp2.1\7. Traffic Jam.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\1.1 Stacks and Queues - Lab\7. Traffic Jam\obj\Debug\netcoreapp2.1\7. Traffic Jam.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\1.1 Stacks and Queues - Lab\7. Traffic Jam\obj\Debug\netcoreapp2.1\7. Traffic Jam.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\1.1 Stacks and Queues - Lab\7. Traffic Jam\obj\Debug\netcoreapp2.1\7. Traffic Jam.pdb

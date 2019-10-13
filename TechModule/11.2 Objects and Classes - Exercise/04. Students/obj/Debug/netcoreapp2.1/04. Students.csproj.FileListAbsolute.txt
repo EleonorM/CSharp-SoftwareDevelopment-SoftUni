@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp2.1\04. Students.deps.json
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp2.1\04. Students.runtimeconfig.json
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp2.1\04. Students.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp2.1\04. Students.dll
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp2.1\04. Students.pdb
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp2.1\04. Students.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp2.1\04. Students.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp2.1\04. Students.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp2.1\04. Students.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp2.1\04. Students.dll
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp2.1\04. Students.pdb

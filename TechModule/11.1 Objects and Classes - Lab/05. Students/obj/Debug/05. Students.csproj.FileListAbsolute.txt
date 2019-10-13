@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\05. Students\bin\Debug\_05.Students.exe.config
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\05. Students\bin\Debug\_05.Students.exe
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\05. Students\bin\Debug\_05.Students.pdb
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\05. Students\obj\Debug\05. Students.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\05. Students\obj\Debug\05. Students.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\05. Students\obj\Debug\_05.Students.exe
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\05. Students\obj\Debug\_05.Students.pdb

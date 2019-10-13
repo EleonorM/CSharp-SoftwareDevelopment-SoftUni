@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\01. Numbers Nto1\bin\Debug\_01.Numbers_Nto1.exe.config
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\01. Numbers Nto1\bin\Debug\_01.Numbers_Nto1.exe
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\01. Numbers Nto1\bin\Debug\_01.Numbers_Nto1.pdb
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\01. Numbers Nto1\obj\Debug\01. Numbers Nto1.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\01. Numbers Nto1\obj\Debug\01. Numbers Nto1.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\01. Numbers Nto1\obj\Debug\_01.Numbers_Nto1.exe
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\01. Numbers Nto1\obj\Debug\_01.Numbers_Nto1.pdb

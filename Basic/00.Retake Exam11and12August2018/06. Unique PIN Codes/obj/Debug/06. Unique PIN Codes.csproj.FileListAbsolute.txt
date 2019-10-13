@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\06. Unique PIN Codes\bin\Debug\_06.Unique_PIN_Codes.exe.config
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\06. Unique PIN Codes\bin\Debug\_06.Unique_PIN_Codes.exe
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\06. Unique PIN Codes\bin\Debug\_06.Unique_PIN_Codes.pdb
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\06. Unique PIN Codes\obj\Debug\06. Unique PIN Codes.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\06. Unique PIN Codes\obj\Debug\_06.Unique_PIN_Codes.exe
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\06. Unique PIN Codes\obj\Debug\_06.Unique_PIN_Codes.pdb

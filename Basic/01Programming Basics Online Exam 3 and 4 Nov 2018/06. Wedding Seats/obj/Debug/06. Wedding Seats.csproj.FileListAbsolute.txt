@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\06. Wedding Seats\bin\Debug\_06.Wedding_Seats.exe.config
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\06. Wedding Seats\bin\Debug\_06.Wedding_Seats.exe
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\06. Wedding Seats\bin\Debug\_06.Wedding_Seats.pdb
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\06. Wedding Seats\obj\Debug\06. Wedding Seats.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\06. Wedding Seats\obj\Debug\06. Wedding Seats.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\06. Wedding Seats\obj\Debug\_06.Wedding_Seats.exe
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\06. Wedding Seats\obj\Debug\_06.Wedding_Seats.pdb

@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\7.2 Reflection and Attributes - Ex\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.deps.json
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\7.2 Reflection and Attributes - Ex\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.runtimeconfig.json
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\7.2 Reflection and Attributes - Ex\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.runtimeconfig.dev.json
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\7.2 Reflection and Attributes - Ex\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\7.2 Reflection and Attributes - Ex\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\7.2 Reflection and Attributes - Ex\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.csprojAssemblyReference.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\7.2 Reflection and Attributes - Ex\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\7.2 Reflection and Attributes - Ex\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\7.2 Reflection and Attributes - Ex\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.AssemblyInfo.cs
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\7.2 Reflection and Attributes - Ex\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\7.2 Reflection and Attributes - Ex\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.pdb

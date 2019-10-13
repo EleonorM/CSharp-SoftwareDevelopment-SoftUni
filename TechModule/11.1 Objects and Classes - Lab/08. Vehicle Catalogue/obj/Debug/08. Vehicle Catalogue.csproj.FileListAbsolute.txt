@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\08. Vehicle Catalogue\bin\Debug\_08.Vehicle_Catalogue.exe.config
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\08. Vehicle Catalogue\bin\Debug\_08.Vehicle_Catalogue.exe
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\08. Vehicle Catalogue\bin\Debug\_08.Vehicle_Catalogue.pdb
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\08. Vehicle Catalogue\obj\Debug\08. Vehicle Catalogue.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\08. Vehicle Catalogue\obj\Debug\08. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\08. Vehicle Catalogue\obj\Debug\_08.Vehicle_Catalogue.exe
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\08. Vehicle Catalogue\obj\Debug\_08.Vehicle_Catalogue.pdb

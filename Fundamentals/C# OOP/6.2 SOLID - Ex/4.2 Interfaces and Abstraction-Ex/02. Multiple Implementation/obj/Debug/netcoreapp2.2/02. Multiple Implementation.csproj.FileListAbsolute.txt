@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\02. Multiple Implementation\bin\Debug\netcoreapp2.2\02. Multiple Implementation.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\02. Multiple Implementation\bin\Debug\netcoreapp2.2\02. Multiple Implementation.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\02. Multiple Implementation\bin\Debug\netcoreapp2.2\02. Multiple Implementation.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\02. Multiple Implementation\bin\Debug\netcoreapp2.2\02. Multiple Implementation.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\02. Multiple Implementation\bin\Debug\netcoreapp2.2\02. Multiple Implementation.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\02. Multiple Implementation\obj\Debug\netcoreapp2.2\02. Multiple Implementation.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\02. Multiple Implementation\obj\Debug\netcoreapp2.2\02. Multiple Implementation.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\02. Multiple Implementation\obj\Debug\netcoreapp2.2\02. Multiple Implementation.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\02. Multiple Implementation\obj\Debug\netcoreapp2.2\02. Multiple Implementation.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\02. Multiple Implementation\obj\Debug\netcoreapp2.2\02. Multiple Implementation.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\02. Multiple Implementation\obj\Debug\netcoreapp2.2\02. Multiple Implementation.pdb

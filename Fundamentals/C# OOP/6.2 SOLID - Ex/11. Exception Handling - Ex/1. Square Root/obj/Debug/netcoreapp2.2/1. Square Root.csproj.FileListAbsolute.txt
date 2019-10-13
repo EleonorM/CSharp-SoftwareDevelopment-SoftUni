@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\12. Exception Handling - Ex\1. Square Root\bin\Debug\netcoreapp2.2\1. Square Root.deps.json
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\12. Exception Handling - Ex\1. Square Root\bin\Debug\netcoreapp2.2\1. Square Root.runtimeconfig.json
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\12. Exception Handling - Ex\1. Square Root\bin\Debug\netcoreapp2.2\1. Square Root.runtimeconfig.dev.json
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\12. Exception Handling - Ex\1. Square Root\bin\Debug\netcoreapp2.2\1. Square Root.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\12. Exception Handling - Ex\1. Square Root\bin\Debug\netcoreapp2.2\1. Square Root.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\12. Exception Handling - Ex\1. Square Root\obj\Debug\netcoreapp2.2\1. Square Root.csprojAssemblyReference.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\12. Exception Handling - Ex\1. Square Root\obj\Debug\netcoreapp2.2\1. Square Root.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\12. Exception Handling - Ex\1. Square Root\obj\Debug\netcoreapp2.2\1. Square Root.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\12. Exception Handling - Ex\1. Square Root\obj\Debug\netcoreapp2.2\1. Square Root.AssemblyInfo.cs
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\12. Exception Handling - Ex\1. Square Root\obj\Debug\netcoreapp2.2\1. Square Root.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\12. Exception Handling - Ex\1. Square Root\obj\Debug\netcoreapp2.2\1. Square Root.pdb

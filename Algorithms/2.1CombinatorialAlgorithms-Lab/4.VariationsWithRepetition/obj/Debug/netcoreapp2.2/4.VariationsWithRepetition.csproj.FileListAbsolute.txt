@@ -1,0 +1,10 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\2.1CombinatorialAlgorithms-Lab\4.VariationsWithRepetition\bin\Debug\netcoreapp2.2\4.VariationsWithRepetition.deps.json
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\2.1CombinatorialAlgorithms-Lab\4.VariationsWithRepetition\bin\Debug\netcoreapp2.2\4.VariationsWithRepetition.runtimeconfig.json
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\2.1CombinatorialAlgorithms-Lab\4.VariationsWithRepetition\bin\Debug\netcoreapp2.2\4.VariationsWithRepetition.runtimeconfig.dev.json
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\2.1CombinatorialAlgorithms-Lab\4.VariationsWithRepetition\bin\Debug\netcoreapp2.2\4.VariationsWithRepetition.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\2.1CombinatorialAlgorithms-Lab\4.VariationsWithRepetition\bin\Debug\netcoreapp2.2\4.VariationsWithRepetition.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\2.1CombinatorialAlgorithms-Lab\4.VariationsWithRepetition\obj\Debug\netcoreapp2.2\4.VariationsWithRepetition.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\2.1CombinatorialAlgorithms-Lab\4.VariationsWithRepetition\obj\Debug\netcoreapp2.2\4.VariationsWithRepetition.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\2.1CombinatorialAlgorithms-Lab\4.VariationsWithRepetition\obj\Debug\netcoreapp2.2\4.VariationsWithRepetition.AssemblyInfo.cs
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\2.1CombinatorialAlgorithms-Lab\4.VariationsWithRepetition\obj\Debug\netcoreapp2.2\4.VariationsWithRepetition.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\2.1CombinatorialAlgorithms-Lab\4.VariationsWithRepetition\obj\Debug\netcoreapp2.2\4.VariationsWithRepetition.pdb

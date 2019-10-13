@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\06. Challenge the Wedding\bin\Debug\_06.Challenge_the_Wedding.exe.config
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\06. Challenge the Wedding\bin\Debug\_06.Challenge_the_Wedding.exe
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\06. Challenge the Wedding\bin\Debug\_06.Challenge_the_Wedding.pdb
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\06. Challenge the Wedding\obj\Debug\06. Challenge the Wedding.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\06. Challenge the Wedding\obj\Debug\_06.Challenge_the_Wedding.exe
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\06. Challenge the Wedding\obj\Debug\_06.Challenge_the_Wedding.pdb

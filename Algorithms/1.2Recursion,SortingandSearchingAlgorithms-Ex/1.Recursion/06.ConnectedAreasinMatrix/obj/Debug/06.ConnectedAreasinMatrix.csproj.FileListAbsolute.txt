@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\06.ConnectedAreasinMatrix\bin\Debug\06.ConnectedAreasinMatrix.exe.config
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\06.ConnectedAreasinMatrix\bin\Debug\06.ConnectedAreasinMatrix.exe
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\06.ConnectedAreasinMatrix\bin\Debug\06.ConnectedAreasinMatrix.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\06.ConnectedAreasinMatrix\obj\Debug\06.ConnectedAreasinMatrix.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\06.ConnectedAreasinMatrix\obj\Debug\06.ConnectedAreasinMatrix.exe
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\06.ConnectedAreasinMatrix\obj\Debug\06.ConnectedAreasinMatrix.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\06.ConnectedAreasinMatrix\obj\Debug\06.ConnectedAreasinMatrix.csprojAssemblyReference.cache

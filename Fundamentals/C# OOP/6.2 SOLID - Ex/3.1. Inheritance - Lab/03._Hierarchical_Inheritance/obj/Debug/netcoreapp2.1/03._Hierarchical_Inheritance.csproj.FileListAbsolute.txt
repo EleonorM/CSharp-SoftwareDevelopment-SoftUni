@@ -1,0 +1,10 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.1. Inheritance - Lab\03._Hierarchical_Inheritance\bin\Debug\netcoreapp2.1\03._Hierarchical_Inheritance.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.1. Inheritance - Lab\03._Hierarchical_Inheritance\bin\Debug\netcoreapp2.1\03._Hierarchical_Inheritance.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.1. Inheritance - Lab\03._Hierarchical_Inheritance\bin\Debug\netcoreapp2.1\03._Hierarchical_Inheritance.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.1. Inheritance - Lab\03._Hierarchical_Inheritance\bin\Debug\netcoreapp2.1\03._Hierarchical_Inheritance.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.1. Inheritance - Lab\03._Hierarchical_Inheritance\bin\Debug\netcoreapp2.1\03._Hierarchical_Inheritance.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.1. Inheritance - Lab\03._Hierarchical_Inheritance\obj\Debug\netcoreapp2.1\03._Hierarchical_Inheritance.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.1. Inheritance - Lab\03._Hierarchical_Inheritance\obj\Debug\netcoreapp2.1\03._Hierarchical_Inheritance.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.1. Inheritance - Lab\03._Hierarchical_Inheritance\obj\Debug\netcoreapp2.1\03._Hierarchical_Inheritance.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.1. Inheritance - Lab\03._Hierarchical_Inheritance\obj\Debug\netcoreapp2.1\03._Hierarchical_Inheritance.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.1. Inheritance - Lab\03._Hierarchical_Inheritance\obj\Debug\netcoreapp2.1\03._Hierarchical_Inheritance.pdb

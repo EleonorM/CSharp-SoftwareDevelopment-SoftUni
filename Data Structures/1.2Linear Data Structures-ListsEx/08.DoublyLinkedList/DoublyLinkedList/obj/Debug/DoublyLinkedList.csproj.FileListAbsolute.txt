@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\1.2Linear Data Structures-ListsEx\08.DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\1.2Linear Data Structures-ListsEx\08.DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\1.2Linear Data Structures-ListsEx\08.DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.csprojAssemblyReference.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\1.2Linear Data Structures-ListsEx\08.DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\1.2Linear Data Structures-ListsEx\08.DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\1.2Linear Data Structures-ListsEx\08.DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb

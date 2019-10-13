@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\09.PokemonTrainer\bin\Debug\netcoreapp2.1\09.PokemonTrainer.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\09.PokemonTrainer\bin\Debug\netcoreapp2.1\09.PokemonTrainer.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\09.PokemonTrainer\bin\Debug\netcoreapp2.1\09.PokemonTrainer.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\09.PokemonTrainer\bin\Debug\netcoreapp2.1\09.PokemonTrainer.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\09.PokemonTrainer\bin\Debug\netcoreapp2.1\09.PokemonTrainer.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\09.PokemonTrainer\obj\Debug\netcoreapp2.1\09.PokemonTrainer.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\09.PokemonTrainer\obj\Debug\netcoreapp2.1\09.PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\09.PokemonTrainer\obj\Debug\netcoreapp2.1\09.PokemonTrainer.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\09.PokemonTrainer\obj\Debug\netcoreapp2.1\09.PokemonTrainer.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\09.PokemonTrainer\obj\Debug\netcoreapp2.1\09.PokemonTrainer.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\09.PokemonTrainer\obj\Debug\netcoreapp2.1\09.PokemonTrainer.pdb

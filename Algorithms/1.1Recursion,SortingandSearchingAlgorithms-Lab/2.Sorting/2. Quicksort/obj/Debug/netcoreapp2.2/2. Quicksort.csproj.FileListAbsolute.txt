@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\2. Quicksort\bin\Debug\netcoreapp2.2\2. Quicksort.deps.json
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\2. Quicksort\bin\Debug\netcoreapp2.2\2. Quicksort.runtimeconfig.json
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\2. Quicksort\bin\Debug\netcoreapp2.2\2. Quicksort.runtimeconfig.dev.json
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\2. Quicksort\bin\Debug\netcoreapp2.2\2. Quicksort.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\2. Quicksort\bin\Debug\netcoreapp2.2\2. Quicksort.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\2. Quicksort\obj\Debug\netcoreapp2.2\2. Quicksort.csprojAssemblyReference.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\2. Quicksort\obj\Debug\netcoreapp2.2\2. Quicksort.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\2. Quicksort\obj\Debug\netcoreapp2.2\2. Quicksort.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\2. Quicksort\obj\Debug\netcoreapp2.2\2. Quicksort.AssemblyInfo.cs
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\2. Quicksort\obj\Debug\netcoreapp2.2\2. Quicksort.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\2. Quicksort\obj\Debug\netcoreapp2.2\2. Quicksort.pdb

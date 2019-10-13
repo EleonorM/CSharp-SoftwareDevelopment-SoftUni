@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.1 Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp2.1\06. Parking Lot.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.1 Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp2.1\06. Parking Lot.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.1 Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp2.1\06. Parking Lot.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.1 Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp2.1\06. Parking Lot.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.1 Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp2.1\06. Parking Lot.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.1 Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp2.1\06. Parking Lot.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.1 Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp2.1\06. Parking Lot.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.1 Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp2.1\06. Parking Lot.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.1 Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp2.1\06. Parking Lot.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.1 Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp2.1\06. Parking Lot.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.1 Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp2.1\06. Parking Lot.pdb

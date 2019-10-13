@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\11. ThePartyReservationFM\obj\Debug\netcoreapp2.2\11. ThePartyReservationFM.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\11. ThePartyReservationFM\obj\Debug\netcoreapp2.2\11. ThePartyReservationFM.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\11. ThePartyReservationFM\obj\Debug\netcoreapp2.2\11. ThePartyReservationFM.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\11. ThePartyReservationFM\obj\Debug\netcoreapp2.2\11. ThePartyReservationFM.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\11. ThePartyReservationFM\bin\Debug\netcoreapp2.2\11. ThePartyReservationFM.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\11. ThePartyReservationFM\bin\Debug\netcoreapp2.2\11. ThePartyReservationFM.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\11. ThePartyReservationFM\bin\Debug\netcoreapp2.2\11. ThePartyReservationFM.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\11. ThePartyReservationFM\bin\Debug\netcoreapp2.2\11. ThePartyReservationFM.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\11. ThePartyReservationFM\bin\Debug\netcoreapp2.2\11. ThePartyReservationFM.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\11. ThePartyReservationFM\obj\Debug\netcoreapp2.2\11. ThePartyReservationFM.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\11. ThePartyReservationFM\obj\Debug\netcoreapp2.2\11. ThePartyReservationFM.pdb

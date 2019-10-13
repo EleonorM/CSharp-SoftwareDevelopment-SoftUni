@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Live\TechModule\10.Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\bin\Debug\_02.Odd_Occurrences.exe.config
+C:\Elie\SoftUni\Live\TechModule\10.Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\bin\Debug\_02.Odd_Occurrences.exe
+C:\Elie\SoftUni\Live\TechModule\10.Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\bin\Debug\_02.Odd_Occurrences.pdb
+C:\Elie\SoftUni\Live\TechModule\10.Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\02. Odd Occurrences.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\TechModule\10.Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\TechModule\10.Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\_02.Odd_Occurrences.exe
+C:\Elie\SoftUni\Live\TechModule\10.Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\_02.Odd_Occurrences.pdb

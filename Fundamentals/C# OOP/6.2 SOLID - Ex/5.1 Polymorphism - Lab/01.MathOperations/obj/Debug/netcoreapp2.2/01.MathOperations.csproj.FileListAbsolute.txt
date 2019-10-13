@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\5.1 Polymorphism - Lab\01.MathOperations\bin\Debug\netcoreapp2.2\01.MathOperations.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\5.1 Polymorphism - Lab\01.MathOperations\bin\Debug\netcoreapp2.2\01.MathOperations.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\5.1 Polymorphism - Lab\01.MathOperations\bin\Debug\netcoreapp2.2\01.MathOperations.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\5.1 Polymorphism - Lab\01.MathOperations\bin\Debug\netcoreapp2.2\01.MathOperations.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\5.1 Polymorphism - Lab\01.MathOperations\bin\Debug\netcoreapp2.2\01.MathOperations.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\5.1 Polymorphism - Lab\01.MathOperations\obj\Debug\netcoreapp2.2\01.MathOperations.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\5.1 Polymorphism - Lab\01.MathOperations\obj\Debug\netcoreapp2.2\01.MathOperations.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\5.1 Polymorphism - Lab\01.MathOperations\obj\Debug\netcoreapp2.2\01.MathOperations.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\5.1 Polymorphism - Lab\01.MathOperations\obj\Debug\netcoreapp2.2\01.MathOperations.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\5.1 Polymorphism - Lab\01.MathOperations\obj\Debug\netcoreapp2.2\01.MathOperations.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\5.1 Polymorphism - Lab\01.MathOperations\obj\Debug\netcoreapp2.2\01.MathOperations.pdb

@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.1Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\1. Merge Sort\bin\Debug\netcoreapp2.2\1. Merge Sort.deps.json
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.1Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\1. Merge Sort\bin\Debug\netcoreapp2.2\1. Merge Sort.runtimeconfig.json
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.1Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\1. Merge Sort\bin\Debug\netcoreapp2.2\1. Merge Sort.runtimeconfig.dev.json
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.1Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\1. Merge Sort\bin\Debug\netcoreapp2.2\1. Merge Sort.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.1Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\1. Merge Sort\bin\Debug\netcoreapp2.2\1. Merge Sort.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.1Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\1. Merge Sort\obj\Debug\netcoreapp2.2\1. Merge Sort.csprojAssemblyReference.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.1Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\1. Merge Sort\obj\Debug\netcoreapp2.2\1. Merge Sort.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.1Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\1. Merge Sort\obj\Debug\netcoreapp2.2\1. Merge Sort.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.1Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\1. Merge Sort\obj\Debug\netcoreapp2.2\1. Merge Sort.AssemblyInfo.cs
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.1Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\1. Merge Sort\obj\Debug\netcoreapp2.2\1. Merge Sort.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.1Recursion,SortingandSearchingAlgorithms-Lab\2.Sorting\1. Merge Sort\obj\Debug\netcoreapp2.2\1. Merge Sort.pdb

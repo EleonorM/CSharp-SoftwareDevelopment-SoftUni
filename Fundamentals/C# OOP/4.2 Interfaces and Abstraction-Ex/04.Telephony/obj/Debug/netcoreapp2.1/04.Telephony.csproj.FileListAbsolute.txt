@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\04.Telephony\bin\Debug\netcoreapp2.1\04.Telephony.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\04.Telephony\bin\Debug\netcoreapp2.1\04.Telephony.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\04.Telephony\bin\Debug\netcoreapp2.1\04.Telephony.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\04.Telephony\bin\Debug\netcoreapp2.1\04.Telephony.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\04.Telephony\bin\Debug\netcoreapp2.1\04.Telephony.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\04.Telephony\obj\Debug\netcoreapp2.1\04.Telephony.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\04.Telephony\obj\Debug\netcoreapp2.1\04.Telephony.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\04.Telephony\obj\Debug\netcoreapp2.1\04.Telephony.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\04.Telephony\obj\Debug\netcoreapp2.1\04.Telephony.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\04.Telephony\obj\Debug\netcoreapp2.1\04.Telephony.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\04.Telephony\obj\Debug\netcoreapp2.1\04.Telephony.pdb

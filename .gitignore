@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Algorithms/1.2Recursion,SortingandSearchingAlgorithms-Ex/2.Sorting/.vs/2.Sorting/v16/Server/sqlite3/db.lock
+/Algorithms/1.1Recursion,SortingandSearchingAlgorithms-Lab/1. Recursion/.vs/1. Recursion/v15/Server/sqlite3/db.lock
+*.lock

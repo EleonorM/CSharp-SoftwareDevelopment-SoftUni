@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\05. Computer Firm\bin\Debug\_05.Computer_Firm.exe.config
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\05. Computer Firm\bin\Debug\_05.Computer_Firm.exe
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\05. Computer Firm\bin\Debug\_05.Computer_Firm.pdb
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\05. Computer Firm\obj\Debug\05. Computer Firm.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\05. Computer Firm\obj\Debug\_05.Computer_Firm.exe
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\05. Computer Firm\obj\Debug\_05.Computer_Firm.pdb

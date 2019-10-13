@@ -1,0 +1,6 @@
+C:\Users\eleon\source\repos\MyFirsProgram\Expresion\bin\Debug\Expresion.exe.config
+C:\Users\eleon\source\repos\MyFirsProgram\Expresion\bin\Debug\Expresion.exe
+C:\Users\eleon\source\repos\MyFirsProgram\Expresion\bin\Debug\Expresion.pdb
+C:\Users\eleon\source\repos\MyFirsProgram\Expresion\obj\Debug\Expresion.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\MyFirsProgram\Expresion\obj\Debug\Expresion.exe
+C:\Users\eleon\source\repos\MyFirsProgram\Expresion\obj\Debug\Expresion.pdb

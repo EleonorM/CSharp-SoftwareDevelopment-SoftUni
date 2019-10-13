@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.1BasicTreeDataStructures-Lab\Trees\bin\Debug\Trees.exe.config
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.1BasicTreeDataStructures-Lab\Trees\bin\Debug\Trees.exe
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.1BasicTreeDataStructures-Lab\Trees\bin\Debug\Trees.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.1BasicTreeDataStructures-Lab\Trees\obj\Debug\Trees.csprojAssemblyReference.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.1BasicTreeDataStructures-Lab\Trees\obj\Debug\Trees.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.1BasicTreeDataStructures-Lab\Trees\obj\Debug\Trees.exe
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.1BasicTreeDataStructures-Lab\Trees\obj\Debug\Trees.pdb

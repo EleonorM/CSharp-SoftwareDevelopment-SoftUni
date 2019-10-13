@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\Basic\Programming Basics Sample Exam - 25 November 2018\03. Sushi Time\bin\Debug\_03.Sushi_Time.exe.config
+C:\Elie\SoftUni\Live\Basic\Programming Basics Sample Exam - 25 November 2018\03. Sushi Time\bin\Debug\_03.Sushi_Time.exe
+C:\Elie\SoftUni\Live\Basic\Programming Basics Sample Exam - 25 November 2018\03. Sushi Time\bin\Debug\_03.Sushi_Time.pdb
+C:\Elie\SoftUni\Live\Basic\Programming Basics Sample Exam - 25 November 2018\03. Sushi Time\obj\Debug\03. Sushi Time.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\Programming Basics Sample Exam - 25 November 2018\03. Sushi Time\obj\Debug\_03.Sushi_Time.exe
+C:\Elie\SoftUni\Live\Basic\Programming Basics Sample Exam - 25 November 2018\03. Sushi Time\obj\Debug\_03.Sushi_Time.pdb

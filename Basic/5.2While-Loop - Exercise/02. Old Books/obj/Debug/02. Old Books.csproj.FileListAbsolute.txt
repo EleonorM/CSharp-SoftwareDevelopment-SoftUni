@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\02. Old Books\bin\Debug\_02.Old_Books.exe.config
+C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\02. Old Books\bin\Debug\_02.Old_Books.exe
+C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\02. Old Books\bin\Debug\_02.Old_Books.pdb
+C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\02. Old Books\obj\Debug\02. Old Books.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\02. Old Books\obj\Debug\02. Old Books.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\02. Old Books\obj\Debug\_02.Old_Books.exe
+C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\02. Old Books\obj\Debug\_02.Old_Books.pdb

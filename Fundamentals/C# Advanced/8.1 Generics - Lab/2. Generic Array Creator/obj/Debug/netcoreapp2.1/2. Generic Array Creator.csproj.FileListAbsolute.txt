@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.1 Generics - Lab\2. Generic Array Creator\bin\Debug\netcoreapp2.1\2. Generic Array Creator.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.1 Generics - Lab\2. Generic Array Creator\bin\Debug\netcoreapp2.1\2. Generic Array Creator.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.1 Generics - Lab\2. Generic Array Creator\bin\Debug\netcoreapp2.1\2. Generic Array Creator.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.1 Generics - Lab\2. Generic Array Creator\bin\Debug\netcoreapp2.1\2. Generic Array Creator.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.1 Generics - Lab\2. Generic Array Creator\bin\Debug\netcoreapp2.1\2. Generic Array Creator.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.1 Generics - Lab\2. Generic Array Creator\obj\Debug\netcoreapp2.1\2. Generic Array Creator.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.1 Generics - Lab\2. Generic Array Creator\obj\Debug\netcoreapp2.1\2. Generic Array Creator.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.1 Generics - Lab\2. Generic Array Creator\obj\Debug\netcoreapp2.1\2. Generic Array Creator.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.1 Generics - Lab\2. Generic Array Creator\obj\Debug\netcoreapp2.1\2. Generic Array Creator.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.1 Generics - Lab\2. Generic Array Creator\obj\Debug\netcoreapp2.1\2. Generic Array Creator.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.1 Generics - Lab\2. Generic Array Creator\obj\Debug\netcoreapp2.1\2. Generic Array Creator.pdb

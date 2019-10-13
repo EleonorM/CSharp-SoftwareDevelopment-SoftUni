@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\1.2Linear Data Structures-ListsEx\6.ReversedList\bin\Debug\6.ReversedList.exe.config
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\1.2Linear Data Structures-ListsEx\6.ReversedList\bin\Debug\6.ReversedList.exe
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\1.2Linear Data Structures-ListsEx\6.ReversedList\bin\Debug\6.ReversedList.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\1.2Linear Data Structures-ListsEx\6.ReversedList\obj\Debug\6.ReversedList.csprojAssemblyReference.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\1.2Linear Data Structures-ListsEx\6.ReversedList\obj\Debug\6.ReversedList.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\1.2Linear Data Structures-ListsEx\6.ReversedList\obj\Debug\6.ReversedList.exe
+C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\1.2Linear Data Structures-ListsEx\6.ReversedList\obj\Debug\6.ReversedList.pdb

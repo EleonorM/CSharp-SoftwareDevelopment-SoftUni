@@ -1,0 +1,9 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\8.1 Workshop - Lab\CustomTestingFramewrok\bin\Debug\netcoreapp2.1\CustomTestingFramework.deps.json
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\8.1 Workshop - Lab\CustomTestingFramewrok\bin\Debug\netcoreapp2.1\CustomTestingFramework.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\8.1 Workshop - Lab\CustomTestingFramewrok\bin\Debug\netcoreapp2.1\CustomTestingFramework.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\8.1 Workshop - Lab\CustomTestingFramewrok\obj\Debug\netcoreapp2.1\CustomTestingFramework.csprojAssemblyReference.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\8.1 Workshop - Lab\CustomTestingFramewrok\obj\Debug\netcoreapp2.1\CustomTestingFramework.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\8.1 Workshop - Lab\CustomTestingFramewrok\obj\Debug\netcoreapp2.1\CustomTestingFramework.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\8.1 Workshop - Lab\CustomTestingFramewrok\obj\Debug\netcoreapp2.1\CustomTestingFramework.AssemblyInfo.cs
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\8.1 Workshop - Lab\CustomTestingFramewrok\obj\Debug\netcoreapp2.1\CustomTestingFramework.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\8.1 Workshop - Lab\CustomTestingFramewrok\obj\Debug\netcoreapp2.1\CustomTestingFramework.pdb

@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\08. Choreography\bin\Debug\_08.Choreography.exe.config
+C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\08. Choreography\bin\Debug\_08.Choreography.exe
+C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\08. Choreography\bin\Debug\_08.Choreography.pdb
+C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\08. Choreography\obj\Debug\08. Choreography.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\08. Choreography\obj\Debug\08. Choreography.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\08. Choreography\obj\Debug\_08.Choreography.exe
+C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\08. Choreography\obj\Debug\_08.Choreography.pdb

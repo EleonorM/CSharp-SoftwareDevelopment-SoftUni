@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\05. Wedding Presents\bin\Debug\_05.Wedding_Presents.exe.config
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\05. Wedding Presents\bin\Debug\_05.Wedding_Presents.exe
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\05. Wedding Presents\bin\Debug\_05.Wedding_Presents.pdb
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\05. Wedding Presents\obj\Debug\05. Wedding Presents.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\05. Wedding Presents\obj\Debug\_05.Wedding_Presents.exe
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\05. Wedding Presents\obj\Debug\_05.Wedding_Presents.pdb

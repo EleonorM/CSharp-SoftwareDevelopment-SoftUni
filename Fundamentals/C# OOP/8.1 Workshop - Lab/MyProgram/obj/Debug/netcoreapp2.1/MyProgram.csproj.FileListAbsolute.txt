@@ -1,0 +1,16 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\8.1 Workshop - Lab\MyProgram\bin\Debug\netcoreapp2.1\MyProgram.deps.json
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\8.1 Workshop - Lab\MyProgram\bin\Debug\netcoreapp2.1\MyProgram.runtimeconfig.json
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\8.1 Workshop - Lab\MyProgram\bin\Debug\netcoreapp2.1\MyProgram.runtimeconfig.dev.json
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\8.1 Workshop - Lab\MyProgram\bin\Debug\netcoreapp2.1\MyProgram.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\8.1 Workshop - Lab\MyProgram\bin\Debug\netcoreapp2.1\MyProgram.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\8.1 Workshop - Lab\MyProgram\bin\Debug\netcoreapp2.1\CustomTestingFramework.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\8.1 Workshop - Lab\MyProgram\bin\Debug\netcoreapp2.1\CustomTestingFramework.Tests.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\8.1 Workshop - Lab\MyProgram\bin\Debug\netcoreapp2.1\CustomTestingFramework.Tests.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\8.1 Workshop - Lab\MyProgram\bin\Debug\netcoreapp2.1\CustomTestingFramework.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\8.1 Workshop - Lab\MyProgram\obj\Debug\netcoreapp2.1\MyProgram.csprojAssemblyReference.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\8.1 Workshop - Lab\MyProgram\obj\Debug\netcoreapp2.1\MyProgram.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\8.1 Workshop - Lab\MyProgram\obj\Debug\netcoreapp2.1\MyProgram.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\8.1 Workshop - Lab\MyProgram\obj\Debug\netcoreapp2.1\MyProgram.AssemblyInfo.cs
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\8.1 Workshop - Lab\MyProgram\obj\Debug\netcoreapp2.1\MyProgram.csproj.CopyComplete
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\8.1 Workshop - Lab\MyProgram\obj\Debug\netcoreapp2.1\MyProgram.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\8.1 Workshop - Lab\MyProgram\obj\Debug\netcoreapp2.1\MyProgram.pdb

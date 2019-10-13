@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\2.1CombinatorialAlgorithms-Lab\2.PermutationsWithRepetitions\obj\Debug\netcoreapp2.2\2.PermutationsWithRepetitions.csprojAssemblyReference.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\2.1CombinatorialAlgorithms-Lab\2.PermutationsWithRepetitions\obj\Debug\netcoreapp2.2\2.PermutationsWithRepetitions.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\2.1CombinatorialAlgorithms-Lab\2.PermutationsWithRepetitions\obj\Debug\netcoreapp2.2\2.PermutationsWithRepetitions.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\2.1CombinatorialAlgorithms-Lab\2.PermutationsWithRepetitions\obj\Debug\netcoreapp2.2\2.PermutationsWithRepetitions.AssemblyInfo.cs
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\2.1CombinatorialAlgorithms-Lab\2.PermutationsWithRepetitions\bin\Debug\netcoreapp2.2\2.PermutationsWithRepetitions.deps.json
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\2.1CombinatorialAlgorithms-Lab\2.PermutationsWithRepetitions\bin\Debug\netcoreapp2.2\2.PermutationsWithRepetitions.runtimeconfig.json
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\2.1CombinatorialAlgorithms-Lab\2.PermutationsWithRepetitions\bin\Debug\netcoreapp2.2\2.PermutationsWithRepetitions.runtimeconfig.dev.json
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\2.1CombinatorialAlgorithms-Lab\2.PermutationsWithRepetitions\bin\Debug\netcoreapp2.2\2.PermutationsWithRepetitions.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\2.1CombinatorialAlgorithms-Lab\2.PermutationsWithRepetitions\bin\Debug\netcoreapp2.2\2.PermutationsWithRepetitions.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\2.1CombinatorialAlgorithms-Lab\2.PermutationsWithRepetitions\obj\Debug\netcoreapp2.2\2.PermutationsWithRepetitions.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\2.1CombinatorialAlgorithms-Lab\2.PermutationsWithRepetitions\obj\Debug\netcoreapp2.2\2.PermutationsWithRepetitions.pdb
