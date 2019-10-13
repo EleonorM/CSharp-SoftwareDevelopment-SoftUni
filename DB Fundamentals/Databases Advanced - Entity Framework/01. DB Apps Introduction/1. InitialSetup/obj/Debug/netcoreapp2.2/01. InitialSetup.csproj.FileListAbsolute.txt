@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. EF-Core-DB-Apps-Introduction\1. InitialSetup\bin\Debug\netcoreapp2.2\01. InitialSetup.deps.json
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. EF-Core-DB-Apps-Introduction\1. InitialSetup\bin\Debug\netcoreapp2.2\01. InitialSetup.runtimeconfig.json
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. EF-Core-DB-Apps-Introduction\1. InitialSetup\bin\Debug\netcoreapp2.2\01. InitialSetup.runtimeconfig.dev.json
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. EF-Core-DB-Apps-Introduction\1. InitialSetup\bin\Debug\netcoreapp2.2\01. InitialSetup.dll
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. EF-Core-DB-Apps-Introduction\1. InitialSetup\obj\Debug\netcoreapp2.2\01. InitialSetup.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. EF-Core-DB-Apps-Introduction\1. InitialSetup\obj\Debug\netcoreapp2.2\01. InitialSetup.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. EF-Core-DB-Apps-Introduction\1. InitialSetup\obj\Debug\netcoreapp2.2\01. InitialSetup.AssemblyInfo.cs
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. EF-Core-DB-Apps-Introduction\1. InitialSetup\bin\Debug\netcoreapp2.2\01. InitialSetup.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. EF-Core-DB-Apps-Introduction\1. InitialSetup\obj\Debug\netcoreapp2.2\01. InitialSetup.csprojAssemblyReference.cache
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. EF-Core-DB-Apps-Introduction\1. InitialSetup\obj\Debug\netcoreapp2.2\01. InitialSetup.dll
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. EF-Core-DB-Apps-Introduction\1. InitialSetup\obj\Debug\netcoreapp2.2\01. InitialSetup.pdb
