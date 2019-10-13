@@ -1,0 +1,4 @@
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\01. InitialSetup\01. InitialSetup\bin\Debug\netcoreapp3.0\01. InitialSetup.exe
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\01. InitialSetup\01. InitialSetup\obj\Debug\netcoreapp3.0\01. InitialSetup.csprojAssemblyReference.cache
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\01. InitialSetup\01. InitialSetup\obj\Debug\netcoreapp3.0\01. InitialSetup.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\01. InitialSetup\01. InitialSetup\obj\Debug\netcoreapp3.0\01. InitialSetup.AssemblyInfo.cs
