@@ -1,7 +1,16 @@
 CREATE PROC usp_ExcludeFromSchool(@StudentId INT)
 AS
 BEGIN TRANSACTION
-	IF((SELECT Id FROM Students WHERE Id = @StudentId) 0)
-COMMIT
+	IF((SELECT COUNT(*) FROM Students WHERE Id = @StudentId) = 0)
+	BEGIN 
+	ROLLBACK
+	RAISERROR ('This school has no student with the provided id!' ,16,1)
+	RETURN
+	END
 
-SELECT Id FROM Students WHERE Id = 10000
+	DELETE FROM StudentsSubjects WHERE StudentId = @StudentId
+	DELETE FROM StudentsExams WHERE StudentId = @StudentId
+	DELETE FROM StudentsTeachers WHERE StudentId = @StudentId
+	DELETE FROM Students WHERE Id = @StudentId;
+
+COMMIT
