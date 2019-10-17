@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\03GreetingByName\bin\Debug\03GreetingByName.exe.config
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\03GreetingByName\bin\Debug\03GreetingByName.exe
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\03GreetingByName\bin\Debug\03GreetingByName.pdb
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\03GreetingByName\obj\Debug\03GreetingByName.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\03GreetingByName\obj\Debug\03GreetingByName.exe
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\03GreetingByName\obj\Debug\03GreetingByName.pdb

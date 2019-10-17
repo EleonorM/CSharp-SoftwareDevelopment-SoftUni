@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\06. Substitute\bin\Debug\_06.Substitute.exe.config
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\06. Substitute\bin\Debug\_06.Substitute.exe
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\06. Substitute\bin\Debug\_06.Substitute.pdb
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\06. Substitute\obj\Debug\06. Substitute.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\06. Substitute\obj\Debug\06. Substitute.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\06. Substitute\obj\Debug\_06.Substitute.exe
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\06. Substitute\obj\Debug\_06.Substitute.pdb

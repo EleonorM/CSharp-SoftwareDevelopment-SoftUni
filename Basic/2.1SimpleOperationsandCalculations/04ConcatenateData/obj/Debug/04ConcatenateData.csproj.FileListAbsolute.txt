@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\04ConcatenateData\bin\Debug\04ConcatenateData.exe.config
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\04ConcatenateData\bin\Debug\04ConcatenateData.exe
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\04ConcatenateData\bin\Debug\04ConcatenateData.pdb
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\04ConcatenateData\obj\Debug\04ConcatenateData.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\04ConcatenateData\obj\Debug\04ConcatenateData.exe
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\04ConcatenateData\obj\Debug\04ConcatenateData.pdb

@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\01. Trip To World Cup\bin\Debug\_01.Trip_To_World_Cup.exe.config
+C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\01. Trip To World Cup\bin\Debug\_01.Trip_To_World_Cup.exe
+C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\01. Trip To World Cup\bin\Debug\_01.Trip_To_World_Cup.pdb
+C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\01. Trip To World Cup\obj\Debug\01. Trip To World Cup.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\01. Trip To World Cup\obj\Debug\_01.Trip_To_World_Cup.exe
+C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\01. Trip To World Cup\obj\Debug\_01.Trip_To_World_Cup.pdb

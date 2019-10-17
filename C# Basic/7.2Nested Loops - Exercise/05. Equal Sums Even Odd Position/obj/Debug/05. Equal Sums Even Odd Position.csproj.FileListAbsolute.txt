@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\05. Equal Sums Even Odd Position\bin\Debug\_05.Equal_Sums_Even_Odd_Position.exe.config
+C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\05. Equal Sums Even Odd Position\bin\Debug\_05.Equal_Sums_Even_Odd_Position.exe
+C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\05. Equal Sums Even Odd Position\bin\Debug\_05.Equal_Sums_Even_Odd_Position.pdb
+C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\05. Equal Sums Even Odd Position\obj\Debug\05. Equal Sums Even Odd Position.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\05. Equal Sums Even Odd Position\obj\Debug\_05.Equal_Sums_Even_Odd_Position.exe
+C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\05. Equal Sums Even Odd Position\obj\Debug\_05.Equal_Sums_Even_Odd_Position.pdb

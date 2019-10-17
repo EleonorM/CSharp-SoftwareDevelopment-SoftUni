@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\Programming Basics Sample Exam - 25 November 2018\06. Multiply Table\bin\Debug\_06.Multiply_Table.exe.config
-C:\Elie\SoftUni\Live\Basic\Programming Basics Sample Exam - 25 November 2018\06. Multiply Table\bin\Debug\_06.Multiply_Table.exe
-C:\Elie\SoftUni\Live\Basic\Programming Basics Sample Exam - 25 November 2018\06. Multiply Table\bin\Debug\_06.Multiply_Table.pdb
-C:\Elie\SoftUni\Live\Basic\Programming Basics Sample Exam - 25 November 2018\06. Multiply Table\obj\Debug\06. Multiply Table.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\Programming Basics Sample Exam - 25 November 2018\06. Multiply Table\obj\Debug\_06.Multiply_Table.exe
-C:\Elie\SoftUni\Live\Basic\Programming Basics Sample Exam - 25 November 2018\06. Multiply Table\obj\Debug\_06.Multiply_Table.pdb

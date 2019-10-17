@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\06. Charity Campaign\bin\Debug\_06.Charity_Campaign.exe.config
-C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\06. Charity Campaign\bin\Debug\_06.Charity_Campaign.exe
-C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\06. Charity Campaign\bin\Debug\_06.Charity_Campaign.pdb
-C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\06. Charity Campaign\obj\Debug\06. Charity Campaign.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\06. Charity Campaign\obj\Debug\_06.Charity_Campaign.exe
-C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\06. Charity Campaign\obj\Debug\_06.Charity_Campaign.pdb

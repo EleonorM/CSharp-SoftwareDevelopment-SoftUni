@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\06. Ticket Combination\bin\Debug\_06.Ticket_Combination.exe.config
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\06. Ticket Combination\bin\Debug\_06.Ticket_Combination.exe
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\06. Ticket Combination\bin\Debug\_06.Ticket_Combination.pdb
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\06. Ticket Combination\obj\Debug\06. Ticket Combination.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\06. Ticket Combination\obj\Debug\06. Ticket Combination.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\06. Ticket Combination\obj\Debug\_06.Ticket_Combination.exe
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\06. Ticket Combination\obj\Debug\_06.Ticket_Combination.pdb

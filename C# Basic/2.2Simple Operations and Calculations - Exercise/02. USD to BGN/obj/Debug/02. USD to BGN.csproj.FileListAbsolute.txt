@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\02. USD to BGN\bin\Debug\_02.USD_to_BGN.exe.config
+C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\02. USD to BGN\bin\Debug\_02.USD_to_BGN.exe
+C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\02. USD to BGN\bin\Debug\_02.USD_to_BGN.pdb
+C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\02. USD to BGN\obj\Debug\02. USD to BGN.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\02. USD to BGN\obj\Debug\_02.USD_to_BGN.exe
+C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\02. USD to BGN\obj\Debug\_02.USD_to_BGN.pdb

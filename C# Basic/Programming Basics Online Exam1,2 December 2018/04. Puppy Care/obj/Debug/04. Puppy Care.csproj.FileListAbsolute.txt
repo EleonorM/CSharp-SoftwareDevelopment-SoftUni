@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\04. Puppy Care\bin\Debug\_04.Puppy_Care.exe.config
+C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\04. Puppy Care\bin\Debug\_04.Puppy_Care.exe
+C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\04. Puppy Care\bin\Debug\_04.Puppy_Care.pdb
+C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\04. Puppy Care\obj\Debug\04. Puppy Care.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\04. Puppy Care\obj\Debug\_04.Puppy_Care.exe
+C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\04. Puppy Care\obj\Debug\_04.Puppy_Care.pdb

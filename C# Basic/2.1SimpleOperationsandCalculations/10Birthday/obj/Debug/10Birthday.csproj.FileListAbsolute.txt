@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\10Birthday\bin\Debug\10Birthday.exe.config
+C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\10Birthday\bin\Debug\10Birthday.exe
+C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\10Birthday\bin\Debug\10Birthday.pdb
+C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\10Birthday\obj\Debug\10Birthday.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\10Birthday\obj\Debug\10Birthday.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\10Birthday\obj\Debug\10Birthday.exe
+C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\10Birthday\obj\Debug\10Birthday.pdb

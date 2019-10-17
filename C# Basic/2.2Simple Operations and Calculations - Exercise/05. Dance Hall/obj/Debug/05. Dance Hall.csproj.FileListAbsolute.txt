@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\05. Dance Hall\bin\Debug\_05.Dance_Hall.exe.config
+C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\05. Dance Hall\bin\Debug\_05.Dance_Hall.exe
+C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\05. Dance Hall\bin\Debug\_05.Dance_Hall.pdb
+C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\05. Dance Hall\obj\Debug\05. Dance Hall.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\05. Dance Hall\obj\Debug\_05.Dance_Hall.exe
+C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\05. Dance Hall\obj\Debug\_05.Dance_Hall.pdb

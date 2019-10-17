@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\201.Conditional Statements - Lab\03. Greater Number\bin\Debug\_03.Greater_Number.exe.config
-C:\Elie\SoftUni\Live\201.Conditional Statements - Lab\03. Greater Number\bin\Debug\_03.Greater_Number.exe
-C:\Elie\SoftUni\Live\201.Conditional Statements - Lab\03. Greater Number\bin\Debug\_03.Greater_Number.pdb
-C:\Elie\SoftUni\Live\201.Conditional Statements - Lab\03. Greater Number\obj\Debug\03. Greater Number.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\201.Conditional Statements - Lab\03. Greater Number\obj\Debug\03. Greater Number.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\201.Conditional Statements - Lab\03. Greater Number\obj\Debug\_03.Greater_Number.exe
-C:\Elie\SoftUni\Live\201.Conditional Statements - Lab\03. Greater Number\obj\Debug\_03.Greater_Number.pdb

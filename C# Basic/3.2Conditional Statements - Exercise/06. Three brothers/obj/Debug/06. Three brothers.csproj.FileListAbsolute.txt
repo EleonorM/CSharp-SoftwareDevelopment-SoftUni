@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\06. Three brothers\bin\Debug\_06.Three_brothers.exe.config
+C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\06. Three brothers\bin\Debug\_06.Three_brothers.exe
+C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\06. Three brothers\bin\Debug\_06.Three_brothers.pdb
+C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\06. Three brothers\obj\Debug\06. Three brothers.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\06. Three brothers\obj\Debug\_06.Three_brothers.exe
+C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\06. Three brothers\obj\Debug\_06.Three_brothers.pdb

@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\04. Summer Outfit\bin\Debug\_04.Summer_Outfit.exe.config
+C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\04. Summer Outfit\bin\Debug\_04.Summer_Outfit.exe
+C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\04. Summer Outfit\bin\Debug\_04.Summer_Outfit.pdb
+C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\04. Summer Outfit\obj\Debug\04. Summer Outfit.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\04. Summer Outfit\obj\Debug\_04.Summer_Outfit.exe
+C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\04. Summer Outfit\obj\Debug\_04.Summer_Outfit.pdb

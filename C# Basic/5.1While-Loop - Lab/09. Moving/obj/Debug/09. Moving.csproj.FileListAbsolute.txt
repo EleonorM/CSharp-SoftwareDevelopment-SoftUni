@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\09. Moving\bin\Debug\_09.Moving.exe.config
+C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\09. Moving\bin\Debug\_09.Moving.exe
+C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\09. Moving\bin\Debug\_09.Moving.pdb
+C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\09. Moving\obj\Debug\09. Moving.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\09. Moving\obj\Debug\_09.Moving.exe
+C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\09. Moving\obj\Debug\_09.Moving.pdb

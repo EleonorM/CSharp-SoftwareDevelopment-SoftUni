@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\06. Account Balance\bin\Debug\_06.Account_Balance.exe.config
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\06. Account Balance\bin\Debug\_06.Account_Balance.exe
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\06. Account Balance\bin\Debug\_06.Account_Balance.pdb
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\06. Account Balance\obj\Debug\06. Account Balance.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\06. Account Balance\obj\Debug\_06.Account_Balance.exe
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\06. Account Balance\obj\Debug\_06.Account_Balance.pdb

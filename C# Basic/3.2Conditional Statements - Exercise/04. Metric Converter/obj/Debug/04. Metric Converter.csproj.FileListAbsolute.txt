@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\04. Metric Converter\bin\Debug\_04.Metric_Converter.exe.config
+C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\04. Metric Converter\bin\Debug\_04.Metric_Converter.exe
+C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\04. Metric Converter\bin\Debug\_04.Metric_Converter.pdb
+C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\04. Metric Converter\obj\Debug\04. Metric Converter.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\04. Metric Converter\obj\Debug\_04.Metric_Converter.exe
+C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\04. Metric Converter\obj\Debug\_04.Metric_Converter.pdb

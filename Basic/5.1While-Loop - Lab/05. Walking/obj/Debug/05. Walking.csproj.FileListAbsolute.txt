@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\05. Walking\bin\Debug\_05.Walking.exe.config
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\05. Walking\bin\Debug\_05.Walking.exe
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\05. Walking\bin\Debug\_05.Walking.pdb
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\05. Walking\obj\Debug\05. Walking.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\05. Walking\obj\Debug\05. Walking.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\05. Walking\obj\Debug\_05.Walking.exe
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\05. Walking\obj\Debug\_05.Walking.pdb

@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\01. Wedding Hall\bin\Debug\_01.Wedding_Hall.exe.config
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\01. Wedding Hall\bin\Debug\_01.Wedding_Hall.exe
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\01. Wedding Hall\bin\Debug\_01.Wedding_Hall.pdb
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\01. Wedding Hall\obj\Debug\01. Wedding Hall.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\01. Wedding Hall\obj\Debug\01. Wedding Hall.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\01. Wedding Hall\obj\Debug\_01.Wedding_Hall.exe
+C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\01. Wedding Hall\obj\Debug\_01.Wedding_Hall.pdb

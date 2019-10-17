@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\Basic\Programming Basics Sample Exam - 25 November 2018\02. Spaceship\bin\Debug\_02.Spaceship.exe.config
+C:\Elie\SoftUni\Live\Basic\Programming Basics Sample Exam - 25 November 2018\02. Spaceship\bin\Debug\_02.Spaceship.exe
+C:\Elie\SoftUni\Live\Basic\Programming Basics Sample Exam - 25 November 2018\02. Spaceship\bin\Debug\_02.Spaceship.pdb
+C:\Elie\SoftUni\Live\Basic\Programming Basics Sample Exam - 25 November 2018\02. Spaceship\obj\Debug\02. Spaceship.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\Programming Basics Sample Exam - 25 November 2018\02. Spaceship\obj\Debug\_02.Spaceship.exe
+C:\Elie\SoftUni\Live\Basic\Programming Basics Sample Exam - 25 November 2018\02. Spaceship\obj\Debug\_02.Spaceship.pdb

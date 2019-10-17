@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\SquareArea\bin\Debug\SquareArea.exe.config
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\SquareArea\bin\Debug\SquareArea.exe
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\SquareArea\bin\Debug\SquareArea.pdb
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\SquareArea\obj\Debug\01SquareArea.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\SquareArea\obj\Debug\01SquareArea.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\SquareArea\obj\Debug\SquareArea.exe
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\SquareArea\obj\Debug\SquareArea.pdb

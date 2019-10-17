@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\07TriangleArea\bin\Debug\07TriangleArea.exe.config
+C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\07TriangleArea\bin\Debug\07TriangleArea.exe
+C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\07TriangleArea\bin\Debug\07TriangleArea.pdb
+C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\07TriangleArea\obj\Debug\07TriangleArea.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\07TriangleArea\obj\Debug\07TriangleArea.exe
+C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\07TriangleArea\obj\Debug\07TriangleArea.pdb

@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\07. Alcohol Market\bin\Debug\_07.Alcohol_Market.exe.config
+C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\07. Alcohol Market\bin\Debug\_07.Alcohol_Market.exe
+C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\07. Alcohol Market\bin\Debug\_07.Alcohol_Market.pdb
+C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\07. Alcohol Market\obj\Debug\07. Alcohol Market.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\07. Alcohol Market\obj\Debug\_07.Alcohol_Market.exe
+C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\07. Alcohol Market\obj\Debug\_07.Alcohol_Market.pdb

@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\05TrapezoidArea\bin\Debug\05TrapezoidArea.exe.config
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\05TrapezoidArea\bin\Debug\05TrapezoidArea.exe
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\05TrapezoidArea\bin\Debug\05TrapezoidArea.pdb
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\05TrapezoidArea\obj\Debug\05TrapezoidArea.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\05TrapezoidArea\obj\Debug\05TrapezoidArea.exe
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\05TrapezoidArea\obj\Debug\05TrapezoidArea.pdb

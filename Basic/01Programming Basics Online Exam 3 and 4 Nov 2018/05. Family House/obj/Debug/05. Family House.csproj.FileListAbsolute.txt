@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\05. Family House\bin\Debug\_05.Family_House.exe.config
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\05. Family House\bin\Debug\_05.Family_House.exe
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\05. Family House\bin\Debug\_05.Family_House.pdb
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\05. Family House\obj\Debug\05. Family House.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\05. Family House\obj\Debug\_05.Family_House.exe
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\05. Family House\obj\Debug\_05.Family_House.pdb

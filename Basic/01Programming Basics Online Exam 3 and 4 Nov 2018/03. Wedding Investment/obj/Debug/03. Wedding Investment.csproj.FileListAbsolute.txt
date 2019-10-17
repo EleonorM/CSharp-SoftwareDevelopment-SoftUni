@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\03. Wedding Investment\bin\Debug\_03.Wedding_Investment.exe.config
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\03. Wedding Investment\bin\Debug\_03.Wedding_Investment.exe
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\03. Wedding Investment\bin\Debug\_03.Wedding_Investment.pdb
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\03. Wedding Investment\obj\Debug\03. Wedding Investment.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\03. Wedding Investment\obj\Debug\03. Wedding Investment.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\03. Wedding Investment\obj\Debug\_03.Wedding_Investment.exe
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\03. Wedding Investment\obj\Debug\_03.Wedding_Investment.pdb

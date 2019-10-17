@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\03. Energy Booster\bin\Debug\_03.Energy_Booster.exe.config
-C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\03. Energy Booster\bin\Debug\_03.Energy_Booster.exe
-C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\03. Energy Booster\bin\Debug\_03.Energy_Booster.pdb
-C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\03. Energy Booster\obj\Debug\03. Energy Booster.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\03. Energy Booster\obj\Debug\_03.Energy_Booster.exe
-C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\03. Energy Booster\obj\Debug\_03.Energy_Booster.pdb

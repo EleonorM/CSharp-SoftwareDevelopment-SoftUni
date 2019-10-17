@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\4.1.Nested Conditional Statements - Lab\01. Personal Titles\bin\Debug\_01.Personal_Titles.exe.config
-C:\Elie\SoftUni\Live\4.1.Nested Conditional Statements - Lab\01. Personal Titles\bin\Debug\_01.Personal_Titles.exe
-C:\Elie\SoftUni\Live\4.1.Nested Conditional Statements - Lab\01. Personal Titles\bin\Debug\_01.Personal_Titles.pdb
-C:\Elie\SoftUni\Live\4.1.Nested Conditional Statements - Lab\01. Personal Titles\obj\Debug\01. Personal Titles.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\4.1.Nested Conditional Statements - Lab\01. Personal Titles\obj\Debug\01. Personal Titles.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\4.1.Nested Conditional Statements - Lab\01. Personal Titles\obj\Debug\_01.Personal_Titles.exe
-C:\Elie\SoftUni\Live\4.1.Nested Conditional Statements - Lab\01. Personal Titles\obj\Debug\_01.Personal_Titles.pdb

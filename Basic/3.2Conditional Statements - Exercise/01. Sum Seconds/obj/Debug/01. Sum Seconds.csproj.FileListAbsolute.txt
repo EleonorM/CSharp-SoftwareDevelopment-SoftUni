@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\_01.Sum_Seconds.exe.config
-C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\_01.Sum_Seconds.exe
-C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\_01.Sum_Seconds.pdb
-C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\01. Sum Seconds.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\01. Sum Seconds.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\_01.Sum_Seconds.exe
-C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\_01.Sum_Seconds.pdb

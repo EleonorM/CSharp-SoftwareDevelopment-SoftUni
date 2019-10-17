@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\02. Wedding Party\bin\Debug\_02.Wedding_Party.exe.config
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\02. Wedding Party\bin\Debug\_02.Wedding_Party.exe
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\02. Wedding Party\bin\Debug\_02.Wedding_Party.pdb
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\02. Wedding Party\obj\Debug\02. Wedding Party.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\02. Wedding Party\obj\Debug\_02.Wedding_Party.exe
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\02. Wedding Party\obj\Debug\_02.Wedding_Party.pdb

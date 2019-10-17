@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\08. Cookie factory\bin\Debug\_08.Cookie_factory.exe.config
-C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\08. Cookie factory\bin\Debug\_08.Cookie_factory.exe
-C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\08. Cookie factory\bin\Debug\_08.Cookie_factory.pdb
-C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\08. Cookie factory\obj\Debug\08. Cookie factory.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\08. Cookie factory\obj\Debug\_08.Cookie_factory.exe
-C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\08. Cookie factory\obj\Debug\_08.Cookie_factory.pdb
-C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\08. Cookie factory\obj\Debug\08. Cookie factory.csprojAssemblyReference.cache

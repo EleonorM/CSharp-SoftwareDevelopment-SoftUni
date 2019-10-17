@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\03. Exam Preparation\bin\Debug\_03.Exam_Preparation.exe.config
+C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\03. Exam Preparation\bin\Debug\_03.Exam_Preparation.exe
+C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\03. Exam Preparation\bin\Debug\_03.Exam_Preparation.pdb
+C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\03. Exam Preparation\obj\Debug\03. Exam Preparation.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\03. Exam Preparation\obj\Debug\_03.Exam_Preparation.exe
+C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\03. Exam Preparation\obj\Debug\_03.Exam_Preparation.pdb

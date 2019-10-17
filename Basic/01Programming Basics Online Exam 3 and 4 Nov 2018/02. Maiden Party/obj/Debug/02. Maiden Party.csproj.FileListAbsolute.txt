@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\02. Maiden Party\bin\Debug\_02.Maiden_Party.exe.config
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\02. Maiden Party\bin\Debug\_02.Maiden_Party.exe
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\02. Maiden Party\bin\Debug\_02.Maiden_Party.pdb
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\02. Maiden Party\obj\Debug\02. Maiden Party.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\02. Maiden Party\obj\Debug\_02.Maiden_Party.exe
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\02. Maiden Party\obj\Debug\_02.Maiden_Party.pdb

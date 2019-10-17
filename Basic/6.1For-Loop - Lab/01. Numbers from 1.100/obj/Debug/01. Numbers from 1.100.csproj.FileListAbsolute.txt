@@ -1,2 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\6.1For-Loop - Lab\01. Numbers from 1.100\obj\Debug\01. Numbers from 1.100.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\Basic\6.1For-Loop - Lab\01. Numbers from 1.100\obj\Debug\01. Numbers from 1.100.csproj.CoreCompileInputs.cache

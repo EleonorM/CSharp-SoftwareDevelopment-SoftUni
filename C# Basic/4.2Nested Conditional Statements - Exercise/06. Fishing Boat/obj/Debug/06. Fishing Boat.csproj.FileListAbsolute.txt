@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\06. Fishing Boat\bin\Debug\_06.Fishing_Boat.exe.config
+C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\06. Fishing Boat\bin\Debug\_06.Fishing_Boat.exe
+C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\06. Fishing Boat\bin\Debug\_06.Fishing_Boat.pdb
+C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\06. Fishing Boat\obj\Debug\06. Fishing Boat.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\06. Fishing Boat\obj\Debug\_06.Fishing_Boat.exe
+C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\06. Fishing Boat\obj\Debug\_06.Fishing_Boat.pdb

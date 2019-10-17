@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\04. Own Bussiness\bin\Debug\_04.Own_Bussiness.exe.config
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\04. Own Bussiness\bin\Debug\_04.Own_Bussiness.exe
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\04. Own Bussiness\bin\Debug\_04.Own_Bussiness.pdb
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\04. Own Bussiness\obj\Debug\04. Own Bussiness.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\04. Own Bussiness\obj\Debug\04. Own Bussiness.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\04. Own Bussiness\obj\Debug\_04.Own_Bussiness.exe
+C:\Elie\SoftUni\Live\00.Retake Exam11and12August2018\04. Own Bussiness\obj\Debug\_04.Own_Bussiness.pdb

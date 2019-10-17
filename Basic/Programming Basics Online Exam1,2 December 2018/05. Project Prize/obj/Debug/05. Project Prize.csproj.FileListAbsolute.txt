@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\05. Project Prize\bin\Debug\_05.Project_Prize.exe.config
-C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\05. Project Prize\bin\Debug\_05.Project_Prize.exe
-C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\05. Project Prize\bin\Debug\_05.Project_Prize.pdb
-C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\05. Project Prize\obj\Debug\05. Project Prize.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\05. Project Prize\obj\Debug\_05.Project_Prize.exe
-C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\05. Project Prize\obj\Debug\_05.Project_Prize.pdb

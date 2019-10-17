@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Live\Basic\Programming Basics Sample Exam - 25 November 2018\05. Bus\bin\Debug\_05.Bus.exe.config
+C:\Elie\SoftUni\Live\Basic\Programming Basics Sample Exam - 25 November 2018\05. Bus\bin\Debug\_05.Bus.exe
+C:\Elie\SoftUni\Live\Basic\Programming Basics Sample Exam - 25 November 2018\05. Bus\bin\Debug\_05.Bus.pdb
+C:\Elie\SoftUni\Live\Basic\Programming Basics Sample Exam - 25 November 2018\05. Bus\obj\Debug\05. Bus.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Basic\Programming Basics Sample Exam - 25 November 2018\05. Bus\obj\Debug\05. Bus.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\Programming Basics Sample Exam - 25 November 2018\05. Bus\obj\Debug\_05.Bus.exe
+C:\Elie\SoftUni\Live\Basic\Programming Basics Sample Exam - 25 November 2018\05. Bus\obj\Debug\_05.Bus.pdb

@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\06. Equal Sums Left Right Position\bin\Debug\_06.Equal_Sums_Left_Right_Position.exe.config
+C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\06. Equal Sums Left Right Position\bin\Debug\_06.Equal_Sums_Left_Right_Position.exe
+C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\06. Equal Sums Left Right Position\bin\Debug\_06.Equal_Sums_Left_Right_Position.pdb
+C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\06. Equal Sums Left Right Position\obj\Debug\06. Equal Sums Left Right Position.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\06. Equal Sums Left Right Position\obj\Debug\_06.Equal_Sums_Left_Right_Position.exe
+C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\06. Equal Sums Left Right Position\obj\Debug\_06.Equal_Sums_Left_Right_Position.pdb

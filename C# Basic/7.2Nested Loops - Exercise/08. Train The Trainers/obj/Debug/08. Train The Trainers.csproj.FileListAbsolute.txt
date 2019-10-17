@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\08. Train The Trainers\bin\Debug\_08.Train_The_Trainers.exe.config
+C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\08. Train The Trainers\bin\Debug\_08.Train_The_Trainers.exe
+C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\08. Train The Trainers\bin\Debug\_08.Train_The_Trainers.pdb
+C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\08. Train The Trainers\obj\Debug\08. Train The Trainers.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\08. Train The Trainers\obj\Debug\08. Train The Trainers.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\08. Train The Trainers\obj\Debug\_08.Train_The_Trainers.exe
+C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\08. Train The Trainers\obj\Debug\_08.Train_The_Trainers.pdb

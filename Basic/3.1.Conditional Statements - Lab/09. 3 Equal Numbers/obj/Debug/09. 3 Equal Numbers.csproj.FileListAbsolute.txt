@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\201.Conditional Statements - Lab\09. 3 Equal Numbers\bin\Debug\09. 3 Equal Numbers.exe.config
-C:\Elie\SoftUni\Live\201.Conditional Statements - Lab\09. 3 Equal Numbers\bin\Debug\09. 3 Equal Numbers.exe
-C:\Elie\SoftUni\Live\201.Conditional Statements - Lab\09. 3 Equal Numbers\bin\Debug\09. 3 Equal Numbers.pdb
-C:\Elie\SoftUni\Live\201.Conditional Statements - Lab\09. 3 Equal Numbers\obj\Debug\09. 3 Equal Numbers.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\201.Conditional Statements - Lab\09. 3 Equal Numbers\obj\Debug\09. 3 Equal Numbers.exe
-C:\Elie\SoftUni\Live\201.Conditional Statements - Lab\09. 3 Equal Numbers\obj\Debug\09. 3 Equal Numbers.pdb

@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\03. Currency Converter\bin\Debug\_03.Currency_Converter.exe.config
+C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\03. Currency Converter\bin\Debug\_03.Currency_Converter.exe
+C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\03. Currency Converter\bin\Debug\_03.Currency_Converter.pdb
+C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\03. Currency Converter\obj\Debug\03. Currency Converter.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\03. Currency Converter\obj\Debug\_03.Currency_Converter.exe
+C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\03. Currency Converter\obj\Debug\_03.Currency_Converter.pdb

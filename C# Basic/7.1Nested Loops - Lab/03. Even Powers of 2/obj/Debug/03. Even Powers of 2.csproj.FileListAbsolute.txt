@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\03. Even Powers of 2\bin\Debug\_03.Even_Powers_of_2.exe.config
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\03. Even Powers of 2\bin\Debug\_03.Even_Powers_of_2.exe
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\03. Even Powers of 2\bin\Debug\_03.Even_Powers_of_2.pdb
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\03. Even Powers of 2\obj\Debug\03. Even Powers of 2.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\03. Even Powers of 2\obj\Debug\_03.Even_Powers_of_2.exe
+C:\Elie\SoftUni\Live\Basic\7.1Nested Loops - Lab\03. Even Powers of 2\obj\Debug\_03.Even_Powers_of_2.pdb

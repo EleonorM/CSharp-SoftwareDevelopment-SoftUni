@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\6.2 For-Loop - Exercise\07. Salary\bin\Debug\_07.Salary.exe.config
-C:\Elie\SoftUni\Live\Basic\6.2 For-Loop - Exercise\07. Salary\bin\Debug\_07.Salary.exe
-C:\Elie\SoftUni\Live\Basic\6.2 For-Loop - Exercise\07. Salary\bin\Debug\_07.Salary.pdb
-C:\Elie\SoftUni\Live\Basic\6.2 For-Loop - Exercise\07. Salary\obj\Debug\07. Salary.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\Basic\6.2 For-Loop - Exercise\07. Salary\obj\Debug\07. Salary.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\6.2 For-Loop - Exercise\07. Salary\obj\Debug\_07.Salary.exe
-C:\Elie\SoftUni\Live\Basic\6.2 For-Loop - Exercise\07. Salary\obj\Debug\_07.Salary.pdb

@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\05. Coins\bin\Debug\_05.Coins.exe.config
-C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\05. Coins\bin\Debug\_05.Coins.exe
-C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\05. Coins\bin\Debug\_05.Coins.pdb
-C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\05. Coins\obj\Debug\05. Coins.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\05. Coins\obj\Debug\05. Coins.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\05. Coins\obj\Debug\_05.Coins.exe
-C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\05. Coins\obj\Debug\_05.Coins.pdb

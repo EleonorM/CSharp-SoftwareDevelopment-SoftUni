@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\02. Bonus Score\bin\Debug\_02.Bonus_Score.exe.config
+C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\02. Bonus Score\bin\Debug\_02.Bonus_Score.exe
+C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\02. Bonus Score\bin\Debug\_02.Bonus_Score.pdb
+C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\02. Bonus Score\obj\Debug\02. Bonus Score.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\02. Bonus Score\obj\Debug\_02.Bonus_Score.exe
+C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\02. Bonus Score\obj\Debug\_02.Bonus_Score.pdb
