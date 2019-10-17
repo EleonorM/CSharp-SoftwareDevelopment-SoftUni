@@ -1,0 +1,10 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\04. Even Times\bin\Debug\netcoreapp2.2\04. Even Times.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\04. Even Times\bin\Debug\netcoreapp2.2\04. Even Times.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\04. Even Times\bin\Debug\netcoreapp2.2\04. Even Times.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\04. Even Times\bin\Debug\netcoreapp2.2\04. Even Times.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\04. Even Times\bin\Debug\netcoreapp2.2\04. Even Times.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\04. Even Times\obj\Debug\netcoreapp2.2\04. Even Times.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\04. Even Times\obj\Debug\netcoreapp2.2\04. Even Times.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\04. Even Times\obj\Debug\netcoreapp2.2\04. Even Times.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\04. Even Times\obj\Debug\netcoreapp2.2\04. Even Times.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\04. Even Times\obj\Debug\netcoreapp2.2\04. Even Times.pdb

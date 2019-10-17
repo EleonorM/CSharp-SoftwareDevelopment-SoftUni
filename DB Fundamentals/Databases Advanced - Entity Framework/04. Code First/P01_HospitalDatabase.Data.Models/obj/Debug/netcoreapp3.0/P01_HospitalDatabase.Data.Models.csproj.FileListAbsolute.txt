@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\04. Code First\P01_HospitalDatabase.Data.Models\bin\Debug\netcoreapp3.0\P01_HospitalDatabase.Data.Models.deps.json
-C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\04. Code First\P01_HospitalDatabase.Data.Models\bin\Debug\netcoreapp3.0\P01_HospitalDatabase.Data.Models.dll
-C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\04. Code First\P01_HospitalDatabase.Data.Models\bin\Debug\netcoreapp3.0\P01_HospitalDatabase.Data.Models.pdb
-C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\04. Code First\P01_HospitalDatabase.Data.Models\obj\Debug\netcoreapp3.0\P01_HospitalDatabase.Data.Models.AssemblyInfoInputs.cache
-C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\04. Code First\P01_HospitalDatabase.Data.Models\obj\Debug\netcoreapp3.0\P01_HospitalDatabase.Data.Models.AssemblyInfo.cs
-C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\04. Code First\P01_HospitalDatabase.Data.Models\obj\Debug\netcoreapp3.0\P01_HospitalDatabase.Data.Models.dll
-C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\04. Code First\P01_HospitalDatabase.Data.Models\obj\Debug\netcoreapp3.0\P01_HospitalDatabase.Data.Models.pdb

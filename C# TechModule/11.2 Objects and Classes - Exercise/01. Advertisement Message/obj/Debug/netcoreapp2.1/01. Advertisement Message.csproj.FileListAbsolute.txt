@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp2.1\01. Advertisement Message.deps.json
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp2.1\01. Advertisement Message.runtimeconfig.json
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp2.1\01. Advertisement Message.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp2.1\01. Advertisement Message.dll
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp2.1\01. Advertisement Message.pdb
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp2.1\01. Advertisement Message.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp2.1\01. Advertisement Message.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp2.1\01. Advertisement Message.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp2.1\01. Advertisement Message.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp2.1\01. Advertisement Message.dll
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp2.1\01. Advertisement Message.pdb

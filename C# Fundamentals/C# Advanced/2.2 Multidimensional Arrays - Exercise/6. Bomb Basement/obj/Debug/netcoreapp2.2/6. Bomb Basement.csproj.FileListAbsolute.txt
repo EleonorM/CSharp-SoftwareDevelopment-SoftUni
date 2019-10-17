@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\6. Bomb Basement\bin\Debug\netcoreapp2.2\6. Bomb Basement.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\6. Bomb Basement\bin\Debug\netcoreapp2.2\6. Bomb Basement.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\6. Bomb Basement\bin\Debug\netcoreapp2.2\6. Bomb Basement.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\6. Bomb Basement\bin\Debug\netcoreapp2.2\6. Bomb Basement.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\6. Bomb Basement\bin\Debug\netcoreapp2.2\6. Bomb Basement.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\6. Bomb Basement\obj\Debug\netcoreapp2.2\6. Bomb Basement.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\6. Bomb Basement\obj\Debug\netcoreapp2.2\6. Bomb Basement.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\6. Bomb Basement\obj\Debug\netcoreapp2.2\6. Bomb Basement.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\6. Bomb Basement\obj\Debug\netcoreapp2.2\6. Bomb Basement.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\6. Bomb Basement\obj\Debug\netcoreapp2.2\6. Bomb Basement.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\6. Bomb Basement\obj\Debug\netcoreapp2.2\6. Bomb Basement.csprojAssemblyReference.cache

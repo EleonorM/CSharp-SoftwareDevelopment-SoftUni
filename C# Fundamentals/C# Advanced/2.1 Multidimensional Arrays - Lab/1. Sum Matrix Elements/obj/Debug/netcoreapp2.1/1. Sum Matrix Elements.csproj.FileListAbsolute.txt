@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.1 Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp2.1\1. Sum Matrix Elements.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.1 Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp2.1\1. Sum Matrix Elements.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.1 Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp2.1\1. Sum Matrix Elements.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.1 Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp2.1\1. Sum Matrix Elements.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.1 Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp2.1\1. Sum Matrix Elements.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.1 Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp2.1\1. Sum Matrix Elements.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.1 Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp2.1\1. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.1 Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp2.1\1. Sum Matrix Elements.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.1 Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp2.1\1. Sum Matrix Elements.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.1 Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp2.1\1. Sum Matrix Elements.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.1 Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp2.1\1. Sum Matrix Elements.pdb

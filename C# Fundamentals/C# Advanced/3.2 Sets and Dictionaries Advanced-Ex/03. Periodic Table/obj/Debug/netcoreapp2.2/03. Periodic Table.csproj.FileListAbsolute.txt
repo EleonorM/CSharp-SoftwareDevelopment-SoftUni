@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\03. Periodic Table\bin\Debug\netcoreapp2.2\03. Periodic Table.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\03. Periodic Table\bin\Debug\netcoreapp2.2\03. Periodic Table.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\03. Periodic Table\bin\Debug\netcoreapp2.2\03. Periodic Table.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\03. Periodic Table\bin\Debug\netcoreapp2.2\03. Periodic Table.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\03. Periodic Table\bin\Debug\netcoreapp2.2\03. Periodic Table.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\03. Periodic Table\obj\Debug\netcoreapp2.2\03. Periodic Table.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\03. Periodic Table\obj\Debug\netcoreapp2.2\03. Periodic Table.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\03. Periodic Table\obj\Debug\netcoreapp2.2\03. Periodic Table.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\03. Periodic Table\obj\Debug\netcoreapp2.2\03. Periodic Table.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\03. Periodic Table\obj\Debug\netcoreapp2.2\03. Periodic Table.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.2 Sets and Dictionaries Advanced-Ex\03. Periodic Table\obj\Debug\netcoreapp2.2\03. Periodic Table.pdb

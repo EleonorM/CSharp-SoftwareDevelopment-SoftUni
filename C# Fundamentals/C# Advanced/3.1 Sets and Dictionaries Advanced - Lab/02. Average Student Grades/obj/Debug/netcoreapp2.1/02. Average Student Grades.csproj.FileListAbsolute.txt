@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.1 Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp2.1\02. Average Student Grades.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.1 Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp2.1\02. Average Student Grades.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.1 Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp2.1\02. Average Student Grades.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.1 Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp2.1\02. Average Student Grades.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.1 Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp2.1\02. Average Student Grades.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.1 Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp2.1\02. Average Student Grades.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.1 Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp2.1\02. Average Student Grades.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.1 Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp2.1\02. Average Student Grades.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.1 Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp2.1\02. Average Student Grades.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.1 Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp2.1\02. Average Student Grades.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\3.1 Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp2.1\02. Average Student Grades.pdb

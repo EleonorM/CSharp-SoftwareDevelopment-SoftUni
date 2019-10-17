@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. EF-Core-DB-Apps-Introduction\02. VillainNames\bin\Debug\netcoreapp2.2\02. VillainNames.deps.json
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. EF-Core-DB-Apps-Introduction\02. VillainNames\bin\Debug\netcoreapp2.2\02. VillainNames.runtimeconfig.json
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. EF-Core-DB-Apps-Introduction\02. VillainNames\bin\Debug\netcoreapp2.2\02. VillainNames.runtimeconfig.dev.json
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. EF-Core-DB-Apps-Introduction\02. VillainNames\bin\Debug\netcoreapp2.2\02. VillainNames.dll
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. EF-Core-DB-Apps-Introduction\02. VillainNames\obj\Debug\netcoreapp2.2\02. VillainNames.csprojAssemblyReference.cache
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. EF-Core-DB-Apps-Introduction\02. VillainNames\obj\Debug\netcoreapp2.2\02. VillainNames.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. EF-Core-DB-Apps-Introduction\02. VillainNames\obj\Debug\netcoreapp2.2\02. VillainNames.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. EF-Core-DB-Apps-Introduction\02. VillainNames\obj\Debug\netcoreapp2.2\02. VillainNames.AssemblyInfo.cs
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. EF-Core-DB-Apps-Introduction\02. VillainNames\bin\Debug\netcoreapp2.2\02. VillainNames.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. EF-Core-DB-Apps-Introduction\02. VillainNames\obj\Debug\netcoreapp2.2\02. VillainNames.dll
+C:\Elie\SoftUni\CSharp-SoftUni\DB Fundamentals\Databases Advanced - Entity Framework\01. EF-Core-DB-Apps-Introduction\02. VillainNames\obj\Debug\netcoreapp2.2\02. VillainNames.pdb

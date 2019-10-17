@@ -1,0 +1,13 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\4.2 Streams, Files and Directories - Ex\3. Word Count\bin\Debug\netcoreapp2.2\3. Word Count.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\4.2 Streams, Files and Directories - Ex\3. Word Count\bin\Debug\netcoreapp2.2\3. Word Count.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\4.2 Streams, Files and Directories - Ex\3. Word Count\bin\Debug\netcoreapp2.2\3. Word Count.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\4.2 Streams, Files and Directories - Ex\3. Word Count\bin\Debug\netcoreapp2.2\3. Word Count.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\4.2 Streams, Files and Directories - Ex\3. Word Count\bin\Debug\netcoreapp2.2\3. Word Count.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\4.2 Streams, Files and Directories - Ex\3. Word Count\obj\Debug\netcoreapp2.2\3. Word Count.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\4.2 Streams, Files and Directories - Ex\3. Word Count\obj\Debug\netcoreapp2.2\3. Word Count.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\4.2 Streams, Files and Directories - Ex\3. Word Count\obj\Debug\netcoreapp2.2\3. Word Count.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\4.2 Streams, Files and Directories - Ex\3. Word Count\obj\Debug\netcoreapp2.2\3. Word Count.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\4.2 Streams, Files and Directories - Ex\3. Word Count\obj\Debug\netcoreapp2.2\3. Word Count.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\4.2 Streams, Files and Directories - Ex\3. Word Count\obj\Debug\netcoreapp2.2\3. Word Count.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\4.2 Streams, Files and Directories - Ex\3. Word Count\bin\Debug\netcoreapp2.2\text.txt
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\4.2 Streams, Files and Directories - Ex\3. Word Count\bin\Debug\netcoreapp2.2\words\words.txt

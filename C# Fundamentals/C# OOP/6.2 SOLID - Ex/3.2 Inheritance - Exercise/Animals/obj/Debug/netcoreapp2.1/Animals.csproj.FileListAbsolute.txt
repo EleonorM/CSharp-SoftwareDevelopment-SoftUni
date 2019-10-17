@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.2 Inheritance - Exercise\Animals\bin\Debug\netcoreapp2.1\Animals.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.2 Inheritance - Exercise\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.2 Inheritance - Exercise\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.2 Inheritance - Exercise\Animals\bin\Debug\netcoreapp2.1\Animals.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.2 Inheritance - Exercise\Animals\bin\Debug\netcoreapp2.1\Animals.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.2 Inheritance - Exercise\Animals\obj\Debug\netcoreapp2.1\Animals.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.2 Inheritance - Exercise\Animals\obj\Debug\netcoreapp2.1\Animals.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.2 Inheritance - Exercise\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.2 Inheritance - Exercise\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.2 Inheritance - Exercise\Animals\obj\Debug\netcoreapp2.1\Animals.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.2 Inheritance - Exercise\Animals\obj\Debug\netcoreapp2.1\Animals.pdb

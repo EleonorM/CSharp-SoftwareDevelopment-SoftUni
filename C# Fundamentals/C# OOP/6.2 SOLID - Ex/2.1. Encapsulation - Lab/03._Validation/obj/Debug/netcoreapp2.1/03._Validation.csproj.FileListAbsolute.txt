@@ -1,0 +1,10 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\03._Validation\bin\Debug\netcoreapp2.1\03._Validation.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\03._Validation\bin\Debug\netcoreapp2.1\03._Validation.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\03._Validation\bin\Debug\netcoreapp2.1\03._Validation.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\03._Validation\bin\Debug\netcoreapp2.1\03._Validation.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\03._Validation\bin\Debug\netcoreapp2.1\03._Validation.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\03._Validation\obj\Debug\netcoreapp2.1\03._Validation.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\03._Validation\obj\Debug\netcoreapp2.1\03._Validation.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\03._Validation\obj\Debug\netcoreapp2.1\03._Validation.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\03._Validation\obj\Debug\netcoreapp2.1\03._Validation.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\03._Validation\obj\Debug\netcoreapp2.1\03._Validation.pdb

@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\4. Matrix shuffling\bin\Debug\netcoreapp2.2\4. Matrix shuffling.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\4. Matrix shuffling\bin\Debug\netcoreapp2.2\4. Matrix shuffling.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\4. Matrix shuffling\bin\Debug\netcoreapp2.2\4. Matrix shuffling.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\4. Matrix shuffling\bin\Debug\netcoreapp2.2\4. Matrix shuffling.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\4. Matrix shuffling\bin\Debug\netcoreapp2.2\4. Matrix shuffling.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\4. Matrix shuffling\obj\Debug\netcoreapp2.2\4. Matrix shuffling.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\4. Matrix shuffling\obj\Debug\netcoreapp2.2\4. Matrix shuffling.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\4. Matrix shuffling\obj\Debug\netcoreapp2.2\4. Matrix shuffling.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\4. Matrix shuffling\obj\Debug\netcoreapp2.2\4. Matrix shuffling.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\4. Matrix shuffling\obj\Debug\netcoreapp2.2\4. Matrix shuffling.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\4. Matrix shuffling\obj\Debug\netcoreapp2.2\4. Matrix shuffling.pdb

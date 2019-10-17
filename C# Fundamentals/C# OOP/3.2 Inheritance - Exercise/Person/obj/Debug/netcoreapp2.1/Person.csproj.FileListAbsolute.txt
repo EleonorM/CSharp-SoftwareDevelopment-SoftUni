@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.2 Inheritance - Exercise\Person\bin\Debug\netcoreapp2.1\Person.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.2 Inheritance - Exercise\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.2 Inheritance - Exercise\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.2 Inheritance - Exercise\Person\bin\Debug\netcoreapp2.1\Person.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.2 Inheritance - Exercise\Person\bin\Debug\netcoreapp2.1\Person.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.2 Inheritance - Exercise\Person\obj\Debug\netcoreapp2.1\Person.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.2 Inheritance - Exercise\Person\obj\Debug\netcoreapp2.1\Person.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.2 Inheritance - Exercise\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.2 Inheritance - Exercise\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.2 Inheritance - Exercise\Person\obj\Debug\netcoreapp2.1\Person.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.2 Inheritance - Exercise\Person\obj\Debug\netcoreapp2.1\Person.pdb

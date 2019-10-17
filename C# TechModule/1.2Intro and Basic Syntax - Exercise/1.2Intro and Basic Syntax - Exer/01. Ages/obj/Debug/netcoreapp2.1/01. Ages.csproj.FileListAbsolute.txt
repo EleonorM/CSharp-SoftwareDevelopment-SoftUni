@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\01. Ages\bin\Debug\netcoreapp2.1\01. Ages.deps.json
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\01. Ages\bin\Debug\netcoreapp2.1\01. Ages.runtimeconfig.json
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\01. Ages\bin\Debug\netcoreapp2.1\01. Ages.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\01. Ages\bin\Debug\netcoreapp2.1\01. Ages.dll
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\01. Ages\bin\Debug\netcoreapp2.1\01. Ages.pdb
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\01. Ages\obj\Debug\netcoreapp2.1\01. Ages.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\01. Ages\obj\Debug\netcoreapp2.1\01. Ages.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\01. Ages\obj\Debug\netcoreapp2.1\01. Ages.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\01. Ages\obj\Debug\netcoreapp2.1\01. Ages.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\01. Ages\obj\Debug\netcoreapp2.1\01. Ages.dll
+C:\Elie\SoftUni\Live\TechModule\1.2Intro and Basic Syntax - Exercise\1.2Intro and Basic Syntax - Exer\01. Ages\obj\Debug\netcoreapp2.1\01. Ages.pdb

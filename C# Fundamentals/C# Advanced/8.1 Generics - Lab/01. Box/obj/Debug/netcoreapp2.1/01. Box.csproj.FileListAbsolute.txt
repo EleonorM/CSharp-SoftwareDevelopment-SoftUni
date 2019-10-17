@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.1 Generics - Lab\01. Box\bin\Debug\netcoreapp2.1\01. Box.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.1 Generics - Lab\01. Box\bin\Debug\netcoreapp2.1\01. Box.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.1 Generics - Lab\01. Box\bin\Debug\netcoreapp2.1\01. Box.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.1 Generics - Lab\01. Box\bin\Debug\netcoreapp2.1\01. Box.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.1 Generics - Lab\01. Box\bin\Debug\netcoreapp2.1\01. Box.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.1 Generics - Lab\01. Box\obj\Debug\netcoreapp2.1\01. Box.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.1 Generics - Lab\01. Box\obj\Debug\netcoreapp2.1\01. Box.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.1 Generics - Lab\01. Box\obj\Debug\netcoreapp2.1\01. Box.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.1 Generics - Lab\01. Box\obj\Debug\netcoreapp2.1\01. Box.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.1 Generics - Lab\01. Box\obj\Debug\netcoreapp2.1\01. Box.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\8.1 Generics - Lab\01. Box\obj\Debug\netcoreapp2.1\01. Box.pdb

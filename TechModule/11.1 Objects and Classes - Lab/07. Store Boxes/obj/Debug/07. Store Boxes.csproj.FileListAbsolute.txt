@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\07. Store Boxes\bin\Debug\_07.Store_Boxes.exe.config
-C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\07. Store Boxes\bin\Debug\_07.Store_Boxes.exe
-C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\07. Store Boxes\bin\Debug\_07.Store_Boxes.pdb
-C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\07. Store Boxes\obj\Debug\07. Store Boxes.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\07. Store Boxes\obj\Debug\07. Store Boxes.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\07. Store Boxes\obj\Debug\_07.Store_Boxes.exe
-C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\07. Store Boxes\obj\Debug\_07.Store_Boxes.pdb

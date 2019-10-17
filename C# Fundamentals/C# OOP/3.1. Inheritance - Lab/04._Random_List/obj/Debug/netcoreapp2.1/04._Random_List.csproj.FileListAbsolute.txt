@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.1. Inheritance - Lab\04._Random_List\bin\Debug\netcoreapp2.1\04._Random_List.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.1. Inheritance - Lab\04._Random_List\bin\Debug\netcoreapp2.1\04._Random_List.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.1. Inheritance - Lab\04._Random_List\bin\Debug\netcoreapp2.1\04._Random_List.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.1. Inheritance - Lab\04._Random_List\bin\Debug\netcoreapp2.1\04._Random_List.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.1. Inheritance - Lab\04._Random_List\bin\Debug\netcoreapp2.1\04._Random_List.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.1. Inheritance - Lab\04._Random_List\obj\Debug\netcoreapp2.1\04._Random_List.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.1. Inheritance - Lab\04._Random_List\obj\Debug\netcoreapp2.1\04._Random_List.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.1. Inheritance - Lab\04._Random_List\obj\Debug\netcoreapp2.1\04._Random_List.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.1. Inheritance - Lab\04._Random_List\obj\Debug\netcoreapp2.1\04._Random_List.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.1. Inheritance - Lab\04._Random_List\obj\Debug\netcoreapp2.1\04._Random_List.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\3.1. Inheritance - Lab\04._Random_List\obj\Debug\netcoreapp2.1\04._Random_List.pdb

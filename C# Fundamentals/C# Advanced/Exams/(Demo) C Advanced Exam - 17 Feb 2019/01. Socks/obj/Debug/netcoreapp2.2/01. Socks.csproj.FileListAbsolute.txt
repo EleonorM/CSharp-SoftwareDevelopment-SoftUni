@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\(Demo) C Advanced Exam - 17 Feb 2019\01. Socks\bin\Debug\netcoreapp2.2\01. Socks.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\(Demo) C Advanced Exam - 17 Feb 2019\01. Socks\bin\Debug\netcoreapp2.2\01. Socks.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\(Demo) C Advanced Exam - 17 Feb 2019\01. Socks\bin\Debug\netcoreapp2.2\01. Socks.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\(Demo) C Advanced Exam - 17 Feb 2019\01. Socks\bin\Debug\netcoreapp2.2\01. Socks.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\(Demo) C Advanced Exam - 17 Feb 2019\01. Socks\bin\Debug\netcoreapp2.2\01. Socks.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\(Demo) C Advanced Exam - 17 Feb 2019\01. Socks\obj\Debug\netcoreapp2.2\01. Socks.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\(Demo) C Advanced Exam - 17 Feb 2019\01. Socks\obj\Debug\netcoreapp2.2\01. Socks.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\(Demo) C Advanced Exam - 17 Feb 2019\01. Socks\obj\Debug\netcoreapp2.2\01. Socks.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\(Demo) C Advanced Exam - 17 Feb 2019\01. Socks\obj\Debug\netcoreapp2.2\01. Socks.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\(Demo) C Advanced Exam - 17 Feb 2019\01. Socks\obj\Debug\netcoreapp2.2\01. Socks.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\(Demo) C Advanced Exam - 17 Feb 2019\01. Socks\obj\Debug\netcoreapp2.2\01. Socks.pdb

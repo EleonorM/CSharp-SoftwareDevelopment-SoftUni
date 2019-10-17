@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\02. Articles\bin\Debug\netcoreapp2.1\02. Articles.deps.json
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\02. Articles\bin\Debug\netcoreapp2.1\02. Articles.runtimeconfig.json
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\02. Articles\bin\Debug\netcoreapp2.1\02. Articles.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\02. Articles\bin\Debug\netcoreapp2.1\02. Articles.dll
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\02. Articles\bin\Debug\netcoreapp2.1\02. Articles.pdb
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp2.1\02. Articles.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp2.1\02. Articles.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp2.1\02. Articles.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp2.1\02. Articles.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp2.1\02. Articles.dll
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp2.1\02. Articles.pdb

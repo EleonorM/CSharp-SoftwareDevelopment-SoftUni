@@ -1,0 +1,10 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\02._Salary\bin\Debug\netcoreapp2.1\02._Salary.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\02._Salary\bin\Debug\netcoreapp2.1\02._Salary.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\02._Salary\bin\Debug\netcoreapp2.1\02._Salary.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\02._Salary\bin\Debug\netcoreapp2.1\02._Salary.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\02._Salary\bin\Debug\netcoreapp2.1\02._Salary.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\02._Salary\obj\Debug\netcoreapp2.1\02._Salary.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\02._Salary\obj\Debug\netcoreapp2.1\02._Salary.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\02._Salary\obj\Debug\netcoreapp2.1\02._Salary.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\02._Salary\obj\Debug\netcoreapp2.1\02._Salary.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\2.1. Encapsulation - Lab\02._Salary\obj\Debug\netcoreapp2.1\02._Salary.pdb

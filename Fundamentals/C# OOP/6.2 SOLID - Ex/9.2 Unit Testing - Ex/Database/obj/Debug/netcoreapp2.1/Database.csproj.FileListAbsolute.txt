@@ -1,9 +1,0 @@
-C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\Database\bin\Debug\netcoreapp2.1\Database.deps.json
-C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\Database\bin\Debug\netcoreapp2.1\Database.dll
-C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\Database\bin\Debug\netcoreapp2.1\Database.pdb
-C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\Database\obj\Debug\netcoreapp2.1\Database.csprojAssemblyReference.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\Database\obj\Debug\netcoreapp2.1\Database.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfoInputs.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfo.cs
-C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\Database\obj\Debug\netcoreapp2.1\Database.dll
-C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\Database\obj\Debug\netcoreapp2.1\Database.pdb

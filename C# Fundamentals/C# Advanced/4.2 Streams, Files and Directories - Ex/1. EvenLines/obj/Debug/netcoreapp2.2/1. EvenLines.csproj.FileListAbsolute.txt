@@ -1,0 +1,12 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\4.2 Streams, Files and Directories - Ex\1. EvenLines\bin\Debug\netcoreapp2.2\1. EvenLines.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\4.2 Streams, Files and Directories - Ex\1. EvenLines\bin\Debug\netcoreapp2.2\1. EvenLines.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\4.2 Streams, Files and Directories - Ex\1. EvenLines\bin\Debug\netcoreapp2.2\1. EvenLines.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\4.2 Streams, Files and Directories - Ex\1. EvenLines\bin\Debug\netcoreapp2.2\1. EvenLines.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\4.2 Streams, Files and Directories - Ex\1. EvenLines\bin\Debug\netcoreapp2.2\1. EvenLines.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\4.2 Streams, Files and Directories - Ex\1. EvenLines\obj\Debug\netcoreapp2.2\1. EvenLines.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\4.2 Streams, Files and Directories - Ex\1. EvenLines\obj\Debug\netcoreapp2.2\1. EvenLines.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\4.2 Streams, Files and Directories - Ex\1. EvenLines\obj\Debug\netcoreapp2.2\1. EvenLines.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\4.2 Streams, Files and Directories - Ex\1. EvenLines\obj\Debug\netcoreapp2.2\1. EvenLines.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\4.2 Streams, Files and Directories - Ex\1. EvenLines\obj\Debug\netcoreapp2.2\1. EvenLines.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\4.2 Streams, Files and Directories - Ex\1. EvenLines\obj\Debug\netcoreapp2.2\1. EvenLines.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\4.2 Streams, Files and Directories - Ex\1. EvenLines\bin\Debug\netcoreapp2.2\text.txt

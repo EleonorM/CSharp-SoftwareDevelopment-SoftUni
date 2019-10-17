@@ -1,0 +1,10 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\04. Find Evens or Odds\bin\Debug\netcoreapp2.2\04. Find Evens or Odds.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\04. Find Evens or Odds\bin\Debug\netcoreapp2.2\04. Find Evens or Odds.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\04. Find Evens or Odds\bin\Debug\netcoreapp2.2\04. Find Evens or Odds.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\04. Find Evens or Odds\bin\Debug\netcoreapp2.2\04. Find Evens or Odds.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\04. Find Evens or Odds\bin\Debug\netcoreapp2.2\04. Find Evens or Odds.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\04. Find Evens or Odds\obj\Debug\netcoreapp2.2\04. Find Evens or Odds.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\04. Find Evens or Odds\obj\Debug\netcoreapp2.2\04. Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\04. Find Evens or Odds\obj\Debug\netcoreapp2.2\04. Find Evens or Odds.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\04. Find Evens or Odds\obj\Debug\netcoreapp2.2\04. Find Evens or Odds.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\5.2 Functional Programming - Exercises\04. Find Evens or Odds\obj\Debug\netcoreapp2.2\04. Find Evens or Odds.pdb

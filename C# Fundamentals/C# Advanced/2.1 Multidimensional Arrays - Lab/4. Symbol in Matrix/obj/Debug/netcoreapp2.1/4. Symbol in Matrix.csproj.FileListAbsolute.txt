@@ -1,0 +1,10 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.1 Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp2.1\4. Symbol in Matrix.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.1 Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp2.1\4. Symbol in Matrix.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.1 Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp2.1\4. Symbol in Matrix.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.1 Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp2.1\4. Symbol in Matrix.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.1 Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp2.1\4. Symbol in Matrix.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.1 Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp2.1\4. Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.1 Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp2.1\4. Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.1 Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp2.1\4. Symbol in Matrix.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.1 Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp2.1\4. Symbol in Matrix.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.1 Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp2.1\4. Symbol in Matrix.pdb

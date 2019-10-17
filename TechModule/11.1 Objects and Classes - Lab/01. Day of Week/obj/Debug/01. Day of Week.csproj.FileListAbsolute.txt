@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\01. Day of Week\bin\Debug\_01.Day_of_Week.exe.config
-C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\01. Day of Week\bin\Debug\_01.Day_of_Week.exe
-C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\01. Day of Week\bin\Debug\_01.Day_of_Week.pdb
-C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\01. Day of Week\obj\Debug\01. Day of Week.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\01. Day of Week\obj\Debug\01. Day of Week.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\01. Day of Week\obj\Debug\_01.Day_of_Week.exe
-C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\01. Day of Week\obj\Debug\_01.Day_of_Week.pdb

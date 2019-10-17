@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\05.DateModifier\bin\Debug\netcoreapp2.1\05.DateModifier.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\05.DateModifier\bin\Debug\netcoreapp2.1\05.DateModifier.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\05.DateModifier\bin\Debug\netcoreapp2.1\05.DateModifier.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\05.DateModifier\bin\Debug\netcoreapp2.1\05.DateModifier.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\05.DateModifier\bin\Debug\netcoreapp2.1\05.DateModifier.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\05.DateModifier\obj\Debug\netcoreapp2.1\05.DateModifier.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\05.DateModifier\obj\Debug\netcoreapp2.1\05.DateModifier.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\05.DateModifier\obj\Debug\netcoreapp2.1\05.DateModifier.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\05.DateModifier\obj\Debug\netcoreapp2.1\05.DateModifier.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\05.DateModifier\obj\Debug\netcoreapp2.1\05.DateModifier.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\05.DateModifier\obj\Debug\netcoreapp2.1\05.DateModifier.pdb

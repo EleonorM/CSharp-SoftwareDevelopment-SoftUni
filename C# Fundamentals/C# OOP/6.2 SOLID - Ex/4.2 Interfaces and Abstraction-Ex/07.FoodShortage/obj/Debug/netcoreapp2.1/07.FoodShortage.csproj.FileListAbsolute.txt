@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\07.FoodShortage\bin\Debug\netcoreapp2.1\07.FoodShortage.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\07.FoodShortage\bin\Debug\netcoreapp2.1\07.FoodShortage.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\07.FoodShortage\bin\Debug\netcoreapp2.1\07.FoodShortage.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\07.FoodShortage\bin\Debug\netcoreapp2.1\07.FoodShortage.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\07.FoodShortage\bin\Debug\netcoreapp2.1\07.FoodShortage.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\07.FoodShortage\obj\Debug\netcoreapp2.1\07.FoodShortage.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\07.FoodShortage\obj\Debug\netcoreapp2.1\07.FoodShortage.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\07.FoodShortage\obj\Debug\netcoreapp2.1\07.FoodShortage.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\07.FoodShortage\obj\Debug\netcoreapp2.1\07.FoodShortage.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\07.FoodShortage\obj\Debug\netcoreapp2.1\07.FoodShortage.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\4.2 Interfaces and Abstraction-Ex\07.FoodShortage\obj\Debug\netcoreapp2.1\07.FoodShortage.csprojAssemblyReference.cache

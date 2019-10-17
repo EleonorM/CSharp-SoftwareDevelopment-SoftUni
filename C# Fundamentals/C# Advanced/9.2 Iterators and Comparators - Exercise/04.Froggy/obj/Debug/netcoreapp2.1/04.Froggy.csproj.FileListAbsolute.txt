@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\04.Froggy\bin\Debug\netcoreapp2.1\04.Froggy.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\04.Froggy\bin\Debug\netcoreapp2.1\04.Froggy.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\04.Froggy\bin\Debug\netcoreapp2.1\04.Froggy.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\04.Froggy\bin\Debug\netcoreapp2.1\04.Froggy.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\04.Froggy\bin\Debug\netcoreapp2.1\04.Froggy.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\04.Froggy\obj\Debug\netcoreapp2.1\04.Froggy.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\04.Froggy\obj\Debug\netcoreapp2.1\04.Froggy.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\04.Froggy\obj\Debug\netcoreapp2.1\04.Froggy.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\04.Froggy\obj\Debug\netcoreapp2.1\04.Froggy.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\04.Froggy\obj\Debug\netcoreapp2.1\04.Froggy.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\04.Froggy\obj\Debug\netcoreapp2.1\04.Froggy.csprojAssemblyReference.cache

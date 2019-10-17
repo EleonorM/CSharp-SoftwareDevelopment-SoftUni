@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\.vs\UnitTesting-Skeleton\lut\0\b\FightingArena\Debug\netcoreapp2.1\FightingArena.deps.json
-C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\.vs\UnitTesting-Skeleton\lut\0\b\FightingArena\Debug\netcoreapp2.1\FightingArena.dll
-C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\.vs\UnitTesting-Skeleton\lut\0\i\FightingArena\Debug\netcoreapp2.1\FightingArena.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\.vs\UnitTesting-Skeleton\lut\0\i\FightingArena\Debug\netcoreapp2.1\FightingArena.AssemblyInfoInputs.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\.vs\UnitTesting-Skeleton\lut\0\i\FightingArena\Debug\netcoreapp2.1\FightingArena.AssemblyInfo.cs
-C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\.vs\UnitTesting-Skeleton\lut\0\i\FightingArena\Debug\netcoreapp2.1\FightingArena.csproj.CopyComplete
-C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\.vs\UnitTesting-Skeleton\lut\0\i\FightingArena\Debug\netcoreapp2.1\FightingArena.dll

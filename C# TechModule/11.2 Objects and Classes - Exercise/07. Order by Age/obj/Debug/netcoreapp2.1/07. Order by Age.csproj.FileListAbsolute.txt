@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\07. Order by Age\bin\Debug\netcoreapp2.1\07. Order by Age.deps.json
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\07. Order by Age\bin\Debug\netcoreapp2.1\07. Order by Age.runtimeconfig.json
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\07. Order by Age\bin\Debug\netcoreapp2.1\07. Order by Age.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\07. Order by Age\bin\Debug\netcoreapp2.1\07. Order by Age.dll
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\07. Order by Age\bin\Debug\netcoreapp2.1\07. Order by Age.pdb
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\07. Order by Age\obj\Debug\netcoreapp2.1\07. Order by Age.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\07. Order by Age\obj\Debug\netcoreapp2.1\07. Order by Age.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\07. Order by Age\obj\Debug\netcoreapp2.1\07. Order by Age.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\07. Order by Age\obj\Debug\netcoreapp2.1\07. Order by Age.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\07. Order by Age\obj\Debug\netcoreapp2.1\07. Order by Age.dll
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\07. Order by Age\obj\Debug\netcoreapp2.1\07. Order by Age.pdb

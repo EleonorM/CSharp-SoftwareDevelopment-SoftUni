@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\01.ListyIterator\bin\Debug\netcoreapp2.1\01.ListyIterator.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\01.ListyIterator\bin\Debug\netcoreapp2.1\01.ListyIterator.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\01.ListyIterator\bin\Debug\netcoreapp2.1\01.ListyIterator.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\01.ListyIterator\bin\Debug\netcoreapp2.1\01.ListyIterator.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\01.ListyIterator\bin\Debug\netcoreapp2.1\01.ListyIterator.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp2.1\01.ListyIterator.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp2.1\01.ListyIterator.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp2.1\01.ListyIterator.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp2.1\01.ListyIterator.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp2.1\01.ListyIterator.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\9.2 Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp2.1\01.ListyIterator.pdb

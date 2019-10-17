@@ -1,0 +1,9 @@
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\CarManager\bin\Debug\netcoreapp2.1\CarManager.deps.json
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\CarManager\bin\Debug\netcoreapp2.1\CarManager.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\CarManager\bin\Debug\netcoreapp2.1\CarManager.pdb
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\CarManager\obj\Debug\netcoreapp2.1\CarManager.csprojAssemblyReference.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\CarManager\obj\Debug\netcoreapp2.1\CarManager.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\CarManager\obj\Debug\netcoreapp2.1\CarManager.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\CarManager\obj\Debug\netcoreapp2.1\CarManager.AssemblyInfo.cs
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\CarManager\obj\Debug\netcoreapp2.1\CarManager.dll
+C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\CarManager\obj\Debug\netcoreapp2.1\CarManager.pdb

@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\07. Theatre Promotion\obj\Debug\07. Theatre Promotion.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\07. Theatre Promotion\obj\Debug\07. Theatre Promotion.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\07. Theatre Promotion\bin\Debug\_07.Theatre_Promotion.exe.config
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\07. Theatre Promotion\bin\Debug\_07.Theatre_Promotion.exe
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\07. Theatre Promotion\bin\Debug\_07.Theatre_Promotion.pdb
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\07. Theatre Promotion\obj\Debug\_07.Theatre_Promotion.exe
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\07. Theatre Promotion\obj\Debug\_07.Theatre_Promotion.pdb

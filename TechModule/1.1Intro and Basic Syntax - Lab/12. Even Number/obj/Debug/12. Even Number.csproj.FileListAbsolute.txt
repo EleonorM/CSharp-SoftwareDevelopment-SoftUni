@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\12. Even Number\bin\Debug\_12.Even_Number.exe.config
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\12. Even Number\bin\Debug\_12.Even_Number.exe
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\12. Even Number\bin\Debug\_12.Even_Number.pdb
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\12. Even Number\obj\Debug\12. Even Number.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\12. Even Number\obj\Debug\_12.Even_Number.exe
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\12. Even Number\obj\Debug\_12.Even_Number.pdb

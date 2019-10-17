@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\netcoreapp2.1\05. Shopping Spree.deps.json
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\netcoreapp2.1\05. Shopping Spree.runtimeconfig.json
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\netcoreapp2.1\05. Shopping Spree.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\netcoreapp2.1\05. Shopping Spree.dll
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\netcoreapp2.1\05. Shopping Spree.pdb
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp2.1\05. Shopping Spree.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp2.1\05. Shopping Spree.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp2.1\05. Shopping Spree.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp2.1\05. Shopping Spree.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp2.1\05. Shopping Spree.dll
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp2.1\05. Shopping Spree.pdb

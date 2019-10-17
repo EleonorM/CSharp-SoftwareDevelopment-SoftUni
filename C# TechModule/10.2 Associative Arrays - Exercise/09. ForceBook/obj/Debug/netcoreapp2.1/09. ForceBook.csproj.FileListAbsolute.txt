@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\TechModule\101 Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp2.1\09. ForceBook.deps.json
+C:\Elie\SoftUni\Live\TechModule\101 Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp2.1\09. ForceBook.runtimeconfig.json
+C:\Elie\SoftUni\Live\TechModule\101 Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp2.1\09. ForceBook.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\TechModule\101 Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp2.1\09. ForceBook.dll
+C:\Elie\SoftUni\Live\TechModule\101 Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp2.1\09. ForceBook.pdb
+C:\Elie\SoftUni\Live\TechModule\101 Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp2.1\09. ForceBook.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\TechModule\101 Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp2.1\09. ForceBook.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\TechModule\101 Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp2.1\09. ForceBook.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\TechModule\101 Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp2.1\09. ForceBook.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\TechModule\101 Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp2.1\09. ForceBook.dll
+C:\Elie\SoftUni\Live\TechModule\101 Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp2.1\09. ForceBook.pdb

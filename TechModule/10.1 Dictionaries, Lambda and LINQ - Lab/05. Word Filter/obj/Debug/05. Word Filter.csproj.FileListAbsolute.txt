@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\TechModule\10.Dictionaries, Lambda and LINQ - Lab\05. Word Filter\bin\Debug\_05.Word_Filter.exe.config
-C:\Elie\SoftUni\Live\TechModule\10.Dictionaries, Lambda and LINQ - Lab\05. Word Filter\bin\Debug\_05.Word_Filter.exe
-C:\Elie\SoftUni\Live\TechModule\10.Dictionaries, Lambda and LINQ - Lab\05. Word Filter\bin\Debug\_05.Word_Filter.pdb
-C:\Elie\SoftUni\Live\TechModule\10.Dictionaries, Lambda and LINQ - Lab\05. Word Filter\obj\Debug\05. Word Filter.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\TechModule\10.Dictionaries, Lambda and LINQ - Lab\05. Word Filter\obj\Debug\_05.Word_Filter.exe
-C:\Elie\SoftUni\Live\TechModule\10.Dictionaries, Lambda and LINQ - Lab\05. Word Filter\obj\Debug\_05.Word_Filter.pdb

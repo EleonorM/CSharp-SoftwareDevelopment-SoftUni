@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced Retake Exam-16 April 2019\02.Helen'sAbduction\bin\Debug\netcoreapp2.2\02.Helen'sAbduction.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced Retake Exam-16 April 2019\02.Helen'sAbduction\bin\Debug\netcoreapp2.2\02.Helen'sAbduction.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced Retake Exam-16 April 2019\02.Helen'sAbduction\bin\Debug\netcoreapp2.2\02.Helen'sAbduction.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced Retake Exam-16 April 2019\02.Helen'sAbduction\bin\Debug\netcoreapp2.2\02.Helen'sAbduction.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced Retake Exam-16 April 2019\02.Helen'sAbduction\bin\Debug\netcoreapp2.2\02.Helen'sAbduction.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced Retake Exam-16 April 2019\02.Helen'sAbduction\obj\Debug\netcoreapp2.2\02.Helen'sAbduction.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced Retake Exam-16 April 2019\02.Helen'sAbduction\obj\Debug\netcoreapp2.2\02.Helen'sAbduction.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced Retake Exam-16 April 2019\02.Helen'sAbduction\obj\Debug\netcoreapp2.2\02.Helen'sAbduction.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced Retake Exam-16 April 2019\02.Helen'sAbduction\obj\Debug\netcoreapp2.2\02.Helen'sAbduction.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced Retake Exam-16 April 2019\02.Helen'sAbduction\obj\Debug\netcoreapp2.2\02.Helen'sAbduction.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\Exams\C Advanced Retake Exam-16 April 2019\02.Helen'sAbduction\obj\Debug\netcoreapp2.2\02.Helen'sAbduction.pdb

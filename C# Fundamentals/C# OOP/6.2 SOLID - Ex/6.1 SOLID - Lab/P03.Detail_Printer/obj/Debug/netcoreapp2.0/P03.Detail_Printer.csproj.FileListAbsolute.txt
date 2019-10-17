@@ -1,0 +1,3 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\6.1 SOLID - Lab\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\6.1 SOLID - Lab\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\6.1 SOLID - Lab\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.AssemblyInfo.cs

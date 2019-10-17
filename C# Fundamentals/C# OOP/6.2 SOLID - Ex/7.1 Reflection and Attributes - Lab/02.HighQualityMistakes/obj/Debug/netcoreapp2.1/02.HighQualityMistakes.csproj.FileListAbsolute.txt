@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\7.1 Reflection and Attributes - Lab\02.HighQualityMistakes\bin\Debug\netcoreapp2.1\02.HighQualityMistakes.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\7.1 Reflection and Attributes - Lab\02.HighQualityMistakes\bin\Debug\netcoreapp2.1\02.HighQualityMistakes.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\7.1 Reflection and Attributes - Lab\02.HighQualityMistakes\bin\Debug\netcoreapp2.1\02.HighQualityMistakes.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\7.1 Reflection and Attributes - Lab\02.HighQualityMistakes\bin\Debug\netcoreapp2.1\02.HighQualityMistakes.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\7.1 Reflection and Attributes - Lab\02.HighQualityMistakes\bin\Debug\netcoreapp2.1\02.HighQualityMistakes.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\7.1 Reflection and Attributes - Lab\02.HighQualityMistakes\obj\Debug\netcoreapp2.1\02.HighQualityMistakes.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\7.1 Reflection and Attributes - Lab\02.HighQualityMistakes\obj\Debug\netcoreapp2.1\02.HighQualityMistakes.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\7.1 Reflection and Attributes - Lab\02.HighQualityMistakes\obj\Debug\netcoreapp2.1\02.HighQualityMistakes.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\7.1 Reflection and Attributes - Lab\02.HighQualityMistakes\obj\Debug\netcoreapp2.1\02.HighQualityMistakes.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\7.1 Reflection and Attributes - Lab\02.HighQualityMistakes\obj\Debug\netcoreapp2.1\02.HighQualityMistakes.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# OOP\7.1 Reflection and Attributes - Lab\02.HighQualityMistakes\obj\Debug\netcoreapp2.1\02.HighQualityMistakes.csprojAssemblyReference.cache

@@ -1,0 +1,22 @@
+﻿namespace Chainblock
+{
+    using Contracts;
+
+    public class Transaction : ITransaction
+    {
+        public int Id { get; set; }
+
+        public TransactionStatus Status { get; set; }
+
+        public string From { get; set; }
+
+        public string To { get; set; }
+
+        public double Amount { get; set; }
+
+        public int CompareTo(ITransaction other)
+        {
+            return this.Id.CompareTo(other.Id);
+        }
+    }
+}

@@ -1,0 +1,7 @@
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\04. Songs\bin\Debug\_04.Songs.exe.config
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\04. Songs\bin\Debug\_04.Songs.exe
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\04. Songs\bin\Debug\_04.Songs.pdb
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\04. Songs\obj\Debug\04. Songs.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\04. Songs\obj\Debug\04. Songs.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\04. Songs\obj\Debug\_04.Songs.exe
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\04. Songs\obj\Debug\_04.Songs.pdb

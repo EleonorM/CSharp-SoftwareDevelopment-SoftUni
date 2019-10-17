@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\netcoreapp2.1\06. Vehicle Catalogue.deps.json
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\netcoreapp2.1\06. Vehicle Catalogue.runtimeconfig.json
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\netcoreapp2.1\06. Vehicle Catalogue.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\netcoreapp2.1\06. Vehicle Catalogue.dll
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\netcoreapp2.1\06. Vehicle Catalogue.pdb
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp2.1\06. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp2.1\06. Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp2.1\06. Vehicle Catalogue.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp2.1\06. Vehicle Catalogue.dll
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp2.1\06. Vehicle Catalogue.pdb
+C:\Elie\SoftUni\Live\TechModule\11.2 Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp2.1\06. Vehicle Catalogue.csprojAssemblyReference.cache

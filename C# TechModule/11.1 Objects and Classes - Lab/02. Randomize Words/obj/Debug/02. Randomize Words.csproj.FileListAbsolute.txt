@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\02. Randomize Words\bin\Debug\_02.Randomize_Words.exe.config
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\02. Randomize Words\bin\Debug\_02.Randomize_Words.exe
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\02. Randomize Words\bin\Debug\_02.Randomize_Words.pdb
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\02. Randomize Words\obj\Debug\02. Randomize Words.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\02. Randomize Words\obj\Debug\_02.Randomize_Words.exe
+C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\02. Randomize Words\obj\Debug\_02.Randomize_Words.pdb

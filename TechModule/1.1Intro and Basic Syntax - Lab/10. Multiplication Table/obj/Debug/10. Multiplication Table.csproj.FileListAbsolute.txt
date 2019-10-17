@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\10. Multiplication Table\bin\Debug\_10.Multiplication_Table.exe.config
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\10. Multiplication Table\bin\Debug\_10.Multiplication_Table.exe
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\10. Multiplication Table\bin\Debug\_10.Multiplication_Table.pdb
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\10. Multiplication Table\obj\Debug\10. Multiplication Table.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\10. Multiplication Table\obj\Debug\_10.Multiplication_Table.exe
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\10. Multiplication Table\obj\Debug\_10.Multiplication_Table.pdb

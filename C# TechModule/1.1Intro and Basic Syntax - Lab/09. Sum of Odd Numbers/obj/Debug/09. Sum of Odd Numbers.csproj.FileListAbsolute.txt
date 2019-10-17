@@ -1,0 +1,6 @@
+C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\09. Sum of Odd Numbers\obj\Debug\09. Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\09. Sum of Odd Numbers\bin\Debug\_09.Sum_of_Odd_Numbers.exe.config
+C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\09. Sum of Odd Numbers\bin\Debug\_09.Sum_of_Odd_Numbers.exe
+C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\09. Sum of Odd Numbers\bin\Debug\_09.Sum_of_Odd_Numbers.pdb
+C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\09. Sum of Odd Numbers\obj\Debug\_09.Sum_of_Odd_Numbers.exe
+C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\09. Sum of Odd Numbers\obj\Debug\_09.Sum_of_Odd_Numbers.pdb

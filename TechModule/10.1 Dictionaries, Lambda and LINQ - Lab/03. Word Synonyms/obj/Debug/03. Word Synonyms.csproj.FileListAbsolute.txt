@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\TechModule\10.Dictionaries, Lambda and LINQ - Lab\03. Word Synonyms\bin\Debug\_03.Word_Synonyms.exe.config
-C:\Elie\SoftUni\Live\TechModule\10.Dictionaries, Lambda and LINQ - Lab\03. Word Synonyms\bin\Debug\_03.Word_Synonyms.exe
-C:\Elie\SoftUni\Live\TechModule\10.Dictionaries, Lambda and LINQ - Lab\03. Word Synonyms\bin\Debug\_03.Word_Synonyms.pdb
-C:\Elie\SoftUni\Live\TechModule\10.Dictionaries, Lambda and LINQ - Lab\03. Word Synonyms\obj\Debug\03. Word Synonyms.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\TechModule\10.Dictionaries, Lambda and LINQ - Lab\03. Word Synonyms\obj\Debug\_03.Word_Synonyms.exe
-C:\Elie\SoftUni\Live\TechModule\10.Dictionaries, Lambda and LINQ - Lab\03. Word Synonyms\obj\Debug\_03.Word_Synonyms.pdb

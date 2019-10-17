@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\04. Raw Data\obj\Debug\netcoreapp2.1\04. Raw Data.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\04. Raw Data\obj\Debug\netcoreapp2.1\04. Raw Data.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\04. Raw Data\obj\Debug\netcoreapp2.1\04. Raw Data.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\04. Raw Data\obj\Debug\netcoreapp2.1\04. Raw Data.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\04. Raw Data\bin\Debug\netcoreapp2.1\04. Raw Data.deps.json
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\04. Raw Data\bin\Debug\netcoreapp2.1\04. Raw Data.runtimeconfig.json
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\04. Raw Data\bin\Debug\netcoreapp2.1\04. Raw Data.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\04. Raw Data\bin\Debug\netcoreapp2.1\04. Raw Data.dll
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\04. Raw Data\bin\Debug\netcoreapp2.1\04. Raw Data.pdb
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\04. Raw Data\obj\Debug\netcoreapp2.1\04. Raw Data.dll
+C:\Elie\SoftUni\Live\TechModule\11.3 Objects and Classes - More Exercise\04. Raw Data\obj\Debug\netcoreapp2.1\04. Raw Data.pdb

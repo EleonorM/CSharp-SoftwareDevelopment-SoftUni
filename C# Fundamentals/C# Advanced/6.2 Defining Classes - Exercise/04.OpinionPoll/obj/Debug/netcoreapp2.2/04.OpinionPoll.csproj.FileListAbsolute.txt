@@ -1,0 +1,10 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\04.OpinionPoll\bin\Debug\netcoreapp2.2\04.OpinionPoll.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\04.OpinionPoll\bin\Debug\netcoreapp2.2\04.OpinionPoll.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\04.OpinionPoll\bin\Debug\netcoreapp2.2\04.OpinionPoll.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\04.OpinionPoll\bin\Debug\netcoreapp2.2\04.OpinionPoll.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\04.OpinionPoll\bin\Debug\netcoreapp2.2\04.OpinionPoll.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\04.OpinionPoll\obj\Debug\netcoreapp2.2\04.OpinionPoll.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\04.OpinionPoll\obj\Debug\netcoreapp2.2\04.OpinionPoll.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\04.OpinionPoll\obj\Debug\netcoreapp2.2\04.OpinionPoll.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\04.OpinionPoll\obj\Debug\netcoreapp2.2\04.OpinionPoll.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\6.2 Defining Classes - Exercise\04.OpinionPoll\obj\Debug\netcoreapp2.2\04.OpinionPoll.pdb

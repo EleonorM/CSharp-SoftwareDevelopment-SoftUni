@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp2.2\1. Diagonal Difference.deps.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp2.2\1. Diagonal Difference.runtimeconfig.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp2.2\1. Diagonal Difference.runtimeconfig.dev.json
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp2.2\1. Diagonal Difference.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp2.2\1. Diagonal Difference.pdb
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp2.2\1. Diagonal Difference.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp2.2\1. Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp2.2\1. Diagonal Difference.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp2.2\1. Diagonal Difference.AssemblyInfo.cs
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp2.2\1. Diagonal Difference.dll
+C:\Elie\SoftUni\Live\Fundamentals\C# Advanced\2.2 Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp2.2\1. Diagonal Difference.pdb
