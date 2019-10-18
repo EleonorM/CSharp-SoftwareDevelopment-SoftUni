@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.1Data Types and Variables", "3.1Data Types and Variables\3.1Data Types and Variables\3.1Data Types and Variables.csproj", "{3C568CD9-FDA9-4DEF-B145-DD997F04CF31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Convert Meters to Kilometers", "01. Convert Meters to Kilometers\01. Convert Meters to Kilometers.csproj", "{C73D00D5-6545-444D-9E1D-C04F79948BE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C568CD9-FDA9-4DEF-B145-DD997F04CF31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C568CD9-FDA9-4DEF-B145-DD997F04CF31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C568CD9-FDA9-4DEF-B145-DD997F04CF31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C568CD9-FDA9-4DEF-B145-DD997F04CF31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C73D00D5-6545-444D-9E1D-C04F79948BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C73D00D5-6545-444D-9E1D-C04F79948BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C73D00D5-6545-444D-9E1D-C04F79948BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C73D00D5-6545-444D-9E1D-C04F79948BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B6FFA7F-F6D1-4CBE-826E-C948629AA532}
+	EndGlobalSection
+EndGlobal
