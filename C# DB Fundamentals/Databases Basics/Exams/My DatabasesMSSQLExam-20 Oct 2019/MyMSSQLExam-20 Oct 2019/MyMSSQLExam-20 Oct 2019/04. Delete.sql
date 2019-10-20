@@ -4,5 +4,5 @@ WHERE TeacherId IN (SELECT Id FROM Teachers
 WHERE Phone LIKE '%72%')
 
 DELETE
-FROM Teachers
-WHERE Phone LIKE '%72%'
+FROM Reports
+WHERE [StatusId] = 4

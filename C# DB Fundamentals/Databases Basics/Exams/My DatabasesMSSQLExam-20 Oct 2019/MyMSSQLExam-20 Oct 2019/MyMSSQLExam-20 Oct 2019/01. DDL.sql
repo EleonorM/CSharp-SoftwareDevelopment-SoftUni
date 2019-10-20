@@ -1,109 +1,92 @@
-CREATE DATABASE School
+CREATE DATABASE [Service]
 GO
 
-USE School
+USE [Service]
 GO
 
-CREATE TABLE Students
+CREATE TABLE Users
 (Id INT IDENTITY,
-FirstName NVARCHAR(30) NOT NULL,
-MiddleName NVARCHAR(25),
-LastName NVARCHAR(30) NOT NULL,
-Age INT NOT NULL,
-Address NVARCHAR(50),
-Phone NCHAR(10),
+Username VARCHAR(30) UNIQUE NOT NULL,
+[Password] VARCHAR(50) NOT NULL,
+[Name] VARCHAR(50),
+Birthdate DATETIME,
+Age INT,
+Email VARCHAR(50) NOT NULL,
 
-CONSTRAINT PK_Students_Id
+CONSTRAINT PK_Users_Id
 PRIMARY KEY(Id),
 CONSTRAINT check_ageValue
-CHECK (Age > 0))
+CHECK (Age BETWEEN 14 AND 110))
 GO
 
-CREATE TABLE Subjects
+CREATE TABLE Departments
 (Id INT IDENTITY,
-Name NVARCHAR(20) NOT NULL,
-Lessons INT NOT NULL
+[Name] VARCHAR(50) NOT NULL
 
-CONSTRAINT PK_Subjects_Id
-PRIMARY KEY(Id)
-CONSTRAINT check_LessonsValue
-CHECK (Lessons > 0))
+CONSTRAINT PK_Departments_Id
+PRIMARY KEY(Id))
 GO
 
-CREATE TABLE StudentsSubjects
+CREATE TABLE Employees
 (Id INT IDENTITY,
-StudentId INT NOT NULL,
-SubjectId INT NOT NULL,
-Grade DECIMAL(5,2) NOT NULL
+FirstName VARCHAR(25),
+LastName  VARCHAR(25),
+Birthdate DATETIME,
+Age INT,
+DepartmentId INT
 
-CONSTRAINT PK_StudentsSubjects_Id
+CONSTRAINT PK_Employees_Id
 PRIMARY KEY(Id)
-CONSTRAINT FK_StudentsSubjects_StudentId
-FOREIGN KEY (StudentId)
-REFERENCES Students(Id),
-CONSTRAINT FK_StudentsSubjects_SubjectId
-FOREIGN KEY (SubjectId)
-REFERENCES Subjects(Id),
+CONSTRAINT FK_Employees_DepartmentId
+FOREIGN KEY (DepartmentId)
+REFERENCES Departments(Id),
 
-CONSTRAINT check_GradeValue
-CHECK (Grade BETWEEN 2 AND 6))
+CONSTRAINT check_ageValueEmployees
+CHECK (Age BETWEEN 18 AND 110))
 GO
 
-CREATE TABLE Exams
+CREATE TABLE Categories
 (Id INT IDENTITY,
-Date DATETIME,
-SubjectId INT NOT NULL
+[Name] VARCHAR(50) NOT NULL,
+DepartmentId INT NOT NULL
 
-CONSTRAINT PK_Exams_Id
+CONSTRAINT PK_Categories_Id
 PRIMARY KEY(Id)
-CONSTRAINT FK_Exams_SubjectId
-FOREIGN KEY (SubjectId)
-REFERENCES Subjects(Id))
+CONSTRAINT FK_Categories_DepartmentId
+FOREIGN KEY (DepartmentId)
+REFERENCES Departments(Id))
 GO
 
-CREATE TABLE StudentsExams
-(StudentId INT NOT NULL,
-ExamId INT NOT NULL,
-Grade DECIMAL(5,2) NOT NULL
-
-CONSTRAINT PK_StudentsExams_StudentId_ExamId
-PRIMARY KEY(StudentId,ExamId)
-CONSTRAINT FK_StudentsExams_StudentId
-FOREIGN KEY (StudentId)
-REFERENCES Students(Id),
-CONSTRAINT FK_StudentsExams_ExamId
-FOREIGN KEY (ExamId)
-REFERENCES Exams(Id),
-
-CONSTRAINT check_GradeValueStudentsExams
-CHECK (Grade BETWEEN 2 AND 6))
-GO
-
-CREATE TABLE Teachers
+CREATE TABLE [Status]
 (Id INT IDENTITY,
-FirstName NVARCHAR(20) NOT NULL,
-LastName NVARCHAR(20) NOT NULL,
-Address NVARCHAR(20) NOT NULL,
-Phone CHAR(10),
-SubjectId INT NOT NULL
+[Label] VARCHAR(30) NOT NULL,
 
-CONSTRAINT PK_Teachers_Id
-PRIMARY KEY(Id)
-CONSTRAINT FK_Teachers_SubjectId
-FOREIGN KEY (SubjectId)
-REFERENCES Subjects(Id))
+CONSTRAINT PK_Status_Id
+PRIMARY KEY(Id))
 GO
 
-CREATE TABLE StudentsTeachers
-(StudentId INT NOT NULL,
-TeacherId INT NOT NULL
+CREATE TABLE Reports
+(Id INT IDENTITY,
+CategoryId INT NOT NULL,
+StatusId INT NOT NULL,
+OpenDate DATETIME NOT NULL,
+CloseDate DATETIME,
+[Description] VARCHAR(200) NOT NULL,
+UserId INT NOT NULL,
+EmployeeId INT
 
-CONSTRAINT PK_StudentsTeachers_StudentId_TeacherId
-PRIMARY KEY(StudentId,TeacherId)
-CONSTRAINT FK_StudentsTeachers_StudentId
-FOREIGN KEY (StudentId)
-REFERENCES Students(Id),
-CONSTRAINT FK_StudentsTeachers_TeacherId
-FOREIGN KEY (TeacherId)
-REFERENCES Teachers(Id))
+CONSTRAINT PK_Reports_Id
+PRIMARY KEY(Id)
+CONSTRAINT FK_Reports_CategoryId
+FOREIGN KEY (CategoryId)
+REFERENCES Categories(Id),
+CONSTRAINT FK_Reports_StatusId
+FOREIGN KEY (StatusId)
+REFERENCES Status(Id),
+CONSTRAINT FK_Reports_UserId
+FOREIGN KEY (UserId)
+REFERENCES Users(Id),
+CONSTRAINT FK_Reports_EmployeeId
+FOREIGN KEY (EmployeeId)
+REFERENCES Employees(Id))
 GO
