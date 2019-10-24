@@ -1,0 +1,4 @@
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\06. RemoveVillain\bin\Debug\netcoreapp3.0\06. RemoveVillain.exe
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\06. RemoveVillain\obj\Debug\netcoreapp3.0\06. RemoveVillain.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\06. RemoveVillain\obj\Debug\netcoreapp3.0\06. RemoveVillain.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\06. RemoveVillain\obj\Debug\netcoreapp3.0\06. RemoveVillain.AssemblyInfo.cs

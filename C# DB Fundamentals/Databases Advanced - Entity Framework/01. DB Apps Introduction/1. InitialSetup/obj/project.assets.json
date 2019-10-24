@@ -693,6 +693,7 @@
       "path": "microsoft.netcore.targets/2.0.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netstandard1.0/_._",
@@ -749,6 +750,7 @@
       "path": "netstandard.library/2.0.3",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "build/netstandard2.0/NETStandard.Library.targets",
@@ -1179,11 +1181,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Elie\\SoftUni\\CSharp-SoftUni\\DB Fundamentals\\Databases Advanced - Entity Framework\\01. EF-Core-DB-Apps-Introduction\\1. InitialSetup\\01. InitialSetup.csproj",
+      "projectUniqueName": "C:\\Elie\\SoftUni\\Projects\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\01. DB Apps Introduction\\1. InitialSetup\\01. InitialSetup.csproj",
       "projectName": "01. InitialSetup",
-      "projectPath": "C:\\Elie\\SoftUni\\CSharp-SoftUni\\DB Fundamentals\\Databases Advanced - Entity Framework\\01. EF-Core-DB-Apps-Introduction\\1. InitialSetup\\01. InitialSetup.csproj",
+      "projectPath": "C:\\Elie\\SoftUni\\Projects\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\01. DB Apps Introduction\\1. InitialSetup\\01. InitialSetup.csproj",
       "packagesPath": "C:\\Users\\eleon\\.nuget\\packages\\",
-      "outputPath": "C:\\Elie\\SoftUni\\CSharp-SoftUni\\DB Fundamentals\\Databases Advanced - Entity Framework\\01. EF-Core-DB-Apps-Introduction\\1. InitialSetup\\obj\\",
+      "outputPath": "C:\\Elie\\SoftUni\\Projects\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\01. DB Apps Introduction\\1. InitialSetup\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1225,10 +1227,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

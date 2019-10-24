@@ -1,0 +1,4 @@
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\07. PrintAllMinionNames\bin\Debug\netcoreapp3.0\07. PrintAllMinionNames.exe
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\07. PrintAllMinionNames\obj\Debug\netcoreapp3.0\07. PrintAllMinionNames.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\07. PrintAllMinionNames\obj\Debug\netcoreapp3.0\07. PrintAllMinionNames.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\07. PrintAllMinionNames\obj\Debug\netcoreapp3.0\07. PrintAllMinionNames.AssemblyInfo.cs

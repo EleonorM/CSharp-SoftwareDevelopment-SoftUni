@@ -1,0 +1,18 @@
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\09. IncreaseAgeStoredProcedure\bin\Debug\netcoreapp3.0\09. IncreaseAgeStoredProcedure.exe
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\09. IncreaseAgeStoredProcedure\obj\Debug\netcoreapp3.0\09. IncreaseAgeStoredProcedure.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\09. IncreaseAgeStoredProcedure\obj\Debug\netcoreapp3.0\09. IncreaseAgeStoredProcedure.AssemblyInfo.cs
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\09. IncreaseAgeStoredProcedure\bin\Debug\netcoreapp3.0\09. IncreaseAgeStoredProcedure.deps.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\09. IncreaseAgeStoredProcedure\bin\Debug\netcoreapp3.0\09. IncreaseAgeStoredProcedure.runtimeconfig.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\09. IncreaseAgeStoredProcedure\bin\Debug\netcoreapp3.0\09. IncreaseAgeStoredProcedure.runtimeconfig.dev.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\09. IncreaseAgeStoredProcedure\bin\Debug\netcoreapp3.0\09. IncreaseAgeStoredProcedure.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\09. IncreaseAgeStoredProcedure\bin\Debug\netcoreapp3.0\09. IncreaseAgeStoredProcedure.pdb
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\09. IncreaseAgeStoredProcedure\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\09. IncreaseAgeStoredProcedure\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\09. IncreaseAgeStoredProcedure\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\09. IncreaseAgeStoredProcedure\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\09. IncreaseAgeStoredProcedure\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\09. IncreaseAgeStoredProcedure\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\09. IncreaseAgeStoredProcedure\obj\Debug\netcoreapp3.0\09. IncreaseAgeStoredProcedure.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\09. IncreaseAgeStoredProcedure\obj\Debug\netcoreapp3.0\09. IncreaseAgeStoredProcedure.csproj.CopyComplete
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\09. IncreaseAgeStoredProcedure\obj\Debug\netcoreapp3.0\09. IncreaseAgeStoredProcedure.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\01. DB Apps Introduction\09. IncreaseAgeStoredProcedure\obj\Debug\netcoreapp3.0\09. IncreaseAgeStoredProcedure.pdb
