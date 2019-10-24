@@ -16,14 +16,26 @@
                 using var command = new SqlCommand(minonsInfo, connection);
                 using SqlDataReader reader = command.ExecuteReader();
 
-                var minions = new List<object>();
+                var minions = new List<string>();
                 while (reader.Read())
                 {
-                    var numb = new Object[reader.FieldCount];
+                    var name = (string)reader[0];
 
-                    reader.GetValues(numb);
+                    minions.Add(name);
+                }
 
-                    minions.Add(numb[0]);
+                if (minions.Count > 0)
+                {
+                    for (int i = 0; i < minions.Count / 2; i++)
+                    {
+                        Console.WriteLine(minions[i]);
+                        Console.WriteLine(minions[minions.Count - 1 - i]);
+                    }
+
+                    if (minions.Count % 2 != 0)
+                    {
+                        Console.WriteLine(minions[minions.Count / 2]);
+                    }
                 }
             }
         }
