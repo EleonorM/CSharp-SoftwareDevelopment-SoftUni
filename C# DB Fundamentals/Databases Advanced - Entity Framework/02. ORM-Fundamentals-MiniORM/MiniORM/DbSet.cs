@@ -27,7 +27,7 @@
         {
             if (item == null)
             {
-                throw new ArgumentNullException("The item cannot be null.");
+                throw new ArgumentNullException(nameof(item), "The item cannot be null.");
             }
 
             this.Entities.Add(item);
@@ -44,26 +44,15 @@
             }
         }
 
-        public bool Contains(TEntity item)
-        {
-            return this.Entities.Contains(item);
-        }
+        public bool Contains(TEntity item) => this.Entities.Contains(item);
 
-        public void CopyTo(TEntity[] array, int arrayIndex)
-        {
-            this.Entities.CopyTo(array, arrayIndex);
-        }
-
-        public IEnumerator<TEntity> GetEnumerator()
-        {
-            return this.Entities.GetEnumerator();
-        }
+        public void CopyTo(TEntity[] array, int arrayIndex) => this.Entities.CopyTo(array, arrayIndex);
 
         public bool Remove(TEntity item)
         {
             if (item == null)
             {
-                throw new ArgumentNullException("The item cannot be null.");
+                throw new ArgumentNullException(nameof(item), "The item cannot be null.");
             }
 
             var removedSuccsessfully = this.Entities.Remove(item);
@@ -74,6 +63,11 @@
             }
 
             return removedSuccsessfully;
+        }
+        
+        public IEnumerator<TEntity> GetEnumerator()
+        {
+            return this.Entities.GetEnumerator();
         }
 
         IEnumerator IEnumerable.GetEnumerator()

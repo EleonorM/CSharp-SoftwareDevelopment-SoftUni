@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Elie\\SoftUni\\CSharp-SoftUniOld\\DB Fundamentals\\Databases Advanced - Entity Framework\\04. Code First\\P01_HospitalDatabase\\P01_HospitalDatabase.csproj": {}
+    "C:\\Elie\\SoftUni\\Projects\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\04. Code First\\P01_HospitalDatabase\\P01_HospitalDatabase.csproj": {}
   },
   "projects": {
-    "C:\\Elie\\SoftUni\\CSharp-SoftUniOld\\DB Fundamentals\\Databases Advanced - Entity Framework\\04. Code First\\P01_HospitalDatabase\\P01_HospitalDatabase.csproj": {
+    "C:\\Elie\\SoftUni\\Projects\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\04. Code First\\P01_HospitalDatabase\\P01_HospitalDatabase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Elie\\SoftUni\\CSharp-SoftUniOld\\DB Fundamentals\\Databases Advanced - Entity Framework\\04. Code First\\P01_HospitalDatabase\\P01_HospitalDatabase.csproj",
+        "projectUniqueName": "C:\\Elie\\SoftUni\\Projects\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\04. Code First\\P01_HospitalDatabase\\P01_HospitalDatabase.csproj",
         "projectName": "P01_HospitalDatabase",
-        "projectPath": "C:\\Elie\\SoftUni\\CSharp-SoftUniOld\\DB Fundamentals\\Databases Advanced - Entity Framework\\04. Code First\\P01_HospitalDatabase\\P01_HospitalDatabase.csproj",
+        "projectPath": "C:\\Elie\\SoftUni\\Projects\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\04. Code First\\P01_HospitalDatabase\\P01_HospitalDatabase.csproj",
         "packagesPath": "C:\\Users\\eleon\\.nuget\\packages\\",
-        "outputPath": "C:\\Elie\\SoftUni\\CSharp-SoftUniOld\\DB Fundamentals\\Databases Advanced - Entity Framework\\04. Code First\\P01_HospitalDatabase\\obj\\",
+        "outputPath": "C:\\Elie\\SoftUni\\Projects\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\04. Code First\\P01_HospitalDatabase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
