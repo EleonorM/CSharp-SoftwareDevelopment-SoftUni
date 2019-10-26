@@ -2,6 +2,6 @@
 {
     public class Config
     {
-        public const string ConnectionString = "Server=ELI-PC\\SQLEXPRESS;Database=Hospital;Integrated Security=True;";
+        public const string ConnectionString = @"Server=(localdb)\MSSQLLocalDB;Database=Hospital;Integrated Security=True;";
     }
 }

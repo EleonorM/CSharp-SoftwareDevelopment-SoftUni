@@ -19,6 +19,8 @@
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(Config.ConnectionString);
+
+            base.OnConfiguring(optionsBuilder);
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -28,6 +30,8 @@
             ConfigureDiagnoseEntity(modelBuilder);
             ConfigureMedicamentEntity(modelBuilder);
             ConfigurePatientMedicamentEntity(modelBuilder);
+
+            base.OnModelCreating(modelBuilder);
         }
 
         private void ConfigurePatientMedicamentEntity(ModelBuilder modelBuilder)
@@ -40,7 +44,7 @@
                 .Entity<PatientMedicament>()
                 .HasOne(pm => pm.Patient)
                 .WithMany(p => p.Prescriptions)
-                .HasForeignKey(p=>p.PatientId);
+                .HasForeignKey(p => p.PatientId);
 
 
             modelBuilder
@@ -86,7 +90,7 @@
         {
             modelBuilder
                 .Entity<Visitation>()
-                .HasKey(v=>v.VisitationId);
+                .HasKey(v => v.VisitationId);
 
             modelBuilder
                 .Entity<Visitation>()

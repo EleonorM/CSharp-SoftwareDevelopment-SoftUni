@@ -8,10 +8,6 @@
     public class DbSet<TEntity> : ICollection<TEntity>
         where TEntity : class, new()
     {
-        internal ChangeTracker<TEntity> ChangeTracker { get; set; }
-
-        internal IList<TEntity> Entities { get; set; }
-
         internal DbSet(IEnumerable<TEntity> entities)
         {
             this.Entities = entities.ToList();
@@ -22,6 +18,10 @@
         public int Count => this.Entities.Count();
 
         public bool IsReadOnly => this.Entities.IsReadOnly;
+
+        internal ChangeTracker<TEntity> ChangeTracker { get; set; }
+
+        internal IList<TEntity> Entities { get; set; }
 
         public void Add(TEntity item)
         {
@@ -64,7 +64,7 @@
 
             return removedSuccsessfully;
         }
-        
+
         public IEnumerator<TEntity> GetEnumerator()
         {
             return this.Entities.GetEnumerator();

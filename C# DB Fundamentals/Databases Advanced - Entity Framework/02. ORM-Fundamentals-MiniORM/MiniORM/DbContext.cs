@@ -11,10 +11,6 @@
 
     public abstract class DbContext
     {
-        private readonly DatabaseConnection connection;
-
-        private readonly Dictionary<Type, PropertyInfo> dbSetProperties;
-
         internal static readonly Type[] AllowedSqlTypes =
         {
             typeof(string),
@@ -26,6 +22,10 @@
             typeof(bool),
             typeof(DateTime)
         };
+
+        private readonly DatabaseConnection connection;
+
+        private readonly Dictionary<Type, PropertyInfo> dbSetProperties;
 
         protected DbContext(string connectionString)
         {
@@ -39,15 +39,6 @@
             }
 
             this.MapAllRelations();
-        }
-
-        private Dictionary<Type, PropertyInfo> DiscoverDbSets()
-        {
-            var dbSets = this.GetType().GetProperties()
-                .Where(p => p.PropertyType.GetGenericTypeDefinition() == typeof(DbSet<>))
-                .ToDictionary(p => p.PropertyType.GetGenericArguments().First(), p => p);
-
-            return dbSets;
         }
 
         public void SaveChanges()
@@ -101,6 +92,15 @@
                     transaction.Commit();
                 }
             }
+        }
+
+        private Dictionary<Type, PropertyInfo> DiscoverDbSets()
+        {
+            var dbSets = this.GetType().GetProperties()
+                .Where(p => p.PropertyType.GetGenericTypeDefinition() == typeof(DbSet<>))
+                .ToDictionary(p => p.PropertyType.GetGenericArguments().First(), p => p);
+
+            return dbSets;
         }
 
         private bool IsObjectValid(object e)
@@ -242,7 +242,6 @@
                     .MakeGenericMethod(entityType, collectionType);
 
                 mapCollecitonMethod.Invoke(this, new object[] { dbSet, collection });
-
             }
         }
 

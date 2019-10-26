@@ -3,7 +3,7 @@
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
 
-    public   class Department
+    public class Department
     {
         [Key]
         public int Id { get; set; }

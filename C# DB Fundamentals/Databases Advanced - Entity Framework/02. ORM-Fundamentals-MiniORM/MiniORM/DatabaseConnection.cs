@@ -21,18 +21,6 @@
             this.connection = new SqlConnection(connectionString);
         }
 
-        private SqlCommand CreateCommand(string queryText, params SqlParameter[] parameters)
-        {
-            var command = new SqlCommand(queryText, this.connection, this.transaction);
-
-            foreach (var param in parameters)
-            {
-                command.Parameters.Add(param);
-            }
-
-            return command;
-        }
-
         public int ExecuteNonQuery(string queryText, params SqlParameter[] parameters)
         {
             using (var query = CreateCommand(queryText, parameters))
@@ -133,17 +121,13 @@
 
             var sqlColumns = string.Join(", ", escapedColumns);
 
-            var sqlRows = string.Join(", ",
-                rowParameterNames.Select(p =>
-                    string.Format("({0})",
-                        string.Join(", ", p.Select(a => $"@{a}")))));
+            var sqlRows = string.Join(", ", rowParameterNames.Select(p => string.Format("({0})", string.Join(", ", p.Select(a => $"@{a}")))));
 
             var query = string.Format(
                 "INSERT INTO {0} ({1}) VALUES {2}",
                 tableName,
                 sqlColumns,
-                sqlRows
-            );
+                sqlRows);
 
             var parameters = rowParameterNames
                 .Zip(rowValues, (@params, values) =>
@@ -241,18 +225,6 @@
             }
         }
 
-        private IEnumerable<string> GetIdentityColumns(string tableName)
-        {
-            const string identityColumnsSql =
-                "SELECT COLUMN_NAME FROM (SELECT COLUMN_NAME, COLUMNPROPERTY(OBJECT_ID(TABLE_NAME), COLUMN_NAME, 'IsIdentity') AS IsIdentity FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = '{0}') AS IdentitySpecs WHERE IsIdentity = 1";
-
-            var parametrizedSql = string.Format(identityColumnsSql, tableName);
-
-            var identityColumns = ExecuteQuery<string>(parametrizedSql);
-
-            return identityColumns;
-        }
-
         public SqlTransaction StartTransaction()
         {
             this.transaction = this.connection.BeginTransaction();
@@ -288,6 +260,30 @@
             }
 
             return obj;
+        }
+
+        private SqlCommand CreateCommand(string queryText, params SqlParameter[] parameters)
+        {
+            var command = new SqlCommand(queryText, this.connection, this.transaction);
+
+            foreach (var param in parameters)
+            {
+                command.Parameters.Add(param);
+            }
+
+            return command;
+        }
+
+        private IEnumerable<string> GetIdentityColumns(string tableName)
+        {
+            const string identityColumnsSql =
+                "SELECT COLUMN_NAME FROM (SELECT COLUMN_NAME, COLUMNPROPERTY(OBJECT_ID(TABLE_NAME), COLUMN_NAME, 'IsIdentity') AS IsIdentity FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = '{0}') AS IdentitySpecs WHERE IsIdentity = 1";
+
+            var parametrizedSql = string.Format(identityColumnsSql, tableName);
+
+            var identityColumns = ExecuteQuery<string>(parametrizedSql);
+
+            return identityColumns;
         }
     }
 }

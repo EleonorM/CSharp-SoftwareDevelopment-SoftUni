@@ -2,7 +2,6 @@
 {
     using MiniORM.App.Data;
     using MiniORM.App.Data.Entities;
-    using System;
     using System.Linq;
 
     public class StartUp
@@ -19,8 +18,7 @@
                 LastName = "Ivanov",
                 DepartmentId = context.Departments.First().Id,
                 IsEmployed = true
-            }) ;
-
+            });
             var employee = context.Employees.Last();
             employee.FirstName = "Modified";
 
