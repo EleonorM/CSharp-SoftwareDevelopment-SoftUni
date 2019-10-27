@@ -1,0 +1,13 @@
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Initializer.deps.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Initializer.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Initializer.pdb
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.AssemblyInfo.cs
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.csproj.CopyComplete
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.pdb

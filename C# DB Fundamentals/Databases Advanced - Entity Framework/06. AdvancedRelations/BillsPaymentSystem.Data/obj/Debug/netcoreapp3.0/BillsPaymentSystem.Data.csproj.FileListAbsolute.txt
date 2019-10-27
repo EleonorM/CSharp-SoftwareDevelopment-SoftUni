@@ -1,0 +1,3 @@
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\06. AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp3.0\BillsPaymentSystem.Data.exe
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\06. AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp3.0\BillsPaymentSystem.Data.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\06. AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp3.0\BillsPaymentSystem.Data.AssemblyInfo.cs

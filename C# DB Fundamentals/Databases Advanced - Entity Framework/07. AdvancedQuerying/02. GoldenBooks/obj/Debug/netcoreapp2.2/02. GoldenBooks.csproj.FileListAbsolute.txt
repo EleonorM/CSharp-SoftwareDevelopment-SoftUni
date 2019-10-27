@@ -1,0 +1,17 @@
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\02. GoldenBooks\bin\Debug\netcoreapp2.2\02. GoldenBooks.deps.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\02. GoldenBooks\bin\Debug\netcoreapp2.2\02. GoldenBooks.runtimeconfig.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\02. GoldenBooks\bin\Debug\netcoreapp2.2\02. GoldenBooks.runtimeconfig.dev.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\02. GoldenBooks\bin\Debug\netcoreapp2.2\02. GoldenBooks.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\02. GoldenBooks\bin\Debug\netcoreapp2.2\02. GoldenBooks.pdb
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\02. GoldenBooks\bin\Debug\netcoreapp2.2\BookShop.Data.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\02. GoldenBooks\bin\Debug\netcoreapp2.2\BookShop.Initializer.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\02. GoldenBooks\bin\Debug\netcoreapp2.2\BookShop.Models.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\02. GoldenBooks\bin\Debug\netcoreapp2.2\BookShop.Data.pdb
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\02. GoldenBooks\bin\Debug\netcoreapp2.2\BookShop.Initializer.pdb
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\02. GoldenBooks\bin\Debug\netcoreapp2.2\BookShop.Models.pdb
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\02. GoldenBooks\obj\Debug\netcoreapp2.2\02. GoldenBooks.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\02. GoldenBooks\obj\Debug\netcoreapp2.2\02. GoldenBooks.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\02. GoldenBooks\obj\Debug\netcoreapp2.2\02. GoldenBooks.AssemblyInfo.cs
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\02. GoldenBooks\obj\Debug\netcoreapp2.2\02. GoldenBooks.csproj.CopyComplete
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\02. GoldenBooks\obj\Debug\netcoreapp2.2\02. GoldenBooks.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\07. AdvancedQuerying\02. GoldenBooks\obj\Debug\netcoreapp2.2\02. GoldenBooks.pdb
