@@ -7,3 +7,4 @@ C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framewor
 C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\03. Introduction EntityFramework\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.AssemblyInfo.cs
 C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\03. Introduction EntityFramework\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.dll
 C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\03. Introduction EntityFramework\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.pdb
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\03. Introduction EntityFramework\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.csprojAssemblyReference.cache
