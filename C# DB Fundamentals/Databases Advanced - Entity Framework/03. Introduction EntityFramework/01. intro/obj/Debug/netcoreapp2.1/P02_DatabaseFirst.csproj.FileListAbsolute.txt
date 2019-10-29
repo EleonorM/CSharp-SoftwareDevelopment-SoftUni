@@ -1,9 +1,0 @@
-C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\03. Introduction EntityFramework\01. intro\bin\Debug\netcoreapp2.1\P02_DatabaseFirst.deps.json
-C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\03. Introduction EntityFramework\01. intro\bin\Debug\netcoreapp2.1\P02_DatabaseFirst.runtimeconfig.json
-C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\03. Introduction EntityFramework\01. intro\bin\Debug\netcoreapp2.1\P02_DatabaseFirst.runtimeconfig.dev.json
-C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\03. Introduction EntityFramework\01. intro\bin\Debug\netcoreapp2.1\P02_DatabaseFirst.dll
-C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\03. Introduction EntityFramework\01. intro\bin\Debug\netcoreapp2.1\P02_DatabaseFirst.pdb
-C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\03. Introduction EntityFramework\01. intro\obj\Debug\netcoreapp2.1\P02_DatabaseFirst.AssemblyInfoInputs.cache
-C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\03. Introduction EntityFramework\01. intro\obj\Debug\netcoreapp2.1\P02_DatabaseFirst.AssemblyInfo.cs
-C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\03. Introduction EntityFramework\01. intro\obj\Debug\netcoreapp2.1\P02_DatabaseFirst.dll
-C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\03. Introduction EntityFramework\01. intro\obj\Debug\netcoreapp2.1\P02_DatabaseFirst.pdb
