@@ -12,7 +12,7 @@
         {
             using (var context = new SoftUniContext())
             {
-                Console.WriteLine(RemoveTown(context));
+                Console.WriteLine(GetEmployeesFullInformation(context));
             }
         }
 
@@ -88,26 +88,45 @@
             return sb.ToString().TrimEnd();
         }
 
-        //public static string GetEmployeesInPeriod(SoftUniContext context)
-        //{
-        //    var employees = context
-        //        .Employees
-        //        .Select(e => new
-        //        {
-        //            e.FirstName,
-        //            e.LastName,
-        //            Employee = new
-        //            {
-        //                e.Manager.FirstName,
-        //                e.Manager.LastName
-        //            },
-        //            Project = e.EmployeesProjects.Select(p => p.Project.StartDate)
-        //        })
-        //        .Where(e => (e.Project).Year > 2000)
-        //        .Take(10)
-        //        .ToList();
+        public static string GetEmployeesInPeriod(SoftUniContext context)
+        {
+            var employees = context
+                .Employees
+                .Where(e => e.EmployeesProjects.Any(pe => pe.Project.StartDate.Year > 2000 && pe.Project.StartDate.Year < 2004))
+                .Select(e => new
+                {
+                    e.FirstName,
+                    e.LastName,
+                    Manager = new
+                    {
+                        e.Manager.FirstName,
+                        e.Manager.LastName
+                    },
+                    Projects = e.EmployeesProjects
+                    .Select(p => new
+                    {
+                        p.Project.Name,
+                        p.Project.StartDate,
+                        p.Project.EndDate
+                    })
+                })
+                .Take(10)
+                .ToList();
 
-        //}
+
+            var sb = new StringBuilder();
+
+            foreach (var employee in employees)
+            {
+                sb.AppendLine($"{employee.FirstName} {employee.LastName} - Manager: {employee.Manager.FirstName} {employee.Manager.LastName}");
+                foreach (var prj in employee.Projects)
+                {
+                    sb.AppendLine($"--{prj.Name} - {prj.StartDate.ToString("M/d/yyyy h:mm:ss tt")} - {(prj.EndDate != null ? prj.EndDate.Value.ToString("M/d/yyyy h:mm:ss tt") : "not finished")}");
+                }
+            }
+
+            return sb.ToString().TrimEnd();
+        }
 
         public static string GetAddressesByTown(SoftUniContext context)
         {
@@ -272,8 +291,8 @@
                     e.Salary
                 })
                 .Where(e => e.FirstName.StartsWith("Sa"))
-                .OrderBy(e=>e.FirstName)
-                .ThenBy(e=>e.LastName);
+                .OrderBy(e => e.FirstName)
+                .ThenBy(e => e.LastName);
 
             foreach (var employee in employees)
             {
