@@ -1,10 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace BillsPaymentSystem.Data.EntityConfigurations
+﻿namespace BillsPaymentSystem.Data.EntityConfigurations
 {
-    class UserConfig
+    using BillsPaymentSystem.Models;
+    using Microsoft.EntityFrameworkCore;
+    using Microsoft.EntityFrameworkCore.Metadata.Builders;
+    using System;
+
+    public class UserConfig : IEntityTypeConfiguration<User>
     {
+        public void Configure(EntityTypeBuilder<User> builder)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

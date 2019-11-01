@@ -1,11 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace BillsPaymentSystem.Data.EntityConfigurations
+﻿namespace BillsPaymentSystem.Data.EntityConfigurations
 {
-    public class BankAccountConfig
+    using BillsPaymentSystem.Models;
+    using Microsoft.EntityFrameworkCore;
+    using Microsoft.EntityFrameworkCore.Metadata.Builders;
+    using System;
+
+    public class BankAccountConfig : IEntityTypeConfiguration<BankAccount>
     {
-        
+        public void Configure(EntityTypeBuilder<BankAccount> builder)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

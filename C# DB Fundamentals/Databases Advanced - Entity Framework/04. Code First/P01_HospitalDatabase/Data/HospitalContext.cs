@@ -41,7 +41,7 @@
         {
             modelBuilder
                 .Entity<Doctor>()
-                .HasKey(d => new { d.Id});
+                .HasKey(d => d.DoctorId);
 
             modelBuilder
                 .Entity<Doctor>()
@@ -55,11 +55,11 @@
                 .HasMaxLength(100)
                 .IsUnicode();
 
-            modelBuilder
-                .Entity<Doctor>()
-                .HasMany(d=>d.Visitations)
-                .WithOne(d=>d.Doctor)
-                .HasForeignKey(d=>d.DoctorId);
+            //modelBuilder
+            //    .Entity<Doctor>()
+            //    .HasMany(d => d.Visitations)
+            //    .WithOne(d => d.Doctor)
+            //    .HasForeignKey(d => d.DoctorId);
         }
 
         private void ConfigurePatientMedicamentEntity(ModelBuilder modelBuilder)

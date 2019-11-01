@@ -5,9 +5,8 @@
 
     public  class Doctor
     {
-        public int Id { get; set; }
+        public int DoctorId { get; set; }
 
-        [Required]
         public string Name { get; set; }
 
         public string Specialty { get; set; }
