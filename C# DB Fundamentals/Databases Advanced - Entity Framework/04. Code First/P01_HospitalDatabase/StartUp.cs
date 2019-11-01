@@ -1,13 +1,12 @@
-﻿namespace P01_HospitalDatabase
-{
-    using Microsoft.EntityFrameworkCore;
-    using Data;
-    using System;
+﻿using System;
 
-    public class StartUp
+namespace P01_HospitalDatabase
+{
+    class StartUp
     {
-        public static void Main()
+        static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
         }
     }
 }

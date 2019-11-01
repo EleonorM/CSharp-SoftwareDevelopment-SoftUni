@@ -14,7 +14,7 @@
 
         public string Email { get; set; }
 
-        public bool HasInsurancestName { get; set; }
+        public bool HasInsurance { get; set; }
 
         public ICollection<Diagnose> Diagnoses { get; set; } = new HashSet<Diagnose>();
 

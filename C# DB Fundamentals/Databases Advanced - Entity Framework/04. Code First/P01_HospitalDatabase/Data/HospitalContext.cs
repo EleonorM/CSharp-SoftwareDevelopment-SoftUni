@@ -1,11 +1,11 @@
 ﻿namespace P01_HospitalDatabase.Data
 {
-    using System;
     using Microsoft.EntityFrameworkCore;
-    using Models;
+    using P01_HospitalDatabase.Data.Models;
 
     public class HospitalContext : DbContext
     {
+
         public DbSet<Patient> Patients { get; set; }
 
         public DbSet<Visitation> Visitations { get; set; }
@@ -16,9 +16,11 @@
 
         public DbSet<PatientMedicament> PatientsMedicaments { get; set; }
 
+        public DbSet<Doctor> Doctors { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(Config.ConnectionString);
+            optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;Database=Hospital;Integrated Security=True;");
 
             base.OnConfiguring(optionsBuilder);
         }
@@ -30,8 +32,34 @@
             ConfigureDiagnoseEntity(modelBuilder);
             ConfigureMedicamentEntity(modelBuilder);
             ConfigurePatientMedicamentEntity(modelBuilder);
+            ConfigureDoctor(modelBuilder);
 
             base.OnModelCreating(modelBuilder);
+        }
+
+        private void ConfigureDoctor(ModelBuilder modelBuilder)
+        {
+            modelBuilder
+                .Entity<Doctor>()
+                .HasKey(d => new { d.Id});
+
+            modelBuilder
+                .Entity<Doctor>()
+                .Property(d => d.Name)
+                .HasMaxLength(100)
+                .IsUnicode();
+
+            modelBuilder
+                .Entity<Doctor>()
+                .Property(d => d.Specialty)
+                .HasMaxLength(100)
+                .IsUnicode();
+
+            modelBuilder
+                .Entity<Doctor>()
+                .HasMany(d=>d.Visitations)
+                .WithOne(d=>d.Doctor)
+                .HasForeignKey(d=>d.DoctorId);
         }
 
         private void ConfigurePatientMedicamentEntity(ModelBuilder modelBuilder)
@@ -140,3 +168,4 @@
         }
     }
 }
+
