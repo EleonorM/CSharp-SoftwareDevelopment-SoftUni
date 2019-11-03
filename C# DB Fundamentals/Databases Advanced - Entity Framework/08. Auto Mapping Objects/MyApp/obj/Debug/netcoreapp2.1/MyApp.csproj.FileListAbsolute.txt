@@ -8,3 +8,16 @@ C:\Users\Stoyan\source\repos\CustomAutomapper\MyApp\obj\Debug\netcoreapp2.1\MyAp
 C:\Users\Stoyan\source\repos\CustomAutomapper\MyApp\obj\Debug\netcoreapp2.1\MyApp.AssemblyInfo.cs
 C:\Users\Stoyan\source\repos\CustomAutomapper\MyApp\obj\Debug\netcoreapp2.1\MyApp.dll
 C:\Users\Stoyan\source\repos\CustomAutomapper\MyApp\obj\Debug\netcoreapp2.1\MyApp.pdb
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\08. Auto Mapping Objects\MyApp\bin\Debug\netcoreapp2.1\MyApp.deps.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\08. Auto Mapping Objects\MyApp\bin\Debug\netcoreapp2.1\MyApp.runtimeconfig.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\08. Auto Mapping Objects\MyApp\bin\Debug\netcoreapp2.1\MyApp.runtimeconfig.dev.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\08. Auto Mapping Objects\MyApp\bin\Debug\netcoreapp2.1\MyApp.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\08. Auto Mapping Objects\MyApp\bin\Debug\netcoreapp2.1\MyApp.pdb
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\08. Auto Mapping Objects\MyApp\obj\Debug\netcoreapp2.1\MyApp.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\08. Auto Mapping Objects\MyApp\obj\Debug\netcoreapp2.1\MyApp.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\08. Auto Mapping Objects\MyApp\obj\Debug\netcoreapp2.1\MyApp.AssemblyInfo.cs
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\08. Auto Mapping Objects\MyApp\obj\Debug\netcoreapp2.1\MyApp.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\08. Auto Mapping Objects\MyApp\obj\Debug\netcoreapp2.1\MyApp.pdb
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\08. Auto Mapping Objects\MyApp\bin\Debug\netcoreapp2.1\Automapper.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\08. Auto Mapping Objects\MyApp\bin\Debug\netcoreapp2.1\Automapper.pdb
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\08. Auto Mapping Objects\MyApp\obj\Debug\netcoreapp2.1\MyApp.csproj.CopyComplete
