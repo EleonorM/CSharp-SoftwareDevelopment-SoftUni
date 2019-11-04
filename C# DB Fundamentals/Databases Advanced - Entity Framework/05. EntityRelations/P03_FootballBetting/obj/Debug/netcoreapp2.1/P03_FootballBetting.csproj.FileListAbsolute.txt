@@ -1,0 +1,10 @@
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\05. EntityRelations\P03_FootballBetting\bin\Debug\netcoreapp2.1\P03_FootballBetting.deps.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\05. EntityRelations\P03_FootballBetting\bin\Debug\netcoreapp2.1\P03_FootballBetting.runtimeconfig.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\05. EntityRelations\P03_FootballBetting\bin\Debug\netcoreapp2.1\P03_FootballBetting.runtimeconfig.dev.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\05. EntityRelations\P03_FootballBetting\bin\Debug\netcoreapp2.1\P03_FootballBetting.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\05. EntityRelations\P03_FootballBetting\bin\Debug\netcoreapp2.1\P03_FootballBetting.pdb
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\05. EntityRelations\P03_FootballBetting\obj\Debug\netcoreapp2.1\P03_FootballBetting.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\05. EntityRelations\P03_FootballBetting\obj\Debug\netcoreapp2.1\P03_FootballBetting.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\05. EntityRelations\P03_FootballBetting\obj\Debug\netcoreapp2.1\P03_FootballBetting.AssemblyInfo.cs
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\05. EntityRelations\P03_FootballBetting\obj\Debug\netcoreapp2.1\P03_FootballBetting.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\05. EntityRelations\P03_FootballBetting\obj\Debug\netcoreapp2.1\P03_FootballBetting.pdb

@@ -1,6 +1,5 @@
 ﻿namespace P01_StudentSystem.Data
 {
-    using System;
     using Microsoft.EntityFrameworkCore;
     using P01_StudentSystem.Data.Models;
 
@@ -20,7 +19,7 @@
 
         public DbSet<Resource> Resources { get; set; }
 
-        public DbSet<Homework> Homeworks { get; set; }
+        public DbSet<Homework> HomeworkSubmissions { get; set; }
 
         public DbSet<Student> Students { get; set; }
 
