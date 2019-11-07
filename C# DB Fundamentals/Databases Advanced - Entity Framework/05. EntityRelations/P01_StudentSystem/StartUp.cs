@@ -1,12 +1,16 @@
 ﻿namespace P01_StudentSystem
 {
-using System;
+    using Microsoft.EntityFrameworkCore;
+    using P01_StudentSystem.Data;
+    using System;
 
     public class StartUp
     {
         public static void Main()
         {
-            Console.WriteLine("Hello World!");
+            using var context = new StudentSystemContext();
+
+            context.Database.Migrate();
         }
     }
 }

@@ -43,6 +43,32 @@ namespace P01_StudentSystem.Migrations
                     b.HasKey("CourseId");
 
                     b.ToTable("Courses");
+
+                    b.HasData(
+                        new
+                        {
+                            CourseId = 1,
+                            EndDate = new DateTime(2019, 11, 8, 11, 8, 43, 823, DateTimeKind.Local).AddTicks(7199),
+                            Name = "Course1",
+                            Price = 10.20m,
+                            StartDate = new DateTime(2019, 11, 6, 11, 8, 43, 823, DateTimeKind.Local).AddTicks(5695)
+                        },
+                        new
+                        {
+                            CourseId = 2,
+                            EndDate = new DateTime(2019, 11, 8, 11, 8, 43, 824, DateTimeKind.Local).AddTicks(340),
+                            Name = "Course2",
+                            Price = 10.20m,
+                            StartDate = new DateTime(2019, 11, 5, 11, 8, 43, 824, DateTimeKind.Local).AddTicks(280)
+                        },
+                        new
+                        {
+                            CourseId = 3,
+                            EndDate = new DateTime(2019, 11, 8, 11, 8, 43, 824, DateTimeKind.Local).AddTicks(388),
+                            Name = "Course3",
+                            Price = 10.20m,
+                            StartDate = new DateTime(2019, 11, 4, 11, 8, 43, 824, DateTimeKind.Local).AddTicks(380)
+                        });
                 });
 
             modelBuilder.Entity("P01_StudentSystem.Data.Models.Homework", b =>
@@ -68,7 +94,36 @@ namespace P01_StudentSystem.Migrations
 
                     b.HasIndex("StudentId");
 
-                    b.ToTable("Homeworks");
+                    b.ToTable("HomeworkSubmissions");
+
+                    b.HasData(
+                        new
+                        {
+                            HomeworkId = 1,
+                            Content = "Homework1",
+                            ContentType = 0,
+                            CourseId = 2,
+                            StudentId = 1,
+                            SubmissionTime = new DateTime(2019, 11, 7, 11, 8, 43, 840, DateTimeKind.Local).AddTicks(8981)
+                        },
+                        new
+                        {
+                            HomeworkId = 2,
+                            Content = "Homework2",
+                            ContentType = 0,
+                            CourseId = 3,
+                            StudentId = 3,
+                            SubmissionTime = new DateTime(2019, 11, 7, 11, 8, 43, 841, DateTimeKind.Local).AddTicks(84)
+                        },
+                        new
+                        {
+                            HomeworkId = 3,
+                            Content = "Homework3",
+                            ContentType = 0,
+                            CourseId = 1,
+                            StudentId = 2,
+                            SubmissionTime = new DateTime(2019, 11, 7, 11, 8, 43, 841, DateTimeKind.Local).AddTicks(124)
+                        });
                 });
 
             modelBuilder.Entity("P01_StudentSystem.Data.Models.Resource", b =>
@@ -94,6 +149,32 @@ namespace P01_StudentSystem.Migrations
                     b.HasIndex("CourseId");
 
                     b.ToTable("Resources");
+
+                    b.HasData(
+                        new
+                        {
+                            ResourceId = 1,
+                            CourseId = 2,
+                            Name = "Resource1",
+                            ResourceType = 2,
+                            Url = "url1"
+                        },
+                        new
+                        {
+                            ResourceId = 2,
+                            CourseId = 1,
+                            Name = "Resource2",
+                            ResourceType = 2,
+                            Url = "url2"
+                        },
+                        new
+                        {
+                            ResourceId = 3,
+                            CourseId = 3,
+                            Name = "Resource3",
+                            ResourceType = 2,
+                            Url = "url3"
+                        });
                 });
 
             modelBuilder.Entity("P01_StudentSystem.Data.Models.Student", b =>
@@ -110,8 +191,6 @@ namespace P01_StudentSystem.Migrations
                         .IsUnicode(true);
 
                     b.Property<string>("PhoneNumber")
-                        .IsRequired()
-                        .HasConversion(new ValueConverter<string, string>(v => default(string), v => default(string), new ConverterMappingHints(size: 64)))
                         .HasColumnType("CHAR(10)");
 
                     b.Property<DateTime>("RegisteredOn");
@@ -119,6 +198,32 @@ namespace P01_StudentSystem.Migrations
                     b.HasKey("StudentId");
 
                     b.ToTable("Students");
+
+                    b.HasData(
+                        new
+                        {
+                            StudentId = 1,
+                            Name = "Student1",
+                            RegisteredOn = new DateTime(2019, 11, 7, 11, 8, 43, 813, DateTimeKind.Local).AddTicks(4252)
+                        },
+                        new
+                        {
+                            StudentId = 2,
+                            Name = "Student2",
+                            RegisteredOn = new DateTime(2019, 11, 7, 11, 8, 43, 817, DateTimeKind.Local).AddTicks(6767)
+                        },
+                        new
+                        {
+                            StudentId = 3,
+                            Name = "Student3",
+                            RegisteredOn = new DateTime(2019, 11, 7, 11, 8, 43, 817, DateTimeKind.Local).AddTicks(6830)
+                        },
+                        new
+                        {
+                            StudentId = 4,
+                            Name = "Student4",
+                            RegisteredOn = new DateTime(2019, 11, 7, 11, 8, 43, 817, DateTimeKind.Local).AddTicks(6840)
+                        });
                 });
 
             modelBuilder.Entity("P01_StudentSystem.Data.Models.StudentCourse", b =>
@@ -132,6 +237,23 @@ namespace P01_StudentSystem.Migrations
                     b.HasIndex("CourseId");
 
                     b.ToTable("StudentCourses");
+
+                    b.HasData(
+                        new
+                        {
+                            StudentId = 2,
+                            CourseId = 1
+                        },
+                        new
+                        {
+                            StudentId = 2,
+                            CourseId = 2
+                        },
+                        new
+                        {
+                            StudentId = 3,
+                            CourseId = 2
+                        });
                 });
 
             modelBuilder.Entity("P01_StudentSystem.Data.Models.Homework", b =>

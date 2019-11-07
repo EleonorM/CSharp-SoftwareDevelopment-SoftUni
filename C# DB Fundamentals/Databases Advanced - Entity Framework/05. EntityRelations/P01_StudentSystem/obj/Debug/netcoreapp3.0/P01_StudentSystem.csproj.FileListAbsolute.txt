@@ -32,7 +32,7 @@ C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framewor
 C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\05. EntityRelations\P01_StudentSystem\bin\Debug\netcoreapp3.0\P01_StudentSystem.pdb
 C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\05. EntityRelations\P01_StudentSystem\obj\Debug\netcoreapp3.0\P01_StudentSystem.dll
 C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\05. EntityRelations\P01_StudentSystem\obj\Debug\netcoreapp3.0\P01_StudentSystem.pdb
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\05. EntityRelations\P01_StudentSystem\obj\Debug\netcoreapp3.0\P01_StudentSystem.csprojAssemblyReference.cache
 C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\05. EntityRelations\P01_StudentSystem\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\05. EntityRelations\P01_StudentSystem\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
 C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\05. EntityRelations\P01_StudentSystem\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
-C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\05. EntityRelations\P01_StudentSystem\obj\Debug\netcoreapp3.0\P01_StudentSystem.csprojAssemblyReference.cache

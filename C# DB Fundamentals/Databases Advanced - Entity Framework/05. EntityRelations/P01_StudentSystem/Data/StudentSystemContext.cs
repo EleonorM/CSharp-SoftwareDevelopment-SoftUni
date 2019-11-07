@@ -2,6 +2,7 @@
 {
     using Microsoft.EntityFrameworkCore;
     using P01_StudentSystem.Data.Models;
+    using System;
 
     public class StudentSystemContext : DbContext
     {
@@ -66,6 +67,12 @@
                           .HasOne(p => p.Course)
                           .WithMany(p => p.StudentsEnrolled)
                           .HasForeignKey(k => k.CourseId);
+
+                          entity.HasData(
+                              new StudentCourse { StudentId = 2, CourseId = 1 },
+                              new StudentCourse { StudentId = 2, CourseId = 2 },
+                              new StudentCourse { StudentId = 3, CourseId = 2 }
+                              );
                       });
         }
 
@@ -85,10 +92,6 @@
                         .IsRequired();
 
                        entity
-                       .Property(p => p.SubmissionTime)
-                       .IsRequired();
-
-                       entity
                        .Property(p => p.StudentId)
                        .IsRequired();
 
@@ -105,6 +108,12 @@
                        .HasOne(e => e.Course)
                        .WithMany(e => e.HomeworkSubmissions)
                        .HasForeignKey(k => k.CourseId);
+
+                       entity.HasData(
+                       new Homework { HomeworkId = 1, Content = "Homework1", CourseId = 2, StudentId = 1, ContentType = ContentType.Application, SubmissionTime = DateTime.Now },
+                       new Homework { HomeworkId = 2, Content = "Homework2", CourseId = 3, StudentId = 3, ContentType = ContentType.Application, SubmissionTime = DateTime.Now },
+                       new Homework { HomeworkId = 3, Content = "Homework3", CourseId = 1, StudentId = 2, ContentType = ContentType.Application, SubmissionTime = DateTime.Now }
+                       );
                    });
         }
 
@@ -125,9 +134,13 @@
                      .Property(p => p.PhoneNumber)
                      .HasColumnType("CHAR(10)");
 
-                    entity
-                    .Property(p => p.RegisteredOn)
-                    .IsRequired();
+
+                    entity.HasData(
+                        new Student { StudentId = 1, Name = "Student1", RegisteredOn = DateTime.Now },
+                        new Student { StudentId = 2, Name = "Student2", RegisteredOn = DateTime.Now },
+                        new Student { StudentId = 3, Name = "Student3", RegisteredOn = DateTime.Now },
+                        new Student { StudentId = 4, Name = "Student4", RegisteredOn = DateTime.Now });
+
                 });
         }
 
@@ -149,17 +162,15 @@
                      .IsUnicode();
 
                     entity
-                    .Property(p => p.StartDate)
-                    .IsRequired();
-
-                    entity
-                    .Property(p => p.EndDate)
-                    .IsRequired();
-
-                    entity
                     .Property(p => p.Price)
                     .HasColumnType("DECIMAL(15,2)")
                     .IsRequired();
+
+                    entity.HasData(
+                        new Course { CourseId = 1, Name = "Course1", StartDate = DateTime.Now.AddDays(-1), EndDate = DateTime.Now.AddDays(1), Price = 10.20m },
+                        new Course { CourseId = 2, Name = "Course2", StartDate = DateTime.Now.AddDays(-2), EndDate = DateTime.Now.AddDays(1), Price = 10.20m },
+                        new Course { CourseId = 3, Name = "Course3", StartDate = DateTime.Now.AddDays(-3), EndDate = DateTime.Now.AddDays(1), Price = 10.20m }
+                        );
                 });
         }
 
@@ -192,6 +203,12 @@
                   .HasOne(p => p.Course)
                   .WithMany(c => c.Resources)
                   .HasForeignKey(k => k.CourseId);
+
+                  entity.HasData(
+                       new Resource { ResourceId = 1, Name = "Resource1", ResourceType = ResourceType.Document, CourseId = 2, Url = "url1" },
+                       new Resource { ResourceId = 2, Name = "Resource2", ResourceType = ResourceType.Document, CourseId = 1, Url = "url2" },
+                       new Resource { ResourceId = 3, Name = "Resource3", ResourceType = ResourceType.Document, CourseId = 3, Url = "url3" }
+                       );
               });
         }
     }
