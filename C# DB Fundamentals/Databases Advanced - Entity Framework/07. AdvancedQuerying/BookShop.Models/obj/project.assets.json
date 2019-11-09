@@ -682,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Elie\\SoftUni\\Projects\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\07. AdvancedQuerying\\BookShop.Models\\BookShop.Models.csproj",
+      "projectUniqueName": "C:\\Elie\\SoftUni\\Projects\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\New folder\\BookShop.Models\\BookShop.Models.csproj",
       "projectName": "BookShop.Models",
-      "projectPath": "C:\\Elie\\SoftUni\\Projects\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\07. AdvancedQuerying\\BookShop.Models\\BookShop.Models.csproj",
+      "projectPath": "C:\\Elie\\SoftUni\\Projects\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\New folder\\BookShop.Models\\BookShop.Models.csproj",
       "packagesPath": "C:\\Users\\eleon\\.nuget\\packages\\",
-      "outputPath": "C:\\Elie\\SoftUni\\Projects\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\07. AdvancedQuerying\\BookShop.Models\\obj\\",
+      "outputPath": "C:\\Elie\\SoftUni\\Projects\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\New folder\\BookShop.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

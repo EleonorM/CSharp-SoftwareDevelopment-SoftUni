@@ -4829,11 +4829,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Elie\\SoftUni\\Projects\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\07. AdvancedQuerying\\BookShop.Data\\BookShop.Data.csproj",
+      "projectUniqueName": "C:\\Elie\\SoftUni\\Projects\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\New folder\\BookShop.Data\\BookShop.Data.csproj",
       "projectName": "BookShop.Data",
-      "projectPath": "C:\\Elie\\SoftUni\\Projects\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\07. AdvancedQuerying\\BookShop.Data\\BookShop.Data.csproj",
+      "projectPath": "C:\\Elie\\SoftUni\\Projects\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\New folder\\BookShop.Data\\BookShop.Data.csproj",
       "packagesPath": "C:\\Users\\eleon\\.nuget\\packages\\",
-      "outputPath": "C:\\Elie\\SoftUni\\Projects\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\07. AdvancedQuerying\\BookShop.Data\\obj\\",
+      "outputPath": "C:\\Elie\\SoftUni\\Projects\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\New folder\\BookShop.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4852,8 +4852,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Elie\\SoftUni\\Projects\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\07. AdvancedQuerying\\BookShop.Models\\BookShop.Models.csproj": {
-              "projectPath": "C:\\Elie\\SoftUni\\Projects\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\07. AdvancedQuerying\\BookShop.Models\\BookShop.Models.csproj"
+            "C:\\Elie\\SoftUni\\Projects\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\New folder\\BookShop.Models\\BookShop.Models.csproj": {
+              "projectPath": "C:\\Elie\\SoftUni\\Projects\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\New folder\\BookShop.Models\\BookShop.Models.csproj"
             }
           }
         }
