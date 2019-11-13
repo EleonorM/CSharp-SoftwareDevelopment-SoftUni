@@ -7,6 +7,7 @@
     using ViewModels.Employees;
     using ViewModels.Categories;
     using ViewModels.Items;
+    using ViewModels.Orders;
 
     public class FastFoodProfile : Profile
     {
@@ -21,7 +22,7 @@
 
             //Employees
             this.CreateMap<Position, RegisterEmployeeViewModel>()
-                .ForMember(x => x.PositionId, y => y.MapFrom(p => p.Id));
+                .ForMember(x => x.PositionName, y => y.MapFrom(p => p.Name));
 
             this.CreateMap<RegisterEmployeeInputModel, Employee>();
 
@@ -36,12 +37,23 @@
 
             //Items
             this.CreateMap<Category, CreateItemViewModel>()
-                .ForMember(x => x.CategoryId, y => y.MapFrom(c => c.Id));
+                .ForMember(x => x.CategoryName, y => y.MapFrom(c => c.Name));
 
             this.CreateMap<CreateItemInputModel, Item>();
 
             this.CreateMap<Item, ItemsAllViewModels>()
-                .ForMember(x=>x.Category, y=>y.MapFrom(i=>i.Category.Name));
+                .ForMember(x => x.Category, y => y.MapFrom(i => i.Category.Name));
+
+            //Orders
+            this.CreateMap<Category, CreateItemViewModel>()
+                .ForMember(x => x.CategoryName, y => y.MapFrom(c => c.Name));
+
+            this.CreateMap<CreateOrderInputModel, Order>();
+
+            this.CreateMap<Order, OrderAllViewModel>()
+                .ForMember(x => x.OrderId, y => y.MapFrom(o => o.Id))
+                .ForMember(x => x.Employee, y => y.MapFrom(o => o.Employee.Name))
+                .ForMember(x => x.DateTime, y => y.MapFrom(o => o.DateTime.ToString("g")));
         }
     }
 }

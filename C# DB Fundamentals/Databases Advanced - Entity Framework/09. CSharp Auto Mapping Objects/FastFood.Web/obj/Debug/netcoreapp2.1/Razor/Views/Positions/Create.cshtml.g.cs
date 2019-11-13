@@ -59,7 +59,7 @@ using FastFood.Web;
             WriteLiteral("<h1 class=\"text-center\">Create Position</h1>\r\n<hr class=\"bg-secondary half-width\" />\r\n");
             EndContext();
             BeginContext(137, 500, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6ee7cea96c1143f78b6ea35d5598a2c4", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d006ef187ae14fc5ae21fd6fbde7c700", async() => {
                 BeginContext(231, 399, true);
                 WriteLiteral(@"
     <div class=""form-group"">

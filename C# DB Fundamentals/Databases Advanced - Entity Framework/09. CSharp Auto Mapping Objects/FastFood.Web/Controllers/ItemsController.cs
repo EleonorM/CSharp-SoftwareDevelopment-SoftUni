@@ -39,7 +39,8 @@
             }
 
             var item = mapper.Map<Item>(model);
-
+            var category = context.Categories.FirstOrDefault(x => x.Name == model.CategoryName);
+            item.CategoryId = category.Id;
             context.Items.Add(item);
             context.SaveChanges();
 

@@ -38,7 +38,7 @@
 
 
             var services = constructorParams.Select(x => this.serviceProvider.GetService(x)).ToArray();
-            var command = (ICommand)constructor.Invoke(services);
+            var command = (ICommand)Activator.CreateInstance(type, services);
 
             var result = command.Execute(commandParameters);
 

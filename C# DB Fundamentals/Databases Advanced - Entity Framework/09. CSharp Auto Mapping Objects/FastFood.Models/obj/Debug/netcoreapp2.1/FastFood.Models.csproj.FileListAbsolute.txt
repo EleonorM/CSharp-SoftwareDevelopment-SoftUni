@@ -5,3 +5,4 @@ C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framewor
 C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\09. CSharp Auto Mapping Objects\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.AssemblyInfo.cs
 C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\09. CSharp Auto Mapping Objects\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.dll
 C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\09. CSharp Auto Mapping Objects\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.pdb
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\09. CSharp Auto Mapping Objects\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.csprojAssemblyReference.cache
