@@ -1,7 +1,7 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace FastFood.Web.ViewModels.Employees
+﻿namespace FastFood.Web.ViewModels.Employees
 {
+    using System.ComponentModel.DataAnnotations;
+
     public class RegisterEmployeeInputModel
     {
 

@@ -14,9 +14,12 @@ C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framewor
 C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
 C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
 C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
-C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache
 C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
 C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
 C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
 C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
 C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\Datasets\users.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\Datasets\categories-products.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\Datasets\categories.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\Datasets\products.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache

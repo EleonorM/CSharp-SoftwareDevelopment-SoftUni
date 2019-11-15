@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using Newtonsoft.Json;
+using Newtonsoft.Json.Serialization;
 using ProductShop.Data;
 using ProductShop.Dtos;
 using ProductShop.Models;
@@ -26,7 +27,7 @@ namespace ProductShop
                 var categories = File.ReadAllText(pathCategories);
 
 
-                Console.WriteLine(ImportUsers(context, users));
+                Console.WriteLine(GetUsersWithProducts(context));
             }
         }
 
@@ -55,7 +56,7 @@ namespace ProductShop
         public static string ImportCategories(ProductShopContext context, string inputJson)
         {
             var categories = JsonConvert.DeserializeObject<Category[]>(inputJson)
-               .Where(u => u.Name.Length >= 3 && u.Name.Length <= 15);
+               .Where(u => u.Name != null && u.Name.Length >= 3 && u.Name.Length <= 15);
 
             context.Categories.AddRange(categories);
             context.SaveChanges();
@@ -82,13 +83,120 @@ namespace ProductShop
                  {
                      Name = p.Name,
                      Price = p.Price,
-                     Seller = $"{p.Seller.FirstName} {p.Seller.LastName}".Trim()
+                     Seller = $"{p.Seller.FirstName} {p.Seller.LastName}"
                  })
-                .OrderBy(p=>p.Price)
+                .OrderBy(p => p.Price)
                 .ToList();
 
             var products = JsonConvert.SerializeObject(productsInRange, Formatting.Indented);
             return products;
+        }
+
+        public static string GetSoldProducts(ProductShopContext context)
+        {
+            var usersWithsoldProducts = context
+                .Users
+                .Where(u => u.ProductsSold.Any(p => p.BuyerId != null))
+                .Select(u => new
+                {
+                    FirstName = u.FirstName,
+                    LastName = u.LastName,
+                    SoldProducts = u.ProductsSold
+                    .Where(sp => sp.Buyer != null)
+                    .Select(sp => new
+                    {
+                        Name = sp.Name,
+                        Price = sp.Price,
+                        BuyerFirstName = sp.Buyer.FirstName,
+                        BuyerLastName = sp.Buyer.LastName
+                    })
+                })
+                .OrderBy(u => u.FirstName)
+                .OrderBy(u => u.LastName)
+                .ToList();
+
+            DefaultContractResolver contractResolver = new DefaultContractResolver()
+            {
+                NamingStrategy = new CamelCaseNamingStrategy()
+            };
+
+            var products = JsonConvert.SerializeObject(usersWithsoldProducts, new JsonSerializerSettings
+            {
+                Formatting = Formatting.Indented,
+                ContractResolver = contractResolver
+            });
+            return products;
+        }
+
+        public static string GetCategoriesByProductsCount(ProductShopContext context)
+        {
+            var categoriesByProductCount = context
+                .Categories
+                .OrderByDescending(c => c.CategoryProducts.Count)
+                .Select(c => new
+                {
+                    Category = c.Name,
+                    ProductsCount = c.CategoryProducts.Count(),
+                    AveragePrice = Math.Round(c.CategoryProducts.Average(cp => cp.Product.Price), 2).ToString(),
+                    TotalRevenue = Math.Round(c.CategoryProducts.Sum(cp => cp.Product.Price), 2).ToString()
+                })
+                .ToList();
+
+            DefaultContractResolver contractResolver = new DefaultContractResolver()
+            {
+                NamingStrategy = new CamelCaseNamingStrategy()
+            };
+
+            var categories = JsonConvert.SerializeObject(categoriesByProductCount, new JsonSerializerSettings
+            {
+                Formatting = Formatting.Indented,
+                ContractResolver = contractResolver
+            });
+            return categories;
+        }
+
+        public static string GetUsersWithProducts(ProductShopContext context)
+        {
+            var usersFiltered = context
+                .Users
+                .Where(u => u.ProductsSold.Any(ps => ps.Buyer != null))
+                .OrderByDescending(u => u.ProductsSold.Count(ps => ps.Buyer != null))
+                .Select(u => new
+                {
+                    FirstName = u.FirstName,
+                    LastName = u.LastName,
+                    Age = u.Age,
+                    SoldProducts = new
+                    {
+                        Count = u.ProductsSold.Count(p => p.Buyer != null),
+                        Products = u.ProductsSold
+                        .Where(ps => ps.Buyer != null).Select(p => new
+                        {
+                            Name = p.Name,
+                            Price = p.Price
+                        })
+                    }
+                })
+                .ToList();
+
+            var result = new
+            {
+                UsersCount = usersFiltered.Count,
+                Users = usersFiltered
+            };
+
+            DefaultContractResolver contractResolver = new DefaultContractResolver()
+            {
+                NamingStrategy = new CamelCaseNamingStrategy()
+            };
+
+            var users = JsonConvert.SerializeObject(result, new JsonSerializerSettings
+            {
+                Formatting = Formatting.Indented,
+                ContractResolver = contractResolver,
+                NullValueHandling = NullValueHandling.Ignore
+            });
+            return users;
         }
     }
 }
