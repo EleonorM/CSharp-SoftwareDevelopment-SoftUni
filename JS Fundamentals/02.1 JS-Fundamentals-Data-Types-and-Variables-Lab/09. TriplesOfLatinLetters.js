@@ -1,18 +1,27 @@
 function printTripletsOfLetters(num) {
-    let numChar = String.fromCharCode(97 + num);
+    for (let i = 0; i < num; i++) {
+        let letter1 = String.fromCharCode(97 + i);
+        for (let j = 0; j < num; j++) {
+            let letter2 = String.fromCharCode(97 + j);
+            for (let k = 0; k < num; k++) {
 
-    for (let i = 97; i < 97 + num; i++) {
-        let result = [String.fromCharCode(i)];
-        for (let i = 97; i < 97 + num; i++) {
-            result.push(String.fromCharCode(i));
-            for (let i = 97; i < 97 + num; i++) {
-                result.push(String.fromCharCode(i));
+                let letter3 = String.fromCharCode(97 + k);
+                console.log(letter1 + letter2 + letter3);
+            }
+        }
+    }
+}
 
-                console.log(result[0]+result[1]+result[2]);
-                result.pop();
+function tripplesOfLatinLetters(num) {
+    for (let n = 0; n < num; n++) {
+        let letter1 = String.fromCharCode(97 + n);
+        for (let y = 0; y < num; y++) {
+            let letter2 = String.fromCharCode(97 + y);
+            for (let j = 0; j < num; j++) {
+                let letter3 = String.fromCharCode(97 + j);
+                console.log(letter1 + letter2 + letter3);
             }
 
-            result.pop();
         }
     }
 }
