@@ -1,9 +1,9 @@
-﻿using System;
+﻿namespace CarDealer.Models
+{
+using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace CarDealer.Models
-{
     public class Supplier
     {
         public int Id { get; set; }

@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\CarDealer\TestCar\bin\Debug\netcoreapp3.0\TestCar.deps.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\CarDealer\TestCar\bin\Debug\netcoreapp3.0\TestCar.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\CarDealer\TestCar\bin\Debug\netcoreapp3.0\CarDealer.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\CarDealer\TestCar\bin\Debug\netcoreapp3.0\CarDealer.pdb
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\CarDealer\TestCar\obj\Debug\netcoreapp3.0\TestCar.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\CarDealer\TestCar\obj\Debug\netcoreapp3.0\TestCar.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\CarDealer\TestCar\obj\Debug\netcoreapp3.0\TestCar.AssemblyInfo.cs
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\CarDealer\TestCar\obj\Debug\netcoreapp3.0\TestCar.csproj.CopyComplete
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\CarDealer\TestCar\bin\Debug\netcoreapp3.0\TestCar.pdb
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\CarDealer\TestCar\obj\Debug\netcoreapp3.0\TestCar.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\CarDealer\TestCar\obj\Debug\netcoreapp3.0\TestCar.pdb

@@ -1,15 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Serialization;
-using ProductShop.Data;
-using ProductShop.Dtos;
-using ProductShop.Models;
-
-namespace ProductShop
+﻿namespace ProductShop
 {
+    using Newtonsoft.Json;
+    using Newtonsoft.Json.Serialization;
+    using ProductShop.Data;
+    using ProductShop.Dtos;
+    using ProductShop.Models;
+    using System;
+    using System.IO;
+    using System.Linq;
+
     public class StartUp
     {
         public static void Main(string[] args)
@@ -45,7 +44,7 @@ namespace ProductShop
         public static string ImportProducts(ProductShopContext context, string inputJson)
         {
             var products = JsonConvert.DeserializeObject<Product[]>(inputJson)
-               .Where(u => u.Name != null && u.Name.Length > 2 && u.Price != 0);
+               .Where(p => p.Name != null && p.Name.Length > 2 && p.Price != 0);
 
             context.Products.AddRange(products);
             context.SaveChanges();

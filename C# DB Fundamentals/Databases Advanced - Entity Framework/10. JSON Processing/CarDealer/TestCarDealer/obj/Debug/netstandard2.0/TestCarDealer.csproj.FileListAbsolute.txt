@@ -1,0 +1,5 @@
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\CarDealer\TestCarDealer\bin\Debug\netstandard2.0\TestCarDealer.deps.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\CarDealer\TestCarDealer\bin\Debug\netstandard2.0\TestCarDealer.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\CarDealer\TestCarDealer\obj\Debug\netstandard2.0\TestCarDealer.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\CarDealer\TestCarDealer\obj\Debug\netstandard2.0\TestCarDealer.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\10. JSON Processing\CarDealer\TestCarDealer\obj\Debug\netstandard2.0\TestCarDealer.AssemblyInfo.cs

@@ -1,10 +1,10 @@
-﻿using System;
+﻿namespace CarDealer.Models
+{
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
-namespace CarDealer.Models
-{
     public class Sale
     {
         public int Id { get; set; }
