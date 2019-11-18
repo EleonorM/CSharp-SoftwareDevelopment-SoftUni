@@ -33,7 +33,7 @@
                 //Console.WriteLine(ImportCategoryProducts(context, inputCategoriesProducts));
                 //Console.WriteLine(GetProductsInRange(context));
                 //Console.WriteLine(GetCategoriesByProductsCount(context));
-                //Console.WriteLine(GetUsersWithProducts(context));
+                Console.WriteLine(GetCategoriesByProductsCount(context));
             }
         }
 
@@ -171,6 +171,7 @@
                 })
                 .OrderBy(u => u.LastName)
                 .ThenBy(u => u.FirstName)
+                .Take(5)
                 .ToArray();
 
             XmlSerializer xmlSerializer = new XmlSerializer(typeof(ExportUserSoldProductsDto[]), new XmlRootAttribute("Users"));
