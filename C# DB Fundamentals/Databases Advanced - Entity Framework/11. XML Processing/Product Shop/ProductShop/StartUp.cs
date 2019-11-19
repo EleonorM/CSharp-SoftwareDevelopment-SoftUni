@@ -33,10 +33,11 @@
                 //Console.WriteLine(ImportCategoryProducts(context, inputCategoriesProducts));
                 //Console.WriteLine(GetProductsInRange(context));
                 //Console.WriteLine(GetCategoriesByProductsCount(context));
-                Console.WriteLine(GetCategoriesByProductsCount(context));
+                Console.WriteLine(GetUsersWithProducts(context));
             }
         }
 
+        //01. Import Users
         public static string ImportUsers(ProductShopContext context, string inputXml)
         {
             XmlSerializer xmlSerializer = new XmlSerializer(typeof(ImportUserDto[]), new XmlRootAttribute("Users"));
@@ -57,6 +58,7 @@
             return $"Successfully imported {users.Count}";
         }
 
+        //02. Import Products
         public static string ImportProducts(ProductShopContext context, string inputXml)
         {
             XmlSerializer xmlSerializer = new XmlSerializer(typeof(ImportProductDto[]), new XmlRootAttribute("Products"));
@@ -76,6 +78,7 @@
             return $"Successfully imported {products.Count}";
         }
 
+        //03. Import Categories
         public static string ImportCategories(ProductShopContext context, string inputXml)
         {
             XmlSerializer xmlSerializer = new XmlSerializer(typeof(ImportCategoriesDto[]), new XmlRootAttribute("Categories"));
@@ -98,6 +101,7 @@
             return $"Successfully imported {categories.Count}";
         }
 
+        //04. Import Categories and Products
         public static string ImportCategoryProducts(ProductShopContext context, string inputXml)
         {
             XmlSerializer xmlSerializer = new XmlSerializer(typeof(ImportCategoryProductDto[]), new XmlRootAttribute("CategoryProducts"));
@@ -123,6 +127,7 @@
             return $"Successfully imported {categoriesProducts.Count}";
         }
 
+        //05. Export Products In Range
         public static string GetProductsInRange(ProductShopContext context)
         {
             var products = context
@@ -153,6 +158,7 @@
 
         }
 
+        //06. Export Sold Products
         public static string GetSoldProducts(ProductShopContext context)
         {
             var users = context
@@ -188,15 +194,18 @@
             return sb.ToString().TrimEnd();
         }
 
+        //07. Export Categories By Products Count
         public static string GetCategoriesByProductsCount(ProductShopContext context)
         {
+            var cat = Mapper.Map<ExportCategoriesByProductsCountDto[]>(context.Categories);
             var categories = context
                 .Categories
                 .Select(c => new ExportCategoriesByProductsCountDto
                 {
                     Name = c.Name,
                     Count = c.CategoryProducts.Count,
-                    TotalRevenue = c.CategoryProducts.Sum(cp => cp.Product.Price)
+                    TotalRevenue = c.CategoryProducts.Sum(cp => cp.Product.Price),
+                    AveragePrice = c.CategoryProducts.Average(cp => cp.Product.Price)
                 })
                 .OrderByDescending(c => c.Count)
                 .ThenBy(c => c.TotalRevenue)
@@ -216,6 +225,7 @@
             return sb.ToString().TrimEnd();
         }
 
+        //08. Export Users and Products
         public static string GetUsersWithProducts(ProductShopContext context)
         {
             var users = context
@@ -240,6 +250,7 @@
                 })
                 .ToArray()
                 .OrderByDescending(u => u.SoldProductDto.Count)
+                .Take(10)
                 .ToArray();
 
             var export = new ExportCustomUserProductDto

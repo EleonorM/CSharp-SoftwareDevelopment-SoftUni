@@ -14,7 +14,7 @@
         [XmlElement("age")]
         public int? Age { get; set; }
 
-        [XmlElement("soldProducts")]
+        [XmlElement("SoldProducts")]
         public SoldProductDto SoldProductDto { get; set; }
     }
 

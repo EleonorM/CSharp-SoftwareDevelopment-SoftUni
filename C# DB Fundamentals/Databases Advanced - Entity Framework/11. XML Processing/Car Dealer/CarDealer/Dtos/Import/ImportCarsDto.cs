@@ -17,10 +17,11 @@
         [XmlArray("parts")]
         public ImportPartCarDto[] CarParts { get; set; }
     }
-    [XmlType("Part")]
+
+    [XmlType("partId")]
     public class ImportPartCarDto
     {
-        [XmlElement("partId")]
+        [XmlAttribute("id")]
         public int PartId { get; set; }
 
         public int CarId { get; set; }

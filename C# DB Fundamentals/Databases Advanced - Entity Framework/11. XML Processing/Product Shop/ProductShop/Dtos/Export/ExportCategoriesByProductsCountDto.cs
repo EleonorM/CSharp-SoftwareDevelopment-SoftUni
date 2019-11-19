@@ -12,7 +12,7 @@
         public int Count { get; set; }
 
         [XmlElement("averagePrice")]
-        public decimal AveragePrice { get => TotalRevenue / Count; }
+        public decimal AveragePrice { get; set; }
 
         [XmlElement("totalRevenue")]
         public decimal TotalRevenue { get; set; }

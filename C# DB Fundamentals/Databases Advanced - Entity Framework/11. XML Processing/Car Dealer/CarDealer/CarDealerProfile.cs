@@ -11,9 +11,6 @@
         {
             this.CreateMap<ImportSuppliersDto, Supplier>();
             this.CreateMap<ImportPartsDto, Part>();
-            this.CreateMap<ImportPartCarDto, PartCar>()
-                .ForMember(x=>x.PartId, y=>y.MapFrom(x=>x.PartId))
-                .ForMember(x=>x.CarId, y=>y.MapFrom(x=>x.CarId));
             this.CreateMap<ImportCarsDto, Car>();
             this.CreateMap<ImportCustomersDto, Customer>();
             this.CreateMap<ImportSalesDto, Sale>();
