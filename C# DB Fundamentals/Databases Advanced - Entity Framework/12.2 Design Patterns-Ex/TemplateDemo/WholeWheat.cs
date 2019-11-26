@@ -1,0 +1,17 @@
+﻿namespace TemplateDemo
+{
+    using System;
+
+    public class WholeWheat : Bread
+    {
+        public override void MixIngradients()
+        {
+            Console.WriteLine("Gathering Ingredients for Whole Wheat Bread.");
+        }
+
+        public override void Bake()
+        {
+            Console.WriteLine("Baking the Whole Wheat Bread. (15 minutes)");
+        }
+    }
+}
