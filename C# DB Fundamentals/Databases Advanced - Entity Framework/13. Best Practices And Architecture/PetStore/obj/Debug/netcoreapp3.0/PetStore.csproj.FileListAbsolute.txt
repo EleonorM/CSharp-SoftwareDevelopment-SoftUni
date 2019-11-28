@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\PetStore\bin\Debug\netcoreapp3.0\PetStore.exe
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\PetStore\bin\Debug\netcoreapp3.0\PetStore.deps.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\PetStore\bin\Debug\netcoreapp3.0\PetStore.runtimeconfig.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\PetStore\bin\Debug\netcoreapp3.0\PetStore.runtimeconfig.dev.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\PetStore\bin\Debug\netcoreapp3.0\PetStore.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\PetStore\bin\Debug\netcoreapp3.0\PetStore.pdb
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\PetStore\obj\Debug\netcoreapp3.0\PetStore.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\PetStore\obj\Debug\netcoreapp3.0\PetStore.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\PetStore\obj\Debug\netcoreapp3.0\PetStore.AssemblyInfo.cs
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\PetStore\obj\Debug\netcoreapp3.0\PetStore.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\PetStore\obj\Debug\netcoreapp3.0\PetStore.pdb
