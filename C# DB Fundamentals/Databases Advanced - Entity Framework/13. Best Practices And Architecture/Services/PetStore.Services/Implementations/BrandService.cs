@@ -73,5 +73,7 @@
                         })
                         .ToList();
         }
+
+       // internal Brand GetBrandByName(string name) => this.data.Brands.FirstOrDefault(br => br.Name.ToLower() == name.ToLower());
     }
 }
