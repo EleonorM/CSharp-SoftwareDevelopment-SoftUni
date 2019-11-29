@@ -50,7 +50,7 @@ namespace PetStore.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Breed");
+                    b.ToTable("Breeds");
                 });
 
             modelBuilder.Entity("PetStore.Data.Models.Category", b =>
@@ -71,7 +71,7 @@ namespace PetStore.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Category");
+                    b.ToTable("Categories");
                 });
 
             modelBuilder.Entity("PetStore.Data.Models.Food", b =>
@@ -125,7 +125,7 @@ namespace PetStore.Data.Migrations
 
                     b.HasIndex("OrderId");
 
-                    b.ToTable("FoodOrder");
+                    b.ToTable("FoodOrders");
                 });
 
             modelBuilder.Entity("PetStore.Data.Models.Order", b =>
@@ -163,6 +163,9 @@ namespace PetStore.Data.Migrations
 
                     b.Property<int>("CategoryId")
                         .HasColumnType("int");
+
+                    b.Property<DateTime>("DateOfBirth")
+                        .HasColumnType("datetime2");
 
                     b.Property<string>("Description")
                         .HasColumnType("nvarchar(500)")
@@ -237,7 +240,7 @@ namespace PetStore.Data.Migrations
 
                     b.HasIndex("OrderId");
 
-                    b.ToTable("ToyOrder");
+                    b.ToTable("ToyOrders");
                 });
 
             modelBuilder.Entity("PetStore.Data.Models.User", b =>

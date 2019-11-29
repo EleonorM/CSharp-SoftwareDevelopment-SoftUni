@@ -1,9 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace PetStore.Services.Models.Food
+﻿namespace PetStore.Services.Models.Food
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Text;
+
     public class AddingFoodServiceModel
     {
         public int Id { get; set; }

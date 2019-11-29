@@ -1,19 +1,20 @@
 ﻿namespace PetStore.Services.Implementations
 {
-using System;
-using System.Collections.Generic;
-using System.Text;
-    using PetStore.Data;
-    using PetStore.Data.Models;
-    using PetStore.Services.Models.Toy;
+    using Data;
+    using Data.Models;
+    using Models.Toy;
+    using System;
+    using System.Linq;
 
     public class ToyService : IToyService
     {
         private readonly PetStoreDbContext data;
+        private readonly IUserService userService;
 
-        public ToyService(PetStoreDbContext data)
+        public ToyService(PetStoreDbContext data, IUserService userService)
         {
             this.data = data;
+            this.userService = userService;
         }
 
         public void BuyFromDistributor(string name, string description, decimal distributorPrice, double profit, int brandId, int categoryId)
@@ -63,9 +64,43 @@ using System.Text;
                 BrandId = model.BrandId,
                 CategoryId = model.CategoryId
             };
-            //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-            this.data.Add(toy);
+            this.data.Toys.Add(toy);
             this.data.SaveChanges();
+        }
+
+        public bool Exists(int toyId)
+        {
+            return this.data.Toys.Any(u => u.Id == toyId);
+        }
+
+        public void SellToyToUser(int userId, int toyId)
+        {
+            if (!this.Exists(toyId))
+            {
+                throw new ArgumentException($"There is no toy with id {toyId}");
+            }
+
+            if (!this.userService.Exists(userId))
+            {
+                throw new ArgumentException($"There is no user with id {userId}");
+            }
+
+            var order = new Order
+            {
+                PurchasedDate = DateTime.Now,
+                OrderStatus = OrderStatus.Done,
+                UserId = userId
+            };
+
+            var toyOrder = new ToyOrder
+            {
+                Order = order,
+                ToyId = toyId
+            };
+
+            data.Orders.Add(order);
+            data.ToyOrders.Add(toyOrder);
+            data.SaveChanges();
         }
     }
 }

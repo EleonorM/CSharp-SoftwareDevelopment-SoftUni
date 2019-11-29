@@ -1,20 +1,20 @@
 ﻿namespace PetStore.Services.Implementations
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
-    using Models.Food;
     using Data.Models;
-    using PetStore.Data;
+    using Models.Food;
+    using Data;
+    using System;
     using System.Linq;
 
     public class FoodService : IFoodService
     {
         private readonly PetStoreDbContext data;
+        private readonly IUserService userService;
 
-        public FoodService(PetStoreDbContext data)
+        public FoodService(PetStoreDbContext data, IUserService userService)
         {
             this.data = data;
+            this.userService = userService;
         }
 
         public void BuyFromDistributor(string name, double weight, decimal price, double profit, DateTime expirationDate, int brandId, int categoryId)
@@ -67,8 +67,43 @@
                 CategoryId = model.CategoryId
             };
 
-            this.data.Add(food);
+            this.data.Food.Add(food);
             this.data.SaveChanges();
+        }
+
+        public bool Exists(int foodId)
+        {
+            return this.data.Food.Any(u => u.Id == foodId);
+        }
+
+        public void SellFoodToUser(int foodId, int userId)
+        {
+            if (!this.Exists(foodId))
+            {
+                throw new ArgumentException($"There is no food with id {foodId}");
+            }
+
+            if (!this.userService.Exists(userId))
+            {
+                throw new ArgumentException($"There is no user with id {userId}");
+            }
+
+            var order = new Order
+            {
+                PurchasedDate = DateTime.Now,
+                OrderStatus = OrderStatus.Done,
+                UserId = userId
+            };
+
+            var foodOrder = new FoodOrder
+            {
+                Order = order,
+                FoodId = foodId
+            };
+
+            data.Orders.Add(order);
+            data.FoodOrders.Add(foodOrder);
+            data.SaveChanges();
         }
     }
 }

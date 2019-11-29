@@ -44,3 +44,7 @@ C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framewor
 C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\PetStore\bin\Debug\netcoreapp3.0\PetStore.Data.Models.pdb
 C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\PetStore\obj\Debug\netcoreapp3.0\PetStore.csproj.CopyComplete
 C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\PetStore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\PetStore\bin\Debug\netcoreapp3.0\PetStore.Services.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\PetStore\bin\Debug\netcoreapp3.0\PetStore.Services.Models.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\PetStore\bin\Debug\netcoreapp3.0\PetStore.Services.pdb
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\PetStore\bin\Debug\netcoreapp3.0\PetStore.Services.Models.pdb

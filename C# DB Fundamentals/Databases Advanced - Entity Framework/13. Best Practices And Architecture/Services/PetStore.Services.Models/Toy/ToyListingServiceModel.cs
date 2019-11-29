@@ -1,9 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace PetStore.Services.Models.Toy
+﻿namespace PetStore.Services.Models.Toy
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Text;
+
     public class ToyListingServiceModel
     {
         public int Id { get; set; }

@@ -1,12 +1,12 @@
 ﻿namespace PetStore.Services.Implementations
 {
-    using System.Collections.Generic;
     using Data;
-    using System;
-    using System.Linq;
-    using PetStore.Data.Models;
-    using PetStore.Services.Models.Brand;
     using Models.Toy;
+    using Data.Models;
+    using Models.Brand;
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
 
     public class BrandService : IBrandService
     {
@@ -74,6 +74,6 @@
                         .ToList();
         }
 
-       // internal Brand GetBrandByName(string name) => this.data.Brands.FirstOrDefault(br => br.Name.ToLower() == name.ToLower());
+        // internal Brand GetBrandByName(string name) => this.data.Brands.FirstOrDefault(br => br.Name.ToLower() == name.ToLower());
     }
 }

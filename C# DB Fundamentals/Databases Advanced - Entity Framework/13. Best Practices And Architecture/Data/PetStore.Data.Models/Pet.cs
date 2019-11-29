@@ -1,6 +1,7 @@
 ﻿namespace PetStore.Data.Models
 {
     using System.ComponentModel.DataAnnotations;
+    using System;
 
     using static DataValidation;
 
@@ -15,6 +16,8 @@
         [MaxLength(DescriptionMaxLength)]
         public string Description { get; set; }
 
+        public DateTime DateOfBirth { get; set; }
+        
         public int BreedId { get; set; }
 
         public Breed Breed { get; set; }
