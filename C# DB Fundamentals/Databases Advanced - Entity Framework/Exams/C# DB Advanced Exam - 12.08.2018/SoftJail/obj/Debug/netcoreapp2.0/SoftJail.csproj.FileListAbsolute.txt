@@ -1,0 +1,9 @@
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Exam - 12.08.2018\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.deps.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Exam - 12.08.2018\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Exam - 12.08.2018\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.dev.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Exam - 12.08.2018\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Exam - 12.08.2018\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.pdb
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Exam - 12.08.2018\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Exam - 12.08.2018\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfo.cs
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Exam - 12.08.2018\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Exam - 12.08.2018\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.pdb
