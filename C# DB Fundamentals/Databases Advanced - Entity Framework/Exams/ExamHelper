@@ -1,0 +1,98 @@
+Helper 
+
+ValidationClass
+
+  private static bool IsValid(object entity)
+        {
+            var validationContext = new System.ComponentModel.DataAnnotations.ValidationContext(entity);
+            var validationResult = new List<ValidationResult>();
+
+            bool isValid = Validator.TryValidateObject(entity, validationContext, validationResult, true);
+
+            return isValid;
+        }
+		
+		
+Json Import
+
+ public static string ImportDepartmentsCells(SoftJailDbContext context, string jsonString)
+        {
+            var departmentDtos = JsonConvert.DeserializeObject<ImportDepartmentDto[]>(jsonString);
+            var departments = new List<Department>();
+            var sb = new StringBuilder();
+            foreach (var departmentDto in departmentDtos)
+            {
+                if (!IsValid(departmentDto) || !departmentDto.Cells.All(IsValid))
+                {
+                    sb.AppendLine("Invalid Data");
+                    continue;
+                }
+                var department = new Department
+                {
+                    Name = departmentDto.Name,
+                    Cells = departmentDto.Cells.Select(c => new Cell
+                    {
+                        CellNumber = c.CellNumber,
+                        HasWindow = c.HasWindow,
+                    })
+                    .ToArray()
+                };
+                departments.Add(department);
+
+                sb.AppendLine($"Imported {departmentDto.Name} with {departmentDto.Cells.Count} cells");
+            }
+
+            context.Departments.AddRange(departments);
+            context.SaveChanges();
+
+            return sb.ToString().TrimEnd();
+        }
+		
+		
+XmlImport
+
+ public static string ImportOfficersPrisoners(SoftJailDbContext context, string xmlString)
+        {
+            XmlSerializer xmlSerializer = new XmlSerializer(typeof(ImportOfficersPrisionersDto[]), new XmlRootAttribute("Officers"));
+
+            var officerPrisionerDtos = (ImportOfficersPrisionersDto[])xmlSerializer.Deserialize(new StringReader(xmlString));
+
+            var sb = new StringBuilder();
+            var officers = new List<Officer>();
+
+            foreach (var officersPrisionersDto in officerPrisionerDtos)
+            {
+                if (!IsValid(officersPrisionersDto) || !officersPrisionersDto.Prisoners.All(IsValid))
+                {
+                    sb.AppendLine("Invalid Data");
+                    continue;
+                }
+
+                if (!Enum.TryParse<Weapon>(officersPrisionersDto.Weapon, out Weapon weapon) || !Enum.TryParse<Position>(officersPrisionersDto.Position, out Position position))
+                {
+                    sb.AppendLine("Invalid Data");
+                    continue;
+                }
+                var officer = new Officer
+                {
+                    FullName = officersPrisionersDto.Name,
+                    Weapon = weapon,
+                    Position = position,
+                    Salary = officersPrisionersDto.Money,
+                    DepartmentId = officersPrisionersDto.DepartmentId,
+                    Department = context.Departments.FirstOrDefault(x=>x.Id == officersPrisionersDto.DepartmentId),
+                    OfficerPrisoners = officersPrisionersDto.Prisoners.Select(x => new OfficerPrisoner
+                    {
+                        PrisonerId = x.Id
+                    })
+                    .ToArray()
+                };
+
+                officers.Add(officer);
+                sb.AppendLine($"Imported {officersPrisionersDto.Name} ({officersPrisionersDto.Prisoners.Count()} prisoners)");
+            }
+
+            context.Officers.AddRange(officers);
+            context.SaveChanges();
+            return sb.ToString().TrimEnd();
+        }
