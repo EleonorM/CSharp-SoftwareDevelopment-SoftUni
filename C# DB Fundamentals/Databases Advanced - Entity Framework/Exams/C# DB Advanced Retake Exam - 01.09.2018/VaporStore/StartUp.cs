@@ -56,7 +56,7 @@
 			PrintAndExportEntityToFile(purchases, exportDir + "ImportPurchases.txt");
 		}
 
-		private static void ResetDatabase(DbContext context, bool shouldDropDatabase = false)
+		private static void ResetDatabase(DbContext context, bool shouldDropDatabase = true)
 		{
 			if (shouldDropDatabase)
 			{

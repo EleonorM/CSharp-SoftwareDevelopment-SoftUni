@@ -12,7 +12,7 @@
 
         [Required]
         [RegularExpression(@"[A-Z|\d]{4}-[A-Z|\d]{4}-[A-Z|\d]{4}")]
-        public int ProductKey { get; set; }
+        public string ProductKey { get; set; }
 
         [Required]
         public DateTime Date { get; set; }

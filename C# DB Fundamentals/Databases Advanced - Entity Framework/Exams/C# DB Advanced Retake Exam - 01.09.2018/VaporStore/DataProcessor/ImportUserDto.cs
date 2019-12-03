@@ -1,18 +1,15 @@
 ﻿namespace VaporStore.DataProcessor
 {
-    using System;
-    using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
-    using System.Text;
 
-    class ImportUserDto
+    public class ImportUserDto
     {
         [Required]
         [RegularExpression("[A-Z][a-z]+ [A-Z][a-z]+")]
         public string FullName { get; set; }
 
         [Required]
-        [Range(3, 20)]
+        [MaxLength(20), MinLength(3)]
         public string Username { get; set; }
 
         [Required]
@@ -55,7 +52,7 @@
 
         [Required]
         [RegularExpression(@"[\d]{3}")]
-        public string Cvc { get; set; }
+        public int Cvc { get; set; }
 
         public string Type { get; set; }
     }
