@@ -35,7 +35,8 @@
                     Name = gameDto.Name,
                     Developer = developer,
                     Genre = genre,
-                    ReleaseDate = DateTime.ParseExact(gameDto.ReleaseDate, "yyyy-MM-dd", CultureInfo.InvariantCulture)
+                    ReleaseDate = DateTime.ParseExact(gameDto.ReleaseDate, "yyyy-MM-dd", CultureInfo.InvariantCulture),
+                    Price = gameDto.Price
                 };
 
                 foreach (var currentTag in gameDto.Tags)
