@@ -1,0 +1,10 @@
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Exam - 07.04.2019\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Exam - 07.04.2019\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Exam - 07.04.2019\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Exam - 07.04.2019\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Exam - 07.04.2019\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Exam - 07.04.2019\Cinema\obj\Debug\netcoreapp2.1\Cinema.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Exam - 07.04.2019\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Exam - 07.04.2019\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Exam - 07.04.2019\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Exam - 07.04.2019\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb
