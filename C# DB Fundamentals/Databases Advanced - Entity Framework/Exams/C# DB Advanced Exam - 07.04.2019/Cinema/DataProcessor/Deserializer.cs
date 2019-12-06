@@ -1,5 +1,10 @@
 ﻿namespace Cinema.DataProcessor
 {
+    using Cinema.Data.Models;
+    using Cinema.Data.Models.Enums;
+    using Cinema.DataProcessor.ImportDto;
+    using Data;
+    using Newtonsoft.Json;
     using System;
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
@@ -8,11 +13,6 @@
     using System.Linq;
     using System.Text;
     using System.Xml.Serialization;
-    using Cinema.Data.Models;
-    using Cinema.Data.Models.Enums;
-    using Cinema.DataProcessor.ImportDto;
-    using Data;
-    using Newtonsoft.Json;
 
     public class Deserializer
     {
@@ -190,7 +190,7 @@
                     {
                         Price = t.Price,
                         ProjectionId = t.ProjectionId,
-                       
+
                     })
                     .ToArray()
 
@@ -206,7 +206,7 @@
                 //customer.Tickets = tickets;
 
                 customers.Add(customer);
-                sb.AppendLine(string.Format(SuccessfulImportCustomerTicket, customer.FirstName,customer.LastName,customer.Tickets.Count));
+                sb.AppendLine(string.Format(SuccessfulImportCustomerTicket, customer.FirstName, customer.LastName, customer.Tickets.Count));
             }
 
             context.Customers.AddRange(customers);
