@@ -68,6 +68,7 @@ XmlImport
                     continue;
                 }
 
+				
                 if (!Enum.TryParse<Weapon>(officersPrisionersDto.Weapon, out Weapon weapon) || !Enum.TryParse<Position>(officersPrisionersDto.Position, out Position position))
                 {
                     sb.AppendLine("Invalid Data");
