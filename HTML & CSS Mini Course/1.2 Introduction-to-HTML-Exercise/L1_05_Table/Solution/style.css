@@ -1,0 +1,17 @@
+table {
+    border-collapse: collapse;
+    font-family: sans-serif;
+    width: 300px;
+}
+
+th{
+    text-align: center;
+    border: 1px solid black;
+    padding: 2%;
+}
+
+table td{
+    border: 1px solid black;
+    text-align: right;
+    padding: 2%;
+}

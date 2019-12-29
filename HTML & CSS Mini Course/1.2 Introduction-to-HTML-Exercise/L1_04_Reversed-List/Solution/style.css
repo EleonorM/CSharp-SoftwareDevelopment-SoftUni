@@ -1,0 +1,14 @@
+div {
+    font-family: Helvetica, sans-serif;
+    background-color: #E6E5E5;
+    margin-left: 35%;
+    margin-right    : 35%;
+    padding: 5%;
+}
+h3{
+    text-align: center;
+}
+
+ol li{
+    text-decoration: underline;
+}
