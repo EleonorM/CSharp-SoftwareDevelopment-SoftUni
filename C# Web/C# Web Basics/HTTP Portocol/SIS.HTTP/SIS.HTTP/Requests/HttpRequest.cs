@@ -34,21 +34,20 @@
 
         private bool IsValidRequestLine(string[] reqestLine)
         {
-            return reqestLine.Length == 3 && reqestLine[2] == GlobalConstants.HttpOnePortocolFragment;
+            return reqestLine.Length == 3 && reqestLine[2] == GlobalConstants.HttpOneProtocolFragment;
         }
 
         private bool IsValidRequestQueryString(string queryString, string[] queryParameters)
         {
-            if (CoreValidator.ThrowIfNullOrEmpty(queryString))
-            {
+            CoreValidator.ThrowIfNullOrEmpty(queryString, nameof(queryString));
 
-            }
+            return true; //TODO: REGEX QUERY STRING
         }
 
         private void ParseRequestMethod(string[] requestLine)
         {
             HttpRequestMethod method;
-            var parsed = HttpRequestMethod.TryParse(requestLine[0], out method);
+            var parsed = HttpRequestMethod.TryParse(requestLine[0], true, out method);
             if (parsed)
             {
                 RequestMethod = method;
@@ -62,17 +61,19 @@
 
         private void ParseRequestUrl(string[] requestLine)
         {
-
+            Url = requestLine[1];
         }
 
         private void ParseRequestPath()
         {
-
+            Path = Url.Split('?')[0];
         }
 
         private void ParseRequestHeaders(string[] requestContent)
         {
-
+            requestContent.Select(x => x.Split(new[] { ' ', ':' }, StringSplitOptions.RemoveEmptyEntries))
+                .ToList()
+                .ForEach(y => Headers.AddHeader(new HttpHeader(y[0], y[1])));
         }
 
         private void ParseCookies()
@@ -82,17 +83,52 @@
 
         private void ParseQueryParameters()
         {
+            if (this.HasQueryString())
+            {
+                Url.Split('?', '#')[1]
+          .Split('&')
+          .Select(x => x.Split('='))
+          .ToList()
+          .ForEach(y => QueryData.Add(y[0], y[1]));
+            }
 
+
+        }
+
+        private bool HasQueryString()
+        {
+            return this.Url.Split('?').Length > 1;
         }
 
         private void ParseFormDataParameters(string formData)
         {
+            //TODO:Format data with multiple parameters by name
+            if (!string.IsNullOrEmpty(formData))
+            {
+                formData.Split('&')
+                .Select(x => x.Split('='))
+                .ToList()
+                .ForEach(y => FormData.Add(y[0], y[1]));
 
+            }
         }
 
         private void ParseRequestParameters(string formData)
         {
+            ParseQueryParameters();
+            ParseFormDataParameters(formData);
+            //TODO:Split
+        }
 
+        private IEnumerable<string> ParsePlainRequestHeaders(string[] requestLines)
+        {
+            for (int i = 1; i < requestLines.Length - 1; i++)
+            {
+                if (!string.IsNullOrEmpty(requestLines[i]))
+                {
+                    yield return requestLines[i];
+                }
+            }
         }
 
         private void ParseRequest(string requestString)
@@ -109,7 +145,7 @@
             ParseRequestUrl(requestLine);
             ParseRequestPath();
 
-            ParseRequestHeaders(splitRequestContent.Skip(1).ToArray());
+            ParseRequestHeaders(ParsePlainRequestHeaders(splitRequestContent).ToArray());
             ParseCookies();
 
             ParseRequestParameters(splitRequestContent[splitRequestContent.Length - 1]);

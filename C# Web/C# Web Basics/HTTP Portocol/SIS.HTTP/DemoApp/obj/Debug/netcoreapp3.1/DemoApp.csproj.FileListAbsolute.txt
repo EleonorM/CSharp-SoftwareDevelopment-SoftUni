@@ -1,0 +1,14 @@
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\HTTP Portocol\SIS.HTTP\DemoApp\bin\Debug\netcoreapp3.1\DemoApp.exe
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\HTTP Portocol\SIS.HTTP\DemoApp\bin\Debug\netcoreapp3.1\DemoApp.deps.json
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\HTTP Portocol\SIS.HTTP\DemoApp\bin\Debug\netcoreapp3.1\DemoApp.runtimeconfig.json
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\HTTP Portocol\SIS.HTTP\DemoApp\bin\Debug\netcoreapp3.1\DemoApp.runtimeconfig.dev.json
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\HTTP Portocol\SIS.HTTP\DemoApp\bin\Debug\netcoreapp3.1\DemoApp.dll
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\HTTP Portocol\SIS.HTTP\DemoApp\bin\Debug\netcoreapp3.1\DemoApp.pdb
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\HTTP Portocol\SIS.HTTP\DemoApp\bin\Debug\netcoreapp3.1\SIS.HTTP.dll
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\HTTP Portocol\SIS.HTTP\DemoApp\bin\Debug\netcoreapp3.1\SIS.HTTP.pdb
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\HTTP Portocol\SIS.HTTP\DemoApp\obj\Debug\netcoreapp3.1\DemoApp.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\HTTP Portocol\SIS.HTTP\DemoApp\obj\Debug\netcoreapp3.1\DemoApp.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\HTTP Portocol\SIS.HTTP\DemoApp\obj\Debug\netcoreapp3.1\DemoApp.AssemblyInfo.cs
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\HTTP Portocol\SIS.HTTP\DemoApp\obj\Debug\netcoreapp3.1\DemoApp.csproj.CopyComplete
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\HTTP Portocol\SIS.HTTP\DemoApp\obj\Debug\netcoreapp3.1\DemoApp.dll
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\HTTP Portocol\SIS.HTTP\DemoApp\obj\Debug\netcoreapp3.1\DemoApp.pdb

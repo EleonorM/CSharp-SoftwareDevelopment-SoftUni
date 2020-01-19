@@ -2,7 +2,7 @@
 {
     public class GlobalConstants
     {
-        public const string HttpOnePortocolFragment = "HTTP/1.1";
+        public const string HttpOneProtocolFragment = "HTTP/1.1";
 
         public const string HostHeaderKey = "Host";
 

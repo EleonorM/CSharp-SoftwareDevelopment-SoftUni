@@ -3,6 +3,7 @@
     using SIS.HTTP.Common;
     using System;
     using System.Collections.Generic;
+    using System.Linq;
     using System.Text;
 
     public class HttpHeaderCollection : IHttpHeaderCollection
@@ -39,16 +40,8 @@
             }
         }
 
-        public override string ToString()
-        {
-            var sb = new StringBuilder();
-            var result = string.Empty;
-            foreach (var header in headers)
-            {
-                sb.Append(header.ToString() + GlobalConstants.HttpNewLine);
-            }
+        public override string ToString() => string.Join("\r\n",
+             this.headers.Values.Select(header => header.ToString()));
 
-            return sb.ToString().TrimEnd();
-        }
     }
 }

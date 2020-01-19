@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Elie\\SoftUni\\Projects\\C# Web\\C# Web Basics\\HTTP Portocol\\SIS.HTTP\\DemoApp\\DemoApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Elie\\SoftUni\\Projects\\C# Web\\C# Web Basics\\HTTP Portocol\\SIS.HTTP\\DemoApp\\DemoApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Elie\\SoftUni\\Projects\\C# Web\\C# Web Basics\\HTTP Portocol\\SIS.HTTP\\DemoApp\\DemoApp.csproj",
+        "projectName": "DemoApp",
+        "projectPath": "C:\\Elie\\SoftUni\\Projects\\C# Web\\C# Web Basics\\HTTP Portocol\\SIS.HTTP\\DemoApp\\DemoApp.csproj",
+        "packagesPath": "C:\\Users\\eleon\\.nuget\\packages\\",
+        "outputPath": "C:\\Elie\\SoftUni\\Projects\\C# Web\\C# Web Basics\\HTTP Portocol\\SIS.HTTP\\DemoApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eleon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Elie\\SoftUni\\Projects\\C# Web\\C# Web Basics\\HTTP Portocol\\SIS.HTTP\\SIS.HTTP\\SIS.HTTP.csproj": {
+                "projectPath": "C:\\Elie\\SoftUni\\Projects\\C# Web\\C# Web Basics\\HTTP Portocol\\SIS.HTTP\\SIS.HTTP\\SIS.HTTP.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Elie\\SoftUni\\Projects\\C# Web\\C# Web Basics\\HTTP Portocol\\SIS.HTTP\\SIS.HTTP\\SIS.HTTP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Elie\\SoftUni\\Projects\\C# Web\\C# Web Basics\\HTTP Portocol\\SIS.HTTP\\SIS.HTTP\\SIS.HTTP.csproj",
+        "projectName": "SIS.HTTP",
+        "projectPath": "C:\\Elie\\SoftUni\\Projects\\C# Web\\C# Web Basics\\HTTP Portocol\\SIS.HTTP\\SIS.HTTP\\SIS.HTTP.csproj",
+        "packagesPath": "C:\\Users\\eleon\\.nuget\\packages\\",
+        "outputPath": "C:\\Elie\\SoftUni\\Projects\\C# Web\\C# Web Basics\\HTTP Portocol\\SIS.HTTP\\SIS.HTTP\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eleon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
