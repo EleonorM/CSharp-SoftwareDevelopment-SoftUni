@@ -1,6 +1,5 @@
 ﻿namespace Chronometer
 {
-    using System;
     using System.Collections.Generic;
     using System.Diagnostics;
 
@@ -20,7 +19,7 @@
 
         public string Lap()
         {
-           var timespan = stopwatch.Elapsed;
+            var timespan = stopwatch.Elapsed;
             Laps.Add(timespan.ToString());
             return timespan.ToString();
         }

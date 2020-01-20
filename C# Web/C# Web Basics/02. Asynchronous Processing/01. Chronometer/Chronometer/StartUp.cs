@@ -8,7 +8,7 @@
     {
         public static void Main()
         {
-            var chronometer = new Chronometer();
+            var chronometer = new ChronometerAsync();
             while (true)
             {
                 var command = Console.ReadLine();
