@@ -1,0 +1,11 @@
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\02. Asynchronous Processing\01. Chronometer\Chronometer\obj\Debug\netcoreapp3.1\Chronometer.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\02. Asynchronous Processing\01. Chronometer\Chronometer\obj\Debug\netcoreapp3.1\Chronometer.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\02. Asynchronous Processing\01. Chronometer\Chronometer\obj\Debug\netcoreapp3.1\Chronometer.AssemblyInfo.cs
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\02. Asynchronous Processing\01. Chronometer\Chronometer\bin\Debug\netcoreapp3.1\Chronometer.exe
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\02. Asynchronous Processing\01. Chronometer\Chronometer\bin\Debug\netcoreapp3.1\Chronometer.deps.json
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\02. Asynchronous Processing\01. Chronometer\Chronometer\bin\Debug\netcoreapp3.1\Chronometer.runtimeconfig.json
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\02. Asynchronous Processing\01. Chronometer\Chronometer\bin\Debug\netcoreapp3.1\Chronometer.runtimeconfig.dev.json
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\02. Asynchronous Processing\01. Chronometer\Chronometer\bin\Debug\netcoreapp3.1\Chronometer.dll
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\02. Asynchronous Processing\01. Chronometer\Chronometer\bin\Debug\netcoreapp3.1\Chronometer.pdb
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\02. Asynchronous Processing\01. Chronometer\Chronometer\obj\Debug\netcoreapp3.1\Chronometer.dll
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\02. Asynchronous Processing\01. Chronometer\Chronometer\obj\Debug\netcoreapp3.1\Chronometer.pdb
