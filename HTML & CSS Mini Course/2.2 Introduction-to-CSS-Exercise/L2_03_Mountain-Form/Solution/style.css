@@ -1,0 +1,64 @@
+body{
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    padding: 100px;    
+    background-size: cover;
+}
+
+form{
+    border-radius: 10px;
+    margin: 0px 100px 100px 0px;
+}
+
+section{
+    display: inline-block;
+    padding:  50px;
+    width: 300px;
+}
+
+form section:nth-child(1){
+    background-size: cover;
+    background: url("../L2_03_Mountain-Form/Requirements-and-Resources/Images/peak.jpg") no-repeat;
+    background-image:linear-gradient(to top, #623e7e, #785997, #8f75b0, #a692c9, #bfafe3) ;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    border: 1px solid;
+}
+
+form section:nth-child(2){
+    border: #38082A solid 3px;
+    text-align: left;
+ }
+
+form section label{
+    color: rgb(218, 217, 220);
+}
+
+form section input{
+    color: rgb(118, 115, 115);
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom:  rgb(118, 115, 115);
+    padding: 4%;
+}
+
+button{
+    text-align: center;    
+    font-size:medium;
+    background-color: #38082A;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 5%;
+}
+
+.signIn{
+    color: #38082A;
+    background-color: white;
+    font-size:medium;
+}
+
+form input fieldset { display: none; }
