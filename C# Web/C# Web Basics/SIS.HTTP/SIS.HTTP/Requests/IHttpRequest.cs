@@ -1,5 +1,6 @@
 ﻿namespace SIS.HTTP.Requests
 {
+    using SIS.HTTP.Cookies;
     using SIS.HTTP.Enums;
     using SIS.HTTP.Headers;
     using System.Collections.Generic;
@@ -13,6 +14,8 @@
         Dictionary<string, object> FormData { get; }
 
         Dictionary<string, object> QueryData { get; }
+
+        IHttpCookieCollection Cookies { get; }
 
         IHttpHeaderCollection Headers { get; }
 

@@ -1,5 +1,6 @@
 ﻿namespace SIS.Demo
 {
+    using SIS.HTTP.Cookies;
     using SIS.HTTP.Enums;
     using SIS.HTTP.Requests;
     using SIS.HTTP.Responses;
@@ -10,7 +11,9 @@
         public IHttpResponse Index(IHttpRequest request)
         {
             string content = "<h1>Hello World</h1>";
-            return new HtmlResult(content, HttpResponseStatusCode.Ok);
+            var htmlResult = new HtmlResult(content, HttpResponseStatusCode.Ok);
+            htmlResult.AddCookie(new HttpCookie("lang", "en"));
+            return htmlResult;
         }
     }
 }

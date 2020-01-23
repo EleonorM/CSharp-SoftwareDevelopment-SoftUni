@@ -6,3 +6,11 @@ C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\HTTP Portocol\SIS.HTTP\SIS.HTTP\bi
 C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\HTTP Portocol\SIS.HTTP\SIS.HTTP\bin\Debug\netcoreapp3.1\SIS.HTTP.pdb
 C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\HTTP Portocol\SIS.HTTP\SIS.HTTP\obj\Debug\netcoreapp3.1\SIS.HTTP.dll
 C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\HTTP Portocol\SIS.HTTP\SIS.HTTP\obj\Debug\netcoreapp3.1\SIS.HTTP.pdb
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\SIS.HTTP\SIS.HTTP\bin\Debug\netcoreapp3.1\SIS.HTTP.deps.json
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\SIS.HTTP\SIS.HTTP\bin\Debug\netcoreapp3.1\SIS.HTTP.dll
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\SIS.HTTP\SIS.HTTP\bin\Debug\netcoreapp3.1\SIS.HTTP.pdb
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\SIS.HTTP\SIS.HTTP\obj\Debug\netcoreapp3.1\SIS.HTTP.csprojAssemblyReference.cache
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\SIS.HTTP\SIS.HTTP\obj\Debug\netcoreapp3.1\SIS.HTTP.AssemblyInfoInputs.cache
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\SIS.HTTP\SIS.HTTP\obj\Debug\netcoreapp3.1\SIS.HTTP.AssemblyInfo.cs
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\SIS.HTTP\SIS.HTTP\obj\Debug\netcoreapp3.1\SIS.HTTP.dll
+C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\SIS.HTTP\SIS.HTTP\obj\Debug\netcoreapp3.1\SIS.HTTP.pdb

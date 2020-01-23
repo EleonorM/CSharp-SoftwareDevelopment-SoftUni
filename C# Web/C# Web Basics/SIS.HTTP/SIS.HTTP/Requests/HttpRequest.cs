@@ -1,6 +1,7 @@
 ﻿namespace SIS.HTTP.Requests
 {
     using SIS.HTTP.Common;
+    using SIS.HTTP.Cookies;
     using SIS.HTTP.Enums;
     using SIS.HTTP.Exceptions;
     using SIS.HTTP.Headers;
@@ -17,6 +18,7 @@
             this.FormData = new Dictionary<string, object>();
             this.QueryData = new Dictionary<string, object>();
             this.Headers = new HttpHeaderCollection();
+            this.Cookies = new HttpCookieCollection();
 
             ParseRequest(requestedString);
         }
@@ -27,6 +29,8 @@
         public Dictionary<string, object> FormData { get; }
 
         public Dictionary<string, object> QueryData { get; }
+
+        public IHttpCookieCollection Cookies { get; }
 
         public IHttpHeaderCollection Headers { get; }
 
@@ -78,7 +82,19 @@
 
         private void ParseCookies()
         {
+            if (Headers.ContainsHeader(HttpHeader.Cookie))
+            {
+                var value = Headers.GetHeader(HttpHeader.Cookie).Value;
+                var unprasedCookies = value.Split("; ", StringSplitOptions.RemoveEmptyEntries);
 
+                foreach (string unparsedCookie in unprasedCookies)
+                {
+                    var cookieKVP = unparsedCookie.Split("=", 2);
+                    var cookie = new HttpCookie(cookieKVP[0], cookieKVP[1]);
+
+                    this.Cookies.AddCookie(cookie);
+                }
+            }
         }
 
         private void ParseQueryParameters()
