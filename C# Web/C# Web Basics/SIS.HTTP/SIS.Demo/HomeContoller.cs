@@ -15,5 +15,11 @@
             htmlResult.AddCookie(new HttpCookie("lang", "en"));
             return htmlResult;
         }
+
+        //public IHttpResponse Login(IHttpRequest request)
+        //{
+        //    request.Session.AddParameter("username", "Eli");
+        //    return Redirect("/");
+        //}
     }
 }

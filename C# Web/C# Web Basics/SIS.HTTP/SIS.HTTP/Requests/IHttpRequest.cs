@@ -3,6 +3,7 @@
     using SIS.HTTP.Cookies;
     using SIS.HTTP.Enums;
     using SIS.HTTP.Headers;
+    using SIS.HTTP.Sessions;
     using System.Collections.Generic;
 
     public interface IHttpRequest
@@ -20,5 +21,7 @@
         IHttpHeaderCollection Headers { get; }
 
         HttpRequestMethod RequestMethod { get; }
+
+        IHttpSession Session { get; set; }
     }
 }

@@ -5,6 +5,7 @@
     using SIS.HTTP.Enums;
     using SIS.HTTP.Exceptions;
     using SIS.HTTP.Headers;
+    using SIS.HTTP.Sessions;
     using System;
     using System.Collections.Generic;
     using System.Linq;
@@ -35,6 +36,8 @@
         public IHttpHeaderCollection Headers { get; }
 
         public HttpRequestMethod RequestMethod { get; private set; }
+
+        public IHttpSession Session { get; set; }
 
         private bool IsValidRequestLine(string[] reqestLine)
         {

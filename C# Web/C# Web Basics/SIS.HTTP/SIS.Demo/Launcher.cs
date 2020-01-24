@@ -11,6 +11,7 @@
             IServerRoutingTable serverRoutingTable = new ServerRoutingTable();
 
             serverRoutingTable.Add(HttpRequestMethod.Get, "/", request => new HomeContoller().Index(request));
+            //serverRoutingTable.Add(HttpRequestMethod.Get, "/login", request => new HomeContoller().Login(request));
 
             Server server = new Server(8000, serverRoutingTable);
             server.Run();

@@ -1,10 +1,12 @@
 ﻿namespace SIS.WebServer
 {
     using SIS.HTTP.Common;
+    using SIS.HTTP.Cookies;
     using SIS.HTTP.Enums;
     using SIS.HTTP.Exceptions;
     using SIS.HTTP.Requests;
     using SIS.HTTP.Responses;
+    using SIS.HTTP.Sessions;
     using SIS.WebServer.Results;
     using SIS.WebServer.Routing;
     using System;
@@ -27,6 +29,32 @@
             this.serverRoutingTable = serverRoutingTable;
         }
 
+        private string SetRequestSession(IHttpRequest httpRequest)
+        {
+            string sessionId = null;
+
+            if (httpRequest.Cookies.ContainsCookie(HttpSessionStorage.SessionCookieKey))
+            {
+                var cookie = httpRequest.Cookies.GetCookie(HttpSessionStorage.SessionCookieKey);
+                sessionId = cookie.Value;
+            }
+            else
+            {
+                sessionId = Guid.NewGuid().ToString();
+            }
+
+            httpRequest.Session = HttpSessionStorage.GetSession(sessionId);
+            return httpRequest.Session.Id;
+        }
+
+        private void SetResponseSession(IHttpResponse httpResponse, string sessionId)
+        {
+            if (sessionId != null)
+            {
+                httpResponse.AddCookie(new HttpCookie(HttpSessionStorage.SessionCookieKey, sessionId));
+            }
+        }
+
         public async Task ProcessRequestAsync()
         {
             try
@@ -36,9 +64,9 @@
                 if (httpRequest != null)
                 {
                     Console.WriteLine($"Processing: {httpRequest.RequestMethod} {httpRequest.Path}...");
-
+                    var sessionId = SetRequestSession(httpRequest);
                     var httpResponse = HandleRequest(httpRequest);
-
+                    SetResponseSession(httpResponse, sessionId);
                     await this.PrepareResponse(httpResponse);
                 }
             }
