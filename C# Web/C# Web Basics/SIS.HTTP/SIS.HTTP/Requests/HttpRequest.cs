@@ -76,11 +76,12 @@
             Path = Url.Split('?')[0];
         }
 
-        private void ParseRequestHeaders(string[] requestContent)
+        private void ParseRequestHeaders(string[] plainHeaders)
         {
-            requestContent.Select(x => x.Split(new[] { ' ', ':' }, StringSplitOptions.RemoveEmptyEntries))
+            plainHeaders.Select(plainHeader => plainHeader.Split(new[] { ": " }
+                    , StringSplitOptions.RemoveEmptyEntries))
                 .ToList()
-                .ForEach(y => Headers.AddHeader(new HttpHeader(y[0], y[1])));
+                .ForEach(headerKeyValuePair => this.Headers.AddHeader(new HttpHeader(headerKeyValuePair[0], headerKeyValuePair[1])));
         }
 
         private void ParseCookies()
