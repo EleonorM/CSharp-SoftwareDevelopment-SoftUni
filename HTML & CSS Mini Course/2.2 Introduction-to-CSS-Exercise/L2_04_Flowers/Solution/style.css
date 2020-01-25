@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400');
+body{
+    font-family: Open Sans, sans-serif;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background-color: white;
+}
+
+header nav li a{
+    text-decoration: none;   
+    font-weight: bold;
+    color: rgb(214,116,114);
+}
+
+header li{
+    display: inline-block;
+    padding: 10px;
+}
+
+hr{
+    width: 60px;
+    height: 2px;
+    background-color: rgb(214,116,114);
+    border: none;
+    margin: 0 auto;
+}
+
+#first article:nth-child(1){
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)), url(./img/header-flower.png)  no-repeat center center;;
+    background-size: cover;
+    color:white
+}
+
+#first article:nth-child(1) h1{
+    padding: 13rem 0.5rem 1rem 0;
+    letter-spacing: 0.1rem;
+    font-size: xx-large;
+}
+
+#first article:nth-child(1) p{
+    width: 30%;    
+    margin: 0 auto;
+    padding: 1rem 0 13rem 0;
+    font-size: medium;
+    text-align: center;
+}
+
+#first article:last-child{
+    background-color: rgb(214, 116, 114);
+}
+
+#first article:last-child h3{
+    font-size: x-large;
+    padding: 2rem 0 1rem 0;
+    color: white;
+}
+#first article:last-child hr{
+    background-color: white;
+}
+
+#first article:last-child p{
+    width: 30%;    
+    margin: 0 auto;
+    padding: 1rem 0 2rem 0;
+    font-size: medium;
+    text-align: center;
+    color: white;
+}
+
+button{
+    border: none;  
+    border-radius: 5px;
+    padding: 1rem 1.5rem;  
+    font-weight: bold;
+    color: rgb(214,116,114);
+    background-color: white;    
+    margin-bottom: 2rem;
+}
+
+#second{
+    background-color: white;
+}
+
+#second>h5 {
+    padding: 2rem 0 1rem 0;
+    font-size: medium;
+    text-align: center;
+}
+
+#second div{
+    width: 60%;
+    margin:0 auto;    
+    padding: 1rem 0 2rem 0;
+    display: flex;
+}
+
+#second article{
+    display: inline-block;
+    width: 33%;
+}
+
+#second div article:not(:last-child) {
+    margin-right: 1rem;
+}
+
+#second img {
+    width: 6rem;
+    height: 6rem;
+}
+
+footer{
+    background-color: rgb(214, 116, 114);
+    text-align: center;
+    font-size: 14px;
+    padding: 1rem 0;
+    color: white;
+}
