@@ -1,18 +1,21 @@
-body{
-  font-family: 'Helvetica', sans-serif;
-  margin-top: 30px;
-}
-table{
-  width: 40%;
-  margin: 0 auto; 
-}
-table, td, tr, th {
-  border: 1px solid #000000;
-  border-collapse: collapse;  
+body {
+  font-family: "Helvica", sans-serif;
+  margin: 0;
+  padding: 0;
+  width: 70%;
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 2%;
 }
 
-td, th {
-  padding: 10px; 
+table,td,tr,th {
+  border: 1px solid #000000;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  padding: 10px;
 }
 
 .bold {
@@ -22,6 +25,6 @@ td, th {
 
 .result {
   width: 400px;
-  text-align: right;
-  padding-right: 5px;
+  text-align: left;
+  padding-left: 5px;
 }
