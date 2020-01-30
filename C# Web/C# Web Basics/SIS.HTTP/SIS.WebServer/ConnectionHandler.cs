@@ -29,32 +29,6 @@
             this.serverRoutingTable = serverRoutingTable;
         }
 
-        private string SetRequestSession(IHttpRequest httpRequest)
-        {
-            string sessionId = null;
-
-            if (httpRequest.Cookies.ContainsCookie(HttpSessionStorage.SessionCookieKey))
-            {
-                var cookie = httpRequest.Cookies.GetCookie(HttpSessionStorage.SessionCookieKey);
-                sessionId = cookie.Value;
-            }
-            else
-            {
-                sessionId = Guid.NewGuid().ToString();
-            }
-
-            httpRequest.Session = HttpSessionStorage.GetSession(sessionId);
-            return httpRequest.Session.Id;
-        }
-
-        private void SetResponseSession(IHttpResponse httpResponse, string sessionId)
-        {
-            if (sessionId != null)
-            {
-                httpResponse.AddCookie(new HttpCookie(HttpSessionStorage.SessionCookieKey, sessionId));
-            }
-        }
-
         public async Task ProcessRequestAsync()
         {
             try
@@ -80,6 +54,32 @@
             }
 
             this.client.Shutdown(SocketShutdown.Both);
+        }
+
+        private string SetRequestSession(IHttpRequest httpRequest)
+        {
+            string sessionId = null;
+
+            if (httpRequest.Cookies.ContainsCookie(HttpSessionStorage.SessionCookieKey))
+            {
+                var cookie = httpRequest.Cookies.GetCookie(HttpSessionStorage.SessionCookieKey);
+                sessionId = cookie.Value;
+            }
+            else
+            {
+                sessionId = Guid.NewGuid().ToString();
+            }
+
+            httpRequest.Session = HttpSessionStorage.GetSession(sessionId);
+            return httpRequest.Session.Id;
+        }
+
+        private void SetResponseSession(IHttpResponse httpResponse, string sessionId)
+        {
+            if (sessionId != null)
+            {
+                httpResponse.AddCookie(new HttpCookie(HttpSessionStorage.SessionCookieKey, sessionId));
+            }
         }
 
         private async Task<IHttpRequest> ReadRequest()
@@ -117,10 +117,15 @@
         {
             if (!serverRoutingTable.Contains(httpRequest.RequestMethod, httpRequest.Path))
             {
-                return new TextResult($"Route with method {httpRequest.RequestMethod} and path \"{httpRequest.Path}\" not found.", HttpResponseStatusCode.NotFound);
+                return ReturnIfResource(httpRequest);
             }
 
             return serverRoutingTable.Get(httpRequest.RequestMethod, httpRequest.Path).Invoke(httpRequest);
+        }
+
+        private IHttpResponse ReturnIfResource(IHttpRequest httpRequest)
+        {
+            return new TextResult($"Route with method {httpRequest.RequestMethod} and path \"{httpRequest.Path}\" not found.", HttpResponseStatusCode.NotFound);
         }
 
         private async Task PrepareResponse(IHttpResponse httpResponse)
