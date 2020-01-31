@@ -1,12 +1,11 @@
 ﻿using IRunes.App.Extensions;
 using IRunes.Data;
 using IRunes.Models;
+using Microsoft.EntityFrameworkCore;
 using SIS.HTTP.Requests.Contracts;
 using SIS.HTTP.Responses.Contracts;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace IRunes.App.Controllers
 {
@@ -81,12 +80,20 @@ namespace IRunes.App.Controllers
 
             string albumId = httpRequest.QueryData["id"].ToString();
 
-            using(var context = new RunesDbContext())
+            using (var context = new RunesDbContext())
             {
+                Album album = context.Albums
+                    .Include(a=>a.Tracks)
+                    .SingleOrDefault(a => a.Id == albumId);
 
+                if (album == null)
+                {
+                    return this.Redirect("/Albums/All");
+                }
+
+                this.ViewData["Album"] = album.ToHtmlDetails();
+                return this.View();
             }
-
-            return this.View();
         }
     }
 }
