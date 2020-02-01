@@ -81,10 +81,10 @@ namespace SIS.WebServer
 
             string folderPrefix = @"..\..\..\..\";
             string assemblyLocation = Assembly.GetExecutingAssembly().Location;
-            string resourceFolderPath = @"Resources\";
+           // string resourceFolderPath = @"Resources\";
             string reqestedResource = httpRequest.Path;
             reqestedResource = reqestedResource.Replace("/", @"\").Remove(0,1);
-            string fullPathToResource = Path.GetFullPath(Path.Combine(assemblyLocation, folderPrefix, resourceFolderPath, reqestedResource));
+            string fullPathToResource = Path.GetFullPath(Path.Combine(assemblyLocation, folderPrefix,  reqestedResource));
 
             if (File.Exists(fullPathToResource))
             {

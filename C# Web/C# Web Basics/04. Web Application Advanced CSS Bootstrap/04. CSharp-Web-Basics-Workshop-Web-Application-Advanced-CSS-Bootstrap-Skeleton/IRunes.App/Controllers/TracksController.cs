@@ -20,7 +20,7 @@ namespace IRunes.App.Controllers
             }
 
             string albumId = httpRequest.QueryData["albumId"].ToString();
-            this.ViewData["AlbmId"] = albumId;
+            this.ViewData["AlbumId"] = albumId;
             return this.View();
         }
 
@@ -59,6 +59,7 @@ namespace IRunes.App.Controllers
                 context.SaveChanges();
             }
 
+            this.ViewData["AlbumId"] = albumId;
             return this.Redirect("/Albums/Details?id=");
         }
 
@@ -82,7 +83,7 @@ namespace IRunes.App.Controllers
                 }
 
                 this.ViewData["AlbumId"] = albumId;
-                this.ViewData["Track"] = track.ToHtmlDetails();
+                this.ViewData["Track"] = track.ToHtmlDetails(albumId);
                 return this.View();
             }
         }
