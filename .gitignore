@@ -6,4 +6,5 @@
 /Algorithms/1.1Recursion,SortingandSearchingAlgorithms-Lab/1. Recursion/.vs/1. Recursion/v15/Server/sqlite3/db.lock
 *.lock
 /C# DB Fundamentals/Databases Advanced - Entity Framework/Exams/C# DB Advanced Retake Exam - 05.01.2018
-C# Web\ASP.NET Core
+C# Web/ASP.NET Core/**
+
