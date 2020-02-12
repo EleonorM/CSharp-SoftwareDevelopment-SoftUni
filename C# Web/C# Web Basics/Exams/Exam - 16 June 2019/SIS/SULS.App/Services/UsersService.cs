@@ -2,8 +2,6 @@
 {
     using SIS.MvcFramework;
     using SULS.App.Models;
-    using System;
-    using System.Collections.Generic;
     using System.Linq;
     using System.Security.Cryptography;
     using System.Text;
@@ -33,12 +31,7 @@
 
         public User GetUser(string username)
         {
-            return db.Users.FirstOrDefault(u => u.Username == username);
-        }
-
-        public void LogIn()
-        {
-            throw new NotImplementedException();
+            return db.Users.FirstOrDefault(x=>x.Username == username);
         }
 
         public bool IsEmailUsed(string email)

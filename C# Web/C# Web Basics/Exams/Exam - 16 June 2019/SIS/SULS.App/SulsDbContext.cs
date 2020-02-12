@@ -2,9 +2,6 @@
 {
     using Microsoft.EntityFrameworkCore;
     using SULS.App.Models;
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
 
     public class SulsDbContext : DbContext
     {

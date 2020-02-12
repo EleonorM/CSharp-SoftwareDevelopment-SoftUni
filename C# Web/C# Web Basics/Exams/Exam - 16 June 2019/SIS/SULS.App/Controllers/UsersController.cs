@@ -1,7 +1,6 @@
 ﻿namespace SULS.App.Controllers
 {
     using SIS.HTTP;
-    using SIS.HTTP.Logging;
     using SIS.MvcFramework;
     using SULS.App.Services;
     using SULS.App.ViewModels.Users;
@@ -9,12 +8,10 @@
     public class UsersController : Controller
     {
         private IUsersService usersService;
-        private ILogger logger;
 
-        public UsersController(IUsersService usersService, ILogger logger)
+        public UsersController(IUsersService usersService)
         {
             this.usersService = usersService;
-            this.logger = logger;
         }
 
         public HttpResponse Login()
@@ -23,9 +20,9 @@
         }
 
         [HttpPost]
-        public HttpResponse Login(string username, string password)
+        public HttpResponse Login(LoginInputModel inputModel)
         {
-            var userId = this.usersService.GetUserId(username, password);
+            var userId = this.usersService.GetUserId(inputModel.Username, inputModel.Password);
             if (userId == null)
             {
                 return this.Redirect("/Users/Login");
@@ -68,11 +65,11 @@
             }
             if (inputModel.Username?.Length < 5 || inputModel.Username?.Length > 20)
             {
-                return this.Error("Username should be between 5 and 20 characters .");
+                return this.Error("Username should be between 5 and 20 characters.");
             }
             if (inputModel.Password?.Length < 6 || inputModel.Password?.Length > 20)
             {
-                return this.Error("Password should be between 6 and 20 characters .");
+                return this.Error("Password should be between 6 and 20 characters.");
             }
 
             usersService.CreateUser(inputModel.Username, inputModel.Email, inputModel.Password);

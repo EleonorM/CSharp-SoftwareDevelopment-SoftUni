@@ -53,23 +53,17 @@ namespace SULS.App.Migrations
                     b.Property<DateTime>("CreatedOn")
                         .HasColumnType("datetime2");
 
-                    b.Property<int>("ProblemId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("ProblemId1")
+                    b.Property<string>("ProblemId")
                         .HasColumnType("nvarchar(450)");
 
-                    b.Property<int>("UserId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("UserId1")
+                    b.Property<string>("UserId")
                         .HasColumnType("nvarchar(450)");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("ProblemId1");
+                    b.HasIndex("ProblemId");
 
-                    b.HasIndex("UserId1");
+                    b.HasIndex("UserId");
 
                     b.ToTable("Submissions");
                 });
@@ -104,11 +98,11 @@ namespace SULS.App.Migrations
                 {
                     b.HasOne("SULS.App.Models.Problem", "Problem")
                         .WithMany("Submissions")
-                        .HasForeignKey("ProblemId1");
+                        .HasForeignKey("ProblemId");
 
                     b.HasOne("SULS.App.Models.User", "User")
                         .WithMany("Submissions")
-                        .HasForeignKey("UserId1");
+                        .HasForeignKey("UserId");
                 });
 #pragma warning restore 612, 618
         }

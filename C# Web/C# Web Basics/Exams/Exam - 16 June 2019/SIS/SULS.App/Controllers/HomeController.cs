@@ -2,22 +2,28 @@
 {
     using SIS.HTTP;
     using SIS.MvcFramework;
-    using SULS.App.ViewModels.Home;
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
+    using SULS.App.Services;
 
     public class HomeController : Controller
     {
+        private IHomeService homeService;
+
+        public HomeController(IHomeService homeService)
+        {
+            this.homeService = homeService;
+        }
+
         [HttpGet("/")]
         public HttpResponse Index()
         {
-            var viewModel = new IndexLoggedViewModel()
+            if (this.IsUserLoggedIn())
             {
-                Message = "Hello!",
-                Year = DateTime.UtcNow.Year,
-            };
-            return this.View(viewModel);
+                var viewModels = this.homeService.GetProblem();
+
+                return this.View(viewModels, "IndexLoggedIn");
+            }
+
+            return this.View();
         }
     }
 }

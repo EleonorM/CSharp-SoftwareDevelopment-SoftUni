@@ -10,8 +10,10 @@
     {
         public void ConfigureServices(IServiceCollection serviceCollection)
         {
+            serviceCollection.Add<IHomeService, HomeService>();
             serviceCollection.Add<IUsersService, UsersService>();
-            //serviceCollection.Add<IProblemsService, ProblemsService>();
+            serviceCollection.Add<IProblemsService, ProblemsService>();
+            serviceCollection.Add<ISubmissionsService, SubmissionsService>();
         }
 
         public void Configure(IList<Route> routeTable)

@@ -8,8 +8,6 @@
 
         User GetUser(string username);
 
-        void LogIn();
-
         bool IsEmailUsed(string email);
 
         string GetUserId(string username, string password);
