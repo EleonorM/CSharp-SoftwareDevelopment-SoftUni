@@ -14,12 +14,7 @@
         {
             this.db = db;
         }
-
-        public void Create()
-        {
-            throw new NotImplementedException();
-        }
-
+		
         public void Create(string username, string email, string password)
         {
             var user = new User
