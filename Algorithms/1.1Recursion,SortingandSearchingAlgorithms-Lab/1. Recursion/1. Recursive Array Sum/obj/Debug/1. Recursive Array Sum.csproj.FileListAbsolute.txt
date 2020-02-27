@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\1. Recursive Array Sum\bin\Debug\_1.Recursive_Array_Sum.exe.config
-C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\1. Recursive Array Sum\bin\Debug\_1.Recursive_Array_Sum.exe
-C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\1. Recursive Array Sum\bin\Debug\_1.Recursive_Array_Sum.pdb
-C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\1. Recursive Array Sum\obj\Debug\1. Recursive Array Sum.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\1. Recursive Array Sum\obj\Debug\1. Recursive Array Sum.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\1. Recursive Array Sum\obj\Debug\_1.Recursive_Array_Sum.exe
-C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\1. Recursive Array Sum\obj\Debug\_1.Recursive_Array_Sum.pdb

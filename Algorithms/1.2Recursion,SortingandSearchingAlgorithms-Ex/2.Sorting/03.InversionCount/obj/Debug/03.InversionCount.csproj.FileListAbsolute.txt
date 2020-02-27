@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\03.InversionCount\bin\Debug\03.InversionCount.exe.config
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\03.InversionCount\bin\Debug\03.InversionCount.exe
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\03.InversionCount\bin\Debug\03.InversionCount.pdb
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\03.InversionCount\obj\Debug\03.InversionCount.csprojAssemblyReference.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\03.InversionCount\obj\Debug\03.InversionCount.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\03.InversionCount\obj\Debug\03.InversionCount.exe
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\03.InversionCount\obj\Debug\03.InversionCount.pdb

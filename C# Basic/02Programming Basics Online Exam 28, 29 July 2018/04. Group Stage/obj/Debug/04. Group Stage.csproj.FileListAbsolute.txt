@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\04. Group Stage\bin\Debug\_04.Group_Stage.exe.config
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\04. Group Stage\bin\Debug\_04.Group_Stage.exe
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\04. Group Stage\bin\Debug\_04.Group_Stage.pdb
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\04. Group Stage\obj\Debug\04. Group Stage.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\04. Group Stage\obj\Debug\04. Group Stage.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\04. Group Stage\obj\Debug\_04.Group_Stage.exe
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\04. Group Stage\obj\Debug\_04.Group_Stage.pdb

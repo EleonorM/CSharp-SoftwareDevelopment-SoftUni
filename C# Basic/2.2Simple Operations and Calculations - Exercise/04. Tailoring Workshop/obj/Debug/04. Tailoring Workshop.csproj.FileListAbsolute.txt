@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\04. Tailoring Workshop\bin\Debug\_04.Tailoring_Workshop.exe.config
-C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\04. Tailoring Workshop\bin\Debug\_04.Tailoring_Workshop.exe
-C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\04. Tailoring Workshop\bin\Debug\_04.Tailoring_Workshop.pdb
-C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\04. Tailoring Workshop\obj\Debug\04. Tailoring Workshop.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\04. Tailoring Workshop\obj\Debug\_04.Tailoring_Workshop.exe
-C:\Elie\SoftUni\Live\2.2Simple Operations and Calculations - Exercise\04. Tailoring Workshop\obj\Debug\_04.Tailoring_Workshop.pdb

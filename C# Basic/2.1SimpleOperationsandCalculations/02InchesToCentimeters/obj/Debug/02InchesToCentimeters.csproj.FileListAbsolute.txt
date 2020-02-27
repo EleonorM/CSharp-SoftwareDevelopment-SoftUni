@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\02InchesToCentimeters\bin\Debug\02InchesToCentimeters.exe.config
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\02InchesToCentimeters\bin\Debug\02InchesToCentimeters.exe
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\02InchesToCentimeters\bin\Debug\02InchesToCentimeters.pdb
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\02InchesToCentimeters\obj\Debug\02InchesToCentimeters.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\02InchesToCentimeters\obj\Debug\02InchesToCentimeters.exe
-C:\Elie\SoftUni\Live\2.1SimpleOperationsandCalculations\02InchesToCentimeters\obj\Debug\02InchesToCentimeters.pdb

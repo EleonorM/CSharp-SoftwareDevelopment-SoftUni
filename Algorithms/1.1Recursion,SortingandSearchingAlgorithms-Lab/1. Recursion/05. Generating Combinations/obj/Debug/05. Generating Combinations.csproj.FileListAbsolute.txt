@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\05. Generating Combinations\bin\Debug\_05.Generating_Combinations.exe.config
-C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\05. Generating Combinations\bin\Debug\_05.Generating_Combinations.exe
-C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\05. Generating Combinations\bin\Debug\_05.Generating_Combinations.pdb
-C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\05. Generating Combinations\obj\Debug\05. Generating Combinations.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\05. Generating Combinations\obj\Debug\05. Generating Combinations.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\05. Generating Combinations\obj\Debug\_05.Generating_Combinations.exe
-C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\05. Generating Combinations\obj\Debug\_05.Generating_Combinations.pdb

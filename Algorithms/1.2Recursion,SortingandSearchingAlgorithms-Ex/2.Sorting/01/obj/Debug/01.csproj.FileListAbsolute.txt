@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\01\bin\Debug\01.exe.config
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\01\bin\Debug\01.exe
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\01\bin\Debug\01.pdb
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\01\obj\Debug\01.csprojAssemblyReference.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\01\obj\Debug\01.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\01\obj\Debug\01.exe
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\2.Sorting\01\obj\Debug\01.pdb

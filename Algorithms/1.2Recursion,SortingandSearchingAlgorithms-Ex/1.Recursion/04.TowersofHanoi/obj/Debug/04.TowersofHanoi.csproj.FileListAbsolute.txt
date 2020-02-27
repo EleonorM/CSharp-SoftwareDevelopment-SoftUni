@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\04.TowersofHanoi\bin\Debug\04.TowersofHanoi.exe.config
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\04.TowersofHanoi\bin\Debug\04.TowersofHanoi.exe
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\04.TowersofHanoi\bin\Debug\04.TowersofHanoi.pdb
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\04.TowersofHanoi\obj\Debug\04.TowersofHanoi.csprojAssemblyReference.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\04.TowersofHanoi\obj\Debug\04.TowersofHanoi.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\04.TowersofHanoi\obj\Debug\04.TowersofHanoi.exe
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\04.TowersofHanoi\obj\Debug\04.TowersofHanoi.pdb

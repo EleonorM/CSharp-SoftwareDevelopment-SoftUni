@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\4. Generating 0-1 Vectors\bin\Debug\_4.Generating_0_1_Vectors.exe.config
-C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\4. Generating 0-1 Vectors\bin\Debug\_4.Generating_0_1_Vectors.exe
-C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\4. Generating 0-1 Vectors\bin\Debug\_4.Generating_0_1_Vectors.pdb
-C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\4. Generating 0-1 Vectors\obj\Debug\4. Generating 0-1 Vectors.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\4. Generating 0-1 Vectors\obj\Debug\4. Generating 0-1 Vectors.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\4. Generating 0-1 Vectors\obj\Debug\_4.Generating_0_1_Vectors.exe
-C:\Elie\SoftUni\Live\Algorithms\1.Recursion, Sorting and Searching Algorithms\1. Recursion\4. Generating 0-1 Vectors\obj\Debug\_4.Generating_0_1_Vectors.pdb

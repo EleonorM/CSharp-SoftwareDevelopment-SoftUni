@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\01. Stadium Income\bin\Debug\_01.Stadium_Income.exe.config
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\01. Stadium Income\bin\Debug\_01.Stadium_Income.exe
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\01. Stadium Income\bin\Debug\_01.Stadium_Income.pdb
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\01. Stadium Income\obj\Debug\01. Stadium Income.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\01. Stadium Income\obj\Debug\01. Stadium Income.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\01. Stadium Income\obj\Debug\_01.Stadium_Income.exe
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\01. Stadium Income\obj\Debug\_01.Stadium_Income.pdb

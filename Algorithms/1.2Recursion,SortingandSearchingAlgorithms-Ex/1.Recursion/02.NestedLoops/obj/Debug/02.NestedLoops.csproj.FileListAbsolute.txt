@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\02.NestedLoops\bin\Debug\02.NestedLoops.exe.config
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\02.NestedLoops\bin\Debug\02.NestedLoops.exe
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\02.NestedLoops\bin\Debug\02.NestedLoops.pdb
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\02.NestedLoops\obj\Debug\02.NestedLoops.csprojAssemblyReference.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\02.NestedLoops\obj\Debug\02.NestedLoops.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\02.NestedLoops\obj\Debug\02.NestedLoops.exe
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\02.NestedLoops\obj\Debug\02.NestedLoops.pdb

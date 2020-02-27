@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\03.CombinationswithRepetition\bin\Debug\03.CombinationswithRepetition.exe.config
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\03.CombinationswithRepetition\bin\Debug\03.CombinationswithRepetition.exe
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\03.CombinationswithRepetition\bin\Debug\03.CombinationswithRepetition.pdb
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\03.CombinationswithRepetition\obj\Debug\03.CombinationswithRepetition.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\03.CombinationswithRepetition\obj\Debug\03.CombinationswithRepetition.exe
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\03.CombinationswithRepetition\obj\Debug\03.CombinationswithRepetition.pdb
-C:\Elie\SoftUni\CSharp-SoftUni\Algorithms\1.2Recursion,SortingandSearchingAlgorithms-Ex\1.Recursion\03.CombinationswithRepetition\obj\Debug\03.CombinationswithRepetition.csprojAssemblyReference.cache

@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\04. Best Player\bin\Debug\_04.Best_Player.exe.config
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\04. Best Player\bin\Debug\_04.Best_Player.exe
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\04. Best Player\bin\Debug\_04.Best_Player.pdb
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\04. Best Player\obj\Debug\04. Best Player.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\04. Best Player\obj\Debug\04. Best Player.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\04. Best Player\obj\Debug\_04.Best_Player.exe
-C:\Elie\SoftUni\Live\Basic\02Programming Basics Online Exam 28, 29 July 2018\04. Best Player\obj\Debug\_04.Best_Player.pdb

@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\03. Honeymoon\bin\Debug\_03.Honeymoon.exe.config
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\03. Honeymoon\bin\Debug\_03.Honeymoon.exe
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\03. Honeymoon\bin\Debug\_03.Honeymoon.pdb
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\03. Honeymoon\obj\Debug\03. Honeymoon.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\03. Honeymoon\obj\Debug\03. Honeymoon.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\03. Honeymoon\obj\Debug\_03.Honeymoon.exe
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\03. Honeymoon\obj\Debug\_03.Honeymoon.pdb

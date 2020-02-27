@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\04. Wedding Decoration\bin\Debug\_04.Wedding_Decoration.exe.config
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\04. Wedding Decoration\bin\Debug\_04.Wedding_Decoration.exe
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\04. Wedding Decoration\bin\Debug\_04.Wedding_Decoration.pdb
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\04. Wedding Decoration\obj\Debug\04. Wedding Decoration.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\04. Wedding Decoration\obj\Debug\_04.Wedding_Decoration.exe
-C:\Elie\SoftUni\Live\Basic\01Programming Basics Online Exam 3 and 4 Nov 2018\04. Wedding Decoration\obj\Debug\_04.Wedding_Decoration.pdb
