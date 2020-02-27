@@ -83,7 +83,7 @@
 
         public bool UserIsInTrip(string tripId, string userId)
         {
-            var userTrip = this.db.UserTrips.Select(x => x.TripId).ToList();
+            var userTrip = this.db.UserTrips.Where(x=>x.TripId == tripId).Select(x => x.UserId).ToList();
             if (userTrip.Count == 0)
             {
                 return false;
