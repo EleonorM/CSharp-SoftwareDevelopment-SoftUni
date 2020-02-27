@@ -1,8 +1,0 @@
-C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\Exams\Exam - 04 November 2018\SIS\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.deps.json
-C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\Exams\Exam - 04 November 2018\SIS\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.dll
-C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\Exams\Exam - 04 November 2018\SIS\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.pdb
-C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\Exams\Exam - 04 November 2018\SIS\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\Exams\Exam - 04 November 2018\SIS\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfoInputs.cache
-C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\Exams\Exam - 04 November 2018\SIS\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfo.cs
-C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\Exams\Exam - 04 November 2018\SIS\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.dll
-C:\Elie\SoftUni\Projects\C# Web\C# Web Basics\Exams\Exam - 04 November 2018\SIS\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.pdb
