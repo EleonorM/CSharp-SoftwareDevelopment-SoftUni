@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\04.MiddleNodes\bin\Debug\04.MiddleNodes.exe.config
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\04.MiddleNodes\bin\Debug\04.MiddleNodes.exe
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\04.MiddleNodes\bin\Debug\04.MiddleNodes.pdb
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\04.MiddleNodes\obj\Debug\04.MiddleNodes.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\04.MiddleNodes\obj\Debug\04.MiddleNodes.exe
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\04.MiddleNodes\obj\Debug\04.MiddleNodes.pdb

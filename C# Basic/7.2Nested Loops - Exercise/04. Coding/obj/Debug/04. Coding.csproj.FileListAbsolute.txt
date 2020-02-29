@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\04. Coding\bin\Debug\_04.Coding.exe.config
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\04. Coding\bin\Debug\_04.Coding.exe
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\04. Coding\bin\Debug\_04.Coding.pdb
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\04. Coding\obj\Debug\04. Coding.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\04. Coding\obj\Debug\_04.Coding.exe
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\04. Coding\obj\Debug\_04.Coding.pdb

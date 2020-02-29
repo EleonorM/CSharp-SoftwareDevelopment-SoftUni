@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\09. Fishing\bin\Debug\_09.Fishing.exe.config
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\09. Fishing\bin\Debug\_09.Fishing.exe
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\09. Fishing\bin\Debug\_09.Fishing.pdb
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\09. Fishing\obj\Debug\09. Fishing.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\09. Fishing\obj\Debug\09. Fishing.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\09. Fishing\obj\Debug\_09.Fishing.exe
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\09. Fishing\obj\Debug\_09.Fishing.pdb

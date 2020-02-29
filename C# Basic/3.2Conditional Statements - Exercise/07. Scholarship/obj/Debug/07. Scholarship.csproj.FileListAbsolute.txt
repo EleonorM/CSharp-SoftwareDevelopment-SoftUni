@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\07. Scholarship\bin\Debug\_07.Scholarship.exe.config
-C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\07. Scholarship\bin\Debug\_07.Scholarship.exe
-C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\07. Scholarship\bin\Debug\_07.Scholarship.pdb
-C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\07. Scholarship\obj\Debug\07. Scholarship.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\07. Scholarship\obj\Debug\07. Scholarship.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\07. Scholarship\obj\Debug\_07.Scholarship.exe
-C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\07. Scholarship\obj\Debug\_07.Scholarship.pdb

@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\03.LeafNodes\bin\Debug\03.LeafNodes.exe.config
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\03.LeafNodes\bin\Debug\03.LeafNodes.exe
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\03.LeafNodes\bin\Debug\03.LeafNodes.pdb
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\03.LeafNodes\obj\Debug\03.LeafNodes.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\03.LeafNodes\obj\Debug\03.LeafNodes.exe
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\03.LeafNodes\obj\Debug\03.LeafNodes.pdb
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\03.LeafNodes\obj\Debug\03.LeafNodes.csprojAssemblyReference.cache

@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\4.2BinarySearchTrees-Ex\BinarySearchTree\bin\Debug\BinarySearchTree.exe.config
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\4.2BinarySearchTrees-Ex\BinarySearchTree\bin\Debug\BinarySearchTree.exe
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\4.2BinarySearchTrees-Ex\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\4.2BinarySearchTrees-Ex\BinarySearchTree\obj\Debug\BinarySearchTree.csprojAssemblyReference.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\4.2BinarySearchTrees-Ex\BinarySearchTree\obj\Debug\BinarySearchTree.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\4.2BinarySearchTrees-Ex\BinarySearchTree\obj\Debug\BinarySearchTree.exe
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\4.2BinarySearchTrees-Ex\BinarySearchTree\obj\Debug\BinarySearchTree.pdb

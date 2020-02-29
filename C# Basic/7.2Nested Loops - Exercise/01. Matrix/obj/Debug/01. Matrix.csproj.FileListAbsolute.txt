@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\01. Matrix\bin\Debug\_01.Matrix.exe.config
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\01. Matrix\bin\Debug\_01.Matrix.exe
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\01. Matrix\bin\Debug\_01.Matrix.pdb
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\01. Matrix\obj\Debug\01. Matrix.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\01. Matrix\obj\Debug\01. Matrix.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\01. Matrix\obj\Debug\_01.Matrix.exe
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\01. Matrix\obj\Debug\_01.Matrix.pdb

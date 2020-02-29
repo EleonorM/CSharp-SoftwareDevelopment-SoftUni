@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\05.DeepestNode\bin\Debug\05.DeepestNode.exe.config
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\05.DeepestNode\bin\Debug\05.DeepestNode.exe
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\05.DeepestNode\bin\Debug\05.DeepestNode.pdb
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\05.DeepestNode\obj\Debug\05.DeepestNode.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\05.DeepestNode\obj\Debug\05.DeepestNode.exe
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\05.DeepestNode\obj\Debug\05.DeepestNode.pdb
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\05.DeepestNode\obj\Debug\05.DeepestNode.csprojAssemblyReference.cache

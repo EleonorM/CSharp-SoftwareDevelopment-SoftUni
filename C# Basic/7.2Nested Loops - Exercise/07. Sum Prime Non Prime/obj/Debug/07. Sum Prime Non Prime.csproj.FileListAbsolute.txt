@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\07. Sum Prime Non Prime\bin\Debug\_07.Sum_Prime_Non_Prime.exe.config
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\07. Sum Prime Non Prime\bin\Debug\_07.Sum_Prime_Non_Prime.exe
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\07. Sum Prime Non Prime\bin\Debug\_07.Sum_Prime_Non_Prime.pdb
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\07. Sum Prime Non Prime\obj\Debug\07. Sum Prime Non Prime.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\07. Sum Prime Non Prime\obj\Debug\07. Sum Prime Non Prime.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\07. Sum Prime Non Prime\obj\Debug\_07.Sum_Prime_Non_Prime.exe
-C:\Elie\SoftUni\Live\Basic\7.2Nested Loops - Exercise\07. Sum Prime Non Prime\obj\Debug\_07.Sum_Prime_Non_Prime.pdb

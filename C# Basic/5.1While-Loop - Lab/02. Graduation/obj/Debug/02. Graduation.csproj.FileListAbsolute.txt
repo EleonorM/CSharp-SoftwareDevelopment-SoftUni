@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\02. Graduation\bin\Debug\_02.Graduation.exe.config
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\02. Graduation\bin\Debug\_02.Graduation.exe
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\02. Graduation\bin\Debug\_02.Graduation.pdb
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\02. Graduation\obj\Debug\02. Graduation.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\02. Graduation\obj\Debug\02. Graduation.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\02. Graduation\obj\Debug\_02.Graduation.exe
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\02. Graduation\obj\Debug\_02.Graduation.pdb

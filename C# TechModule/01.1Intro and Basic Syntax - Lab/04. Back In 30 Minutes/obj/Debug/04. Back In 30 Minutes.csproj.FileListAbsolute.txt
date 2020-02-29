@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\04. Back In 30 Minutes\bin\Debug\_04.Back_In_30_Minutes.exe.config
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\04. Back In 30 Minutes\bin\Debug\_04.Back_In_30_Minutes.exe
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\04. Back In 30 Minutes\bin\Debug\_04.Back_In_30_Minutes.pdb
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\04. Back In 30 Minutes\obj\Debug\04. Back In 30 Minutes.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\04. Back In 30 Minutes\obj\Debug\04. Back In 30 Minutes.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\04. Back In 30 Minutes\obj\Debug\_04.Back_In_30_Minutes.exe
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\04. Back In 30 Minutes\obj\Debug\_04.Back_In_30_Minutes.pdb

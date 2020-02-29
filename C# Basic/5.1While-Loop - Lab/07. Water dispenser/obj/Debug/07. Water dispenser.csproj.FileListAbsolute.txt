@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\07. Water dispenser\bin\Debug\_07.Water_dispenser.exe.config
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\07. Water dispenser\bin\Debug\_07.Water_dispenser.exe
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\07. Water dispenser\bin\Debug\_07.Water_dispenser.pdb
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\07. Water dispenser\obj\Debug\07. Water dispenser.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\07. Water dispenser\obj\Debug\_07.Water_dispenser.exe
-C:\Elie\SoftUni\Live\Basic\5.1While-Loop - Lab\07. Water dispenser\obj\Debug\_07.Water_dispenser.pdb

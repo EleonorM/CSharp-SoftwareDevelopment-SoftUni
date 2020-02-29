@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\02. Mountain Run\bin\Debug\_02.Mountain_Run.exe.config
-C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\02. Mountain Run\bin\Debug\_02.Mountain_Run.exe
-C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\02. Mountain Run\bin\Debug\_02.Mountain_Run.pdb
-C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\02. Mountain Run\obj\Debug\02. Mountain Run.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\02. Mountain Run\obj\Debug\_02.Mountain_Run.exe
-C:\Elie\SoftUni\Live\Basic\Programming Basics Online Exam1,2 December 2018\02. Mountain Run\obj\Debug\_02.Mountain_Run.pdb

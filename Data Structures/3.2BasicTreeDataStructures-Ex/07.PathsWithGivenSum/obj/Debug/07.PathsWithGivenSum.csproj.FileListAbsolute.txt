@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\07.PathsWithGivenSum\bin\Debug\07.PathsWithGivenSum.exe.config
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\07.PathsWithGivenSum\bin\Debug\07.PathsWithGivenSum.exe
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\07.PathsWithGivenSum\bin\Debug\07.PathsWithGivenSum.pdb
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\07.PathsWithGivenSum\obj\Debug\07.PathsWithGivenSum.csprojAssemblyReference.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\07.PathsWithGivenSum\obj\Debug\07.PathsWithGivenSum.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\07.PathsWithGivenSum\obj\Debug\07.PathsWithGivenSum.exe
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\3.2BasicTreeDataStructures-Ex\07.PathsWithGivenSum\obj\Debug\07.PathsWithGivenSum.pdb

@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\03. Volleyball\bin\Debug\_03.Volleyball.exe.config
-C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\03. Volleyball\bin\Debug\_03.Volleyball.exe
-C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\03. Volleyball\bin\Debug\_03.Volleyball.pdb
-C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\03. Volleyball\obj\Debug\03. Volleyball.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\03. Volleyball\obj\Debug\03. Volleyball.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\03. Volleyball\obj\Debug\_03.Volleyball.exe
-C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\03. Volleyball\obj\Debug\_03.Volleyball.pdb

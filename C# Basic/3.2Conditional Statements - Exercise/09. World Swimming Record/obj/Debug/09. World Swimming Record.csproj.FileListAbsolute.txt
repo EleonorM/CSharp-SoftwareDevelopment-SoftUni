@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\09. World Swimming Record\bin\Debug\_09.World_Swimming_Record.exe.config
-C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\09. World Swimming Record\bin\Debug\_09.World_Swimming_Record.exe
-C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\09. World Swimming Record\bin\Debug\_09.World_Swimming_Record.pdb
-C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\09. World Swimming Record\obj\Debug\09. World Swimming Record.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\09. World Swimming Record\obj\Debug\09. World Swimming Record.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\09. World Swimming Record\obj\Debug\_09.World_Swimming_Record.exe
-C:\Elie\SoftUni\Live\202Conditional Statements - Exercise\09. World Swimming Record\obj\Debug\_09.World_Swimming_Record.pdb

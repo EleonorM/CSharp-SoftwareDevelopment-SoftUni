@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\04. Vacation\bin\Debug\_04.Vacation.exe.config
-C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\04. Vacation\bin\Debug\_04.Vacation.exe
-C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\04. Vacation\bin\Debug\_04.Vacation.pdb
-C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\04. Vacation\obj\Debug\04. Vacation.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\04. Vacation\obj\Debug\_04.Vacation.exe
-C:\Elie\SoftUni\Live\Basic\5.2While-Loop - Exercise\04. Vacation\obj\Debug\_04.Vacation.pdb

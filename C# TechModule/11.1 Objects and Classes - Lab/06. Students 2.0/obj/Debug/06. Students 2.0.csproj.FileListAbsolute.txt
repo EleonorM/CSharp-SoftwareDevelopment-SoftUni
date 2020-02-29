@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\06. Students 2.0\obj\Debug\06. Students 2.0.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\06. Students 2.0\bin\Debug\_06.Students_2._0.exe.config
-C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\06. Students 2.0\bin\Debug\_06.Students_2._0.exe
-C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\06. Students 2.0\bin\Debug\_06.Students_2._0.pdb
-C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\06. Students 2.0\obj\Debug\_06.Students_2._0.exe
-C:\Elie\SoftUni\Live\TechModule\11.Objects and Classes - Lab\06. Students 2.0\obj\Debug\_06.Students_2._0.pdb

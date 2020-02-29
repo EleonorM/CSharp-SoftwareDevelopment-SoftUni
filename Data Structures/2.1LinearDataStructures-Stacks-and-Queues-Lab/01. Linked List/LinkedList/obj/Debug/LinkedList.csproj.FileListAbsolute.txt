@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.1LinearDataStructures-Stacks-and-Queues-Lab\01. Linked List\LinkedList\bin\Debug\LinkedList.exe.config
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.1LinearDataStructures-Stacks-and-Queues-Lab\01. Linked List\LinkedList\bin\Debug\LinkedList.exe
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.1LinearDataStructures-Stacks-and-Queues-Lab\01. Linked List\LinkedList\bin\Debug\LinkedList.pdb
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.1LinearDataStructures-Stacks-and-Queues-Lab\01. Linked List\LinkedList\obj\Debug\LinkedList.csprojAssemblyReference.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.1LinearDataStructures-Stacks-and-Queues-Lab\01. Linked List\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.1LinearDataStructures-Stacks-and-Queues-Lab\01. Linked List\LinkedList\obj\Debug\LinkedList.exe
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.1LinearDataStructures-Stacks-and-Queues-Lab\01. Linked List\LinkedList\obj\Debug\LinkedList.pdb

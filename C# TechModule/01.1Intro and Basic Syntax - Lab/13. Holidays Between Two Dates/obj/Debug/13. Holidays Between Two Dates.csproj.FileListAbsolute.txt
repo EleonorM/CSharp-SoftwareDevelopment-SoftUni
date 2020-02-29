@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\13. Holidays Between Two Dates\bin\Debug\_13.Holidays_Between_Two_Dates.exe.config
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\13. Holidays Between Two Dates\bin\Debug\_13.Holidays_Between_Two_Dates.exe
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\13. Holidays Between Two Dates\bin\Debug\_13.Holidays_Between_Two_Dates.pdb
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\13. Holidays Between Two Dates\obj\Debug\13. Holidays Between Two Dates.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\13. Holidays Between Two Dates\obj\Debug\_13.Holidays_Between_Two_Dates.exe
-C:\Elie\SoftUni\Live\TechModule\1.1Intro and Basic Syntax - Lab\13. Holidays Between Two Dates\obj\Debug\_13.Holidays_Between_Two_Dates.pdb

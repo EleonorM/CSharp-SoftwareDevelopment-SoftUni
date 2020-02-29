@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.2LinearDataStructures-Stacks-Queues-Ex\06\bin\Debug\06.exe.config
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.2LinearDataStructures-Stacks-Queues-Ex\06\bin\Debug\06.exe
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.2LinearDataStructures-Stacks-Queues-Ex\06\bin\Debug\06.pdb
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.2LinearDataStructures-Stacks-Queues-Ex\06\obj\Debug\06.csprojAssemblyReference.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.2LinearDataStructures-Stacks-Queues-Ex\06\obj\Debug\06.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.2LinearDataStructures-Stacks-Queues-Ex\06\obj\Debug\06.exe
-C:\Elie\SoftUni\CSharp-SoftUni\Data Structures\2.2LinearDataStructures-Stacks-Queues-Ex\06\obj\Debug\06.pdb

@@ -1,6 +1,0 @@
-C:\Elie\SoftUni\Live\4.1.Nested Conditional Statements - Lab\07. Trade Comissions\bin\Debug\_07.Trade_Comissions.exe.config
-C:\Elie\SoftUni\Live\4.1.Nested Conditional Statements - Lab\07. Trade Comissions\bin\Debug\_07.Trade_Comissions.exe
-C:\Elie\SoftUni\Live\4.1.Nested Conditional Statements - Lab\07. Trade Comissions\bin\Debug\_07.Trade_Comissions.pdb
-C:\Elie\SoftUni\Live\4.1.Nested Conditional Statements - Lab\07. Trade Comissions\obj\Debug\07. Trade Comissions.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\4.1.Nested Conditional Statements - Lab\07. Trade Comissions\obj\Debug\_07.Trade_Comissions.exe
-C:\Elie\SoftUni\Live\4.1.Nested Conditional Statements - Lab\07. Trade Comissions\obj\Debug\_07.Trade_Comissions.pdb

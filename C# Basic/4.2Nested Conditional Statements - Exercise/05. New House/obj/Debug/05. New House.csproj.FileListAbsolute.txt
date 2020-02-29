@@ -1,7 +1,0 @@
-C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\05. New House\bin\Debug\_05.New_House.exe.config
-C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\05. New House\bin\Debug\_05.New_House.exe
-C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\05. New House\bin\Debug\_05.New_House.pdb
-C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\05. New House\obj\Debug\05. New House.csprojAssemblyReference.cache
-C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\05. New House\obj\Debug\05. New House.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\05. New House\obj\Debug\_05.New_House.exe
-C:\Elie\SoftUni\Live\4.2Nested Conditional Statements - Exercise\05. New House\obj\Debug\_05.New_House.pdb

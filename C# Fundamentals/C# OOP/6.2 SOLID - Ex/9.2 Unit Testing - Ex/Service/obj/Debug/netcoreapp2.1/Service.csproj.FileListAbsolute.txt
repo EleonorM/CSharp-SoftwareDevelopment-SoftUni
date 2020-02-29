@@ -1,9 +1,0 @@
-C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\Service\bin\Debug\netcoreapp2.1\Service.deps.json
-C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\Service\bin\Debug\netcoreapp2.1\Service.dll
-C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\Service\bin\Debug\netcoreapp2.1\Service.pdb
-C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\Service\obj\Debug\netcoreapp2.1\Service.csprojAssemblyReference.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\Service\obj\Debug\netcoreapp2.1\Service.csproj.CoreCompileInputs.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfoInputs.cache
-C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfo.cs
-C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\Service\obj\Debug\netcoreapp2.1\Service.dll
-C:\Elie\SoftUni\CSharp-SoftUni\Fundamentals\C# OOP\9.2 Unit Testing - Ex\Service\obj\Debug\netcoreapp2.1\Service.pdb

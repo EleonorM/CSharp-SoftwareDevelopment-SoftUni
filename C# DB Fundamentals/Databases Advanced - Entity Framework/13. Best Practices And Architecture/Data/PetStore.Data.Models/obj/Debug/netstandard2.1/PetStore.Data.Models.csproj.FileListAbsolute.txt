@@ -1,8 +1,0 @@
-C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\Data\PetStore.Data.Models\bin\Debug\netstandard2.1\PetStore.Data.Models.deps.json
-C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\Data\PetStore.Data.Models\bin\Debug\netstandard2.1\PetStore.Data.Models.dll
-C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\Data\PetStore.Data.Models\bin\Debug\netstandard2.1\PetStore.Data.Models.pdb
-C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\Data\PetStore.Data.Models\obj\Debug\netstandard2.1\PetStore.Data.Models.AssemblyInfoInputs.cache
-C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\Data\PetStore.Data.Models\obj\Debug\netstandard2.1\PetStore.Data.Models.AssemblyInfo.cs
-C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\Data\PetStore.Data.Models\obj\Debug\netstandard2.1\PetStore.Data.Models.dll
-C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\Data\PetStore.Data.Models\obj\Debug\netstandard2.1\PetStore.Data.Models.pdb
-C:\Elie\SoftUni\Projects\C# DB Fundamentals\Databases Advanced - Entity Framework\13. Best Practices And Architecture\Data\PetStore.Data.Models\obj\Debug\netstandard2.1\PetStore.Data.Models.csprojAssemblyReference.cache
