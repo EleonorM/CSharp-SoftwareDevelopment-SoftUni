@@ -41,6 +41,7 @@ public class CircularQueue<T>
             throw new InvalidOperationException();
         }
         var returnedElement = elements[startIndex];
+        elements[startIndex] = default;
         startIndex = startIndex != elements.Length - 1 ? startIndex + 1 : 0;
         Count--;
         return returnedElement;
@@ -80,7 +81,6 @@ public class CircularQueue<T>
         }
     }
 }
-
 
 class Example
 {
