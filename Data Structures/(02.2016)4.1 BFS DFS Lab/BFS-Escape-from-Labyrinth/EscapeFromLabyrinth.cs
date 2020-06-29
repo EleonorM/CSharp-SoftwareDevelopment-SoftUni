@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 
 public class EscapeFromLabyrinth
@@ -14,7 +12,7 @@ public class EscapeFromLabyrinth
     public static void Main()
     {
         ReadLabirinth();
-      var path =  FindShortestPathToExit();
+        var path = FindShortestPathToExit();
         PrintPath(path);
     }
 
@@ -24,7 +22,7 @@ public class EscapeFromLabyrinth
         {
             Console.WriteLine("No exit!");
         }
-        else if (path =="")
+        else if (path == "")
         {
             Console.WriteLine("Start is at the exit.");
         }
