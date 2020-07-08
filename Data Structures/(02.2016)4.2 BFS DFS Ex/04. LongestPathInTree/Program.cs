@@ -40,8 +40,8 @@
             }
 
             var root = FindRoot();
-           var nodesInPath = root.FindLongestPathBySum();
-            Console.WriteLine(nodesInPath.Select(x => x.Value).Sum());
+            var sumNodesInPath = root.FindLongestPathBySum();
+            Console.WriteLine(sumNodesInPath);
         }
 
         private static Node FindRoot()
