@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.AvlTree", "01.AvlTree\01.AvlTree.csproj", "{0BF54B07-DA0B-40EF-851B-3F7CBA4ACDCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.RangeInTree", "02.RangeInTree\02.RangeInTree.csproj", "{4C0FDCE1-233F-4B69-9458-4DA70F1AC53E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BF54B07-DA0B-40EF-851B-3F7CBA4ACDCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF54B07-DA0B-40EF-851B-3F7CBA4ACDCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF54B07-DA0B-40EF-851B-3F7CBA4ACDCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF54B07-DA0B-40EF-851B-3F7CBA4ACDCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C0FDCE1-233F-4B69-9458-4DA70F1AC53E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C0FDCE1-233F-4B69-9458-4DA70F1AC53E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C0FDCE1-233F-4B69-9458-4DA70F1AC53E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C0FDCE1-233F-4B69-9458-4DA70F1AC53E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C980AFC8-A176-497B-A28A-64641EEC1449}
+	EndGlobalSection
+EndGlobal
