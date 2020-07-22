@@ -1,4 +1,4 @@
-﻿namespace _06.ConnectedAreasinMatrix
+﻿namespace _07.ConnectedAreasInAMatrix
 {
     using System;
     using System.Collections.Generic;
@@ -174,6 +174,6 @@
 
         private static void MarkVisitedCell(int row, int col) => field[row, col] = '-';
 
-        private static bool CanContiniue(int row, int col) => IsInside(row, col) && (field[row, col] == ' ');
+        private static bool CanContiniue(int row, int col) => IsInside(row, col) && field[row, col] == ' ';
     }
 }
