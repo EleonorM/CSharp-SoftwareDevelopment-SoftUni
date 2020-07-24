@@ -19,7 +19,7 @@
             public InvokeCounter(int[] array)
             {
                 helperArray = new int[array.Length];
-                Count= Sort(array, 0, array.Length - 1);
+                Count = Sort(array, 0, array.Length - 1);
             }
 
             public int Count { get; private set; }

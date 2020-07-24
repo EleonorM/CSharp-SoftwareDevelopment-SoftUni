@@ -1,15 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _05.Words
+﻿namespace _05.Words
 {
+    using System;
+    using System.Collections.Generic;
+
     public class Program
     {
         static int count;
         static char[] symbols;
+
         public static void Main(string[] args)
         {
             symbols = Console.ReadLine().ToCharArray();
