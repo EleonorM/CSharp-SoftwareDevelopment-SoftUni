@@ -8,11 +8,16 @@
         {
             var n = int.Parse(Console.ReadLine());
             var k = int.Parse(Console.ReadLine());
-            var firstRow = new int[n+1];
+            var firstRow = new long[n + 1];
+            var secondRow = new long[n + 1];
             firstRow[0] = 1;
-            var secondRow = new int[n+1];
             secondRow[0] = 1;
             secondRow[1] = 1;
+
+            if (k > n)
+            {
+                Console.WriteLine(0);
+            }
 
             for (int i = 2; i <= n; i++)
             {
@@ -44,7 +49,6 @@
             {
                 Console.WriteLine(secondRow[k]);
             }
-
         }
     }
 }
