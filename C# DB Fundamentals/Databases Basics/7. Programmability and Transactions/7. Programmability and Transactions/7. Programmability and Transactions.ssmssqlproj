@@ -3,7 +3,7 @@
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
-        <ConnectionNode Name="ELI-PC\SQLEXPRESS:ELI-PC\eleonor">
+        <ConnectionNode Name="ELI-PC\SQLEXPRESS:ELI-PC\Eleonor">
           <Created>2019-09-16T21:52:18.7278225+03:00</Created>
           <Type>SQL</Type>
           <Server>ELI-PC\SQLEXPRESS</Server>
@@ -126,12 +126,6 @@
           <AssociatedConnSrvName>ELI-PC\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>18. Money Transfer.sql</FullPath>
-        </FileNode>
-        <FileNode Name="19. Trigger.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ELI-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>ELI-PC\SQLEXPRESS</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>19. Trigger.sql</FullPath>
         </FileNode>
         <FileNode Name="20. Massive Shopping.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ELI-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>

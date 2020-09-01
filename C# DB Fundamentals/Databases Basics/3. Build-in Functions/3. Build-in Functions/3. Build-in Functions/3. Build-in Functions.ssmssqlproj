@@ -3,7 +3,19 @@
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
-        <ConnectionNode Name="ELI-PC\SQLEXPRESS:ELI-PC\eleonor">
+        <ConnectionNode Name="(localdb)\MSSQLLocalDB:ELI-PC\Eleonor">
+          <Created>2020-08-28T14:32:12.1290639+03:00</Created>
+          <Type>SQL</Type>
+          <Server>(localdb)\MSSQLLocalDB</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="ELI-PC\SQLEXPRESS:ELI-PC\Eleonor">
           <Created>2019-09-04T20:20:17.2860258+03:00</Created>
           <Type>SQL</Type>
           <Server>ELI-PC\SQLEXPRESS</Server>
@@ -32,8 +44,8 @@
           <FullPath>02. Find Names of All employees by Last Name .sql</FullPath>
         </FileNode>
         <FileNode Name="03. Find First Names of All Employees.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ELI-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>ELI-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\MSSQLLocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>03. Find First Names of All Employees.sql</FullPath>
         </FileNode>
@@ -50,8 +62,8 @@
           <FullPath>05. Find Towns with Name Length.sql</FullPath>
         </FileNode>
         <FileNode Name="06. Find Towns Starting With.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ELI-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>ELI-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\MSSQLLocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>06. Find Towns Starting With.sql</FullPath>
         </FileNode>
@@ -74,8 +86,8 @@
           <FullPath>09. Length of Last Name.sql</FullPath>
         </FileNode>
         <FileNode Name="10. Rank Employees by Salary.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ELI-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>ELI-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\MSSQLLocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>10. Rank Employees by Salary.sql</FullPath>
         </FileNode>
@@ -92,8 +104,8 @@
           <FullPath>12. Countries Holding 'A'.sql</FullPath>
         </FileNode>
         <FileNode Name="13. Mix of Peak and River Names.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ELI-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>ELI-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\MSSQLLocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>13. Mix of Peak and River Names.sql</FullPath>
         </FileNode>
