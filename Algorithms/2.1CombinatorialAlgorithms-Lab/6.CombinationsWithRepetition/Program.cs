@@ -1,6 +1,6 @@
-﻿namespace _5.CombinationsWithoutRepetition
+﻿namespace _6.CombinationsWithRepetition
 {
-    using System;
+using System;
 
     public class Program
     {
@@ -26,7 +26,7 @@
                 for (int i = start; i < sizeOfSet; i++)
                 {
                     variations[index] = elements[i];
-                    GenerateCombinations(sizeOfSet, index + 1, i + 1);
+                    GenerateCombinations(sizeOfSet, index + 1, i );
                 }
             }
         }

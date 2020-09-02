@@ -1,30 +1,37 @@
 ﻿namespace _2.PermutationsWithRepetitions
 {
     using System;
-    using System.Linq;
+    using System.Collections.Generic;
 
     public class Program
     {
-        public static void Permute(char[] elements, int start, int end)
+        private static char[] elements;
+
+        public static void Main()
         {
-            Print(elements);
-            for (int left = end - 1; left >= start; left--)
+            elements = Console.ReadLine().Replace(" ", string.Empty).ToCharArray();
+            Permute(elements, 0);
+        }
+
+        public static void Permute(char[] elements, int index)
+        {
+            if (index >= elements.Length)
             {
-                for (int right = left + 1; right <= end; right++)
+                Print(elements);
+            }
+            else
+            {
+                var swapped = new HashSet<char>();
+                for (int i = index; i < elements.Length; i++)
                 {
-                    if (elements[left] != elements[right])
+                    if (!swapped.Contains(elements[i]))
                     {
-                        Swap(ref elements[left], ref elements[right]);
-                        Permute(elements, left + 1, end);
+                        Swap(index, i);
+                        Permute(elements, index + 1);
+                        Swap(index, i);
+                        swapped.Add(elements[i]);
                     }
                 }
-
-                var firstElement = elements[left];
-                for (int i = left; i <= end - 1; i++)
-                {
-                    elements[i] = elements[i + 1];
-                }
-                elements[end] = firstElement;
             }
         }
 
@@ -33,18 +40,11 @@
             Console.WriteLine(string.Join(" ", elements));
         }
 
-        private static void Swap(ref char first, ref char second)
+        private static void Swap(int first, int second)
         {
-            var temp = first;
-            first = second;
-            second = temp;
-        }
-
-        public static void Main()
-        {
-            var elements = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(char.Parse).ToArray();
-            Array.Sort(elements);
-            Permute(elements, 0, elements.Length - 1);
+            var temp = elements[first];
+            elements[first] = elements[second];
+            elements[second] = temp;
         }
     }
 }
