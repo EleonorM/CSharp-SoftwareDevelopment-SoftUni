@@ -2,7 +2,7 @@
 
 <a href="https://softuni.bg/trainings/courses" rel="Courses">  ![SoftUni logo][logo] <a/>
 
-[logo]: http://innovationstarterbox.bg/wp-content/uploads/2016/05/Softuni_logo_trasparent.png "Logo"
+[logo]: https://softuni.bg/content/images/header/white-horizontal-logo-university.svg "Logo"
 
 <br/>
 <br/>
